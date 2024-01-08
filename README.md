@@ -1,6 +1,8 @@
 # Cypherpunktimes-articles
 
-Testing out the review process. I need to write a list of instruction.
+## This new repo is for collaborative work on CT content.
+
+## Testing out the review process. I need to write a list of instruction.
 
 Steps:
 
