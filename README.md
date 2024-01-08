@@ -6,10 +6,14 @@
 
 Steps:
 
-1. Fork the "reviewed-articles" folder. I called the new folder "articles-for-review". This has copied the complete repo
-2. In the "articles-for-review" fork go to the "reviewed-articles" folder and create a new document
-3. Share link of this document in the writers channel for review
-4. ?? In the "pull request" area you'll see the versions of this document ??
-5. ?? Click on the latest one, which is at the bottom of the list ??
-6. ?? Clicking on a + icon will allow you and others to add comments to the relevant section of the article ??
-7. ??
+1. Create a new document / folder if necessary
+2. Press the "Commit changes" button
+3. In the popup window add a description e.g. "review my article on ..."
+4. At the bottom of this popup window press the "Create a new branch for this commit and start a pull request" button
+5. Press the "Commit changes" button
+6. Share the pull request link for this document in the writers channel for review
+7. To review this document click on the pull request link and head over to the "Commits tab" and navigate to the latest version of the document
+   
+8. ?? Click on the latest one, which is at the bottom of the list ??
+9. ?? Clicking on a + icon will allow you and others to add comments to the relevant section of the article ??
+10. ?? Press the submit button to add
