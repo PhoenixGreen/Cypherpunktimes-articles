@@ -1,4 +1,4 @@
-# What is Simple Payment Verification (SPV)  - Moving forward (better title needed)
+# Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way
 
 There is a need for mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets sacrifice the security of a fully validating wallet for easy of use. SPV challenges this convention by providing a high level of security whilst improving the user experience. 
 
