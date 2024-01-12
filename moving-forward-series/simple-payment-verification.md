@@ -14,7 +14,7 @@ When Decred implemented the “Block Header Commitments” consensus upgrade in 
 ## Lite clients vs SPV
 SPV and Fully validating nodes are my wallets of choice, as they offer the highest levels of security whilst verifying blockchain data independently. But, of course, there are other solutions, commonly referred to as lite clients. A large majority of multi-coin wallets or exchange wallets favour lite clients or fully custodial wallets. This is mainly due to improving the user experience and making the functionality more streamlined by bypassing the verification and blockchain download process.
 
-A typical setup for a lite client wallet is to connect directly to a centralised server controlled, normally, by the wallet provider. Your wallet then uses the centralised server’s API to request information, like, what’s my balance, or what are my transactions. Which means you have to trust the information provided by the server in the hope that the server isn’t lying or providing inaccurate information.
+A typical setup for a lite client wallet is to connect directly to a centralised server controlled, normally, by the wallet provider. Your wallet then uses the centralised server’s API to request information, like, what’s my balance, or what are my transactions. This means your wallet must trust the information provided by a centralized server and hope that the server isn't lying or providing inaccurate information.
 
 There are a multitude of issues that could arise from this setup, including, what happens to your wallet and coins if a provider closes down? In essence, these wallet providers are the gateway to your funds, similar to that of a custodial service. Is it even possible to get your funds if the service is no longer available?
 
