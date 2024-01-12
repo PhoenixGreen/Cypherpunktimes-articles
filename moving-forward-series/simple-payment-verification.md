@@ -24,6 +24,6 @@ Another interesting thing about Decred's implementation of the SPV model is it w
 ## Benefits and drawbacks
 To conclude, SPV and Lite clients manage risk and functionality in various ways. If you require the highest assurances, there is still no better option than running a fully validating wallet. But if you’re seeking a lightweight alternative to interact with the blockchain, SPV is a pretty solid option that has seen many improvements over the last few years to increase security and privacy. 
 
-As it currently stands, the main drawbacks with using lite clients and custodial wallets over a properly implemented SPV system. Revolve around the ability to validate the data the wallet receives and the need to trust third-party services or servers to process the information required. 
+As it currently stands, the main drawbacks with using lite clients revolve around having to trust centralised third-party services instead of the decentralised network.
 
 There is a need for lightweight wallets and currently Decred’s SPV is a shining example of how this can be achieved whilst still being in full control of your coins, data, and privacy.
