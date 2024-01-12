@@ -1,6 +1,6 @@
 # Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way
 
-There is a need for mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets sacrifice the security of a fully validating wallet for easy of use. SPV challenges this convention by providing a high level of security whilst improving the user experience. 
+People need mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets make extreme security sacrifices in order to slightly improve ease of use. Including, the provision for a centralised node to serve requests to the wallet software. This is a trust model that processes all wallet information, sent and received, through a single point of failure. SPV challenges this convention by providing a high level of security whilst improving the user experience. 
 
 ## Fast and Small
 If you’re looking for a non-custodial mobile wallet, Simplified Payment Verification (SPV) is an ideal solution.  SPV is designed to be intentionally lightweight, as it interacts with the blockchain by only fetching and downloading the data, that is absolutely necessary. This includes block headers, block filters, and the full blocks that contain transaction data directly associated with the wallet. As you can imagine, this reduces the size, setup, and sync times considerably from hours to minutes. In Decred’s case, the required storage space of a fully validating node is approximately 12 GB while its SPV counterpart is approximately 0.6 GB.
