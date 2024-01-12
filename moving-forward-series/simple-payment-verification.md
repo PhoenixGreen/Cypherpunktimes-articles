@@ -8,7 +8,7 @@ If you’re looking for a non-custodial mobile wallet, Simplified Payment Verifi
 ## Compact Block Filters
 One aspect that aids in this design and makes the method extremely compact is the use of filters. SPV relies on the ability to identify and retrieve relevant transactions from the blockchain. Filters act like a search mechanism to help an SPV wallet find transactions it should care about. Decred’s Compact filters allow SPV nodes to retrieve this information without having to reveal or leak information regarding coin ownership. For instance, SPV nodes can ask full node peers for blocks that contain matching data without revealing addresses, keys, or the transactions they are looking for. Decred's filtering process is completed in the wallet to enhance privacy. Older methods of filtering put the entire workload onto the full nodes running the network, which is bad for network efficiency and privacy.
 
-## Decred’s Implementation of SPV
+## Decred’s Implementation of the SPV model
 When Decred implemented the “Block Header Commitments” consensus upgrade in 2020 (DCP: 0005 “Block Header Commitments”) it focused on mitigating against these attack vectors to bring the SPV security level closer to that of a fully validating node. This was done through a combination of committed fraud proofs, inclusion proofs, and filters. SPV nodes on the Decred network can now quickly verify associated transactions and securely reject the invalid ones accordingly. 
 
 ## Lite clients vs SPV
