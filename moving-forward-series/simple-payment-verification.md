@@ -8,7 +8,7 @@ If you're looking for a non-custodial mobile wallet, the ideal solution is one t
 
 ## How does Decred's SPV wallet work? (a simple example)
 
-Imagine we are a light wallet. Our job is to track user's funds, more specifically to track addresses and transactions (having those we can compute the balances). Where do we get the data from? The blocks. We need data from the blocks. But we have restrictions. Since we want to be light and fast, we would rather not download and store the entire blockchain. We also would like to be private and secure, so we can't ask centralised servers "give me data for this address" as it would help them map our stuff.
+Imagine we are a light wallet. Our job is to track user's funds—more specifically to track addresses and transactions (having those we can compute the balances). Where do we get the data from? The blocks. We need data from the blocks. But we have restrictions. Since we want to be light and fast, we would rather not download and store the entire blockchain. We also would like to be private and secure, so we can't ask centralised servers "give me data for this address" as it would help them map our stuff.
 
 So we require some smart way to get data from the blocks to meet those restrictions. Here's what Decred does:
 *  The first step is to identify which blocks have our data. We connect to full nodes directly and download these tiny smart pieces of data called "filters", one filter for each block. 
