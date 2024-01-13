@@ -23,7 +23,7 @@ In essence, we "filter through" a very lightweight reflection of the full chain,
 
 ## Compact Block Filters
 
-SPV relies on the ability to identify and retrieve relevant transactions from the blockchain. Filters act like a search mechanism to help an SPV wallet find transactions it should care about. Decred’s Compact filters allow SPV nodes to retrieve this information without having to reveal or leak information regarding coin ownership. For instance, SPV nodes can ask full node peers for blocks that contain matching data without revealing addresses, keys, or the transactions they are looking for. Decred's filtering process is completed in the wallet to enhance privacy. Older methods of filtering put the entire workload onto the full nodes running the network, which is bad for network efficiency and privacy.
+SPV relies on the ability to identify and retrieve relevant transactions from the blockchain. Filters act like a search mechanism to help an SPV wallet find transactions it should care about. Decred's compact filters allow SPV wallets to retrieve this information without having to reveal or leak information regarding coin ownership. For instance, SPV wallets can ask full node peers for blocks that contain matching data without revealing addresses, keys, or the transactions they are looking for. Decred's filtering process is completed in the wallet to enhance privacy. Older methods of filtering put the entire workload onto the full nodes running the network, which is bad for network efficiency and privacy.
 
 ## Decred’s Implementation of the SPV model
 
