@@ -6,7 +6,7 @@ People need mobile wallets that are fast to set up, easy to use and very secure.
 
 If you're looking for a non-custodial mobile wallet, the ideal solution is one that uses the SPV model. SPV wallets are designed to be intentionally lightweight, as it interacts with the blockchain by only fetching and downloading the data, that is absolutely necessary. This includes block headers, block filters, and the full blocks that contain transaction information directly associated with the wallet. As you can imagine, this reduces the size, setup, and sync times considerably from hours to minutes. In Decred’s case, the required storage space of a fully validating node is approximately 12 GB, while its SPV counterpart is approximately 0.2 GB.
 
-## How does Decred’s SPV work (a simple example)
+## How does Decred's SPV wallet work? (a simple example)
 
 Imagine we are a light wallet. Our job is to track user's funds, more specifically to track addresses and transactions (having those we can compute the balances). Where do we get the data from? The blocks. We need data from the blocks. But we have restrictions. Since we want to be light and fast, we would rather not download and store the entire blockchain. We also would like to be private and secure, so we can't ask centralised servers "give me data for this address" as it would help them map our stuff.
 
