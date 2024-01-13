@@ -7,7 +7,7 @@
 * Create a new GitHub repo for your Cypherpunk Times articles in the "repositories" menu bar, "New" button
 * Give the repo a name, description, and click on the "add a readme file" button. Finally, press the "create" button
 
-## Creating new folders in your repo:
+## Creating new folders in your GitHub repo:
 
 * You should create a new folder for each series of articles you are working on, e.g. "Governance-Series", "Crypto-Market-Series” etc…
 * In your GitHub account, click on the repo link for your Cypherpunk Times articles (as created above)
