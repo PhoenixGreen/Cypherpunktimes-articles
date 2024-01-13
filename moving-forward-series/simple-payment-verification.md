@@ -47,4 +47,4 @@ To conclude, SPV and Lite clients manage risk and functionality in various ways.
 
 As it currently stands, the main drawbacks with using lite clients revolve around having to trust centralised third-party services instead of the decentralised network.
 
-There is a need for lightweight wallets and currently Decred’s SPV is a shining example of how this can be achieved while still allowing users to be in full control of their coins, data, and privacy.
+There is a need for lightweight wallets and currently Decred's SPV model is a shining example of how this can be achieved while still allowing users to be in full control of their coins, data, and privacy.
