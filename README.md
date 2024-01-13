@@ -40,7 +40,12 @@
 * Write articles in a dedicated text editor e.g. Word, Google Docs, Grammarly etc… Check for grammar and spelling before starting the review process. 
 
 ## GitHub review process
-  
+
 8. ?? Click on the latest one, which is at the bottom of the list ??
 9. ?? Clicking on a + icon allows you and others to add comments to the relevant section of the article ??
 10. ?? Press the submit button to add
+
+## GitHub Markdown
+* A single hashtag and a space # = title
+* Two hashtag and a space ## = subtitle
+* an asterisks = bullet point 
