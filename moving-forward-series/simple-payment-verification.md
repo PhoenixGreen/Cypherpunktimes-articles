@@ -1,6 +1,6 @@
 ## Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way.
 
-People need mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets make extreme security sacrifices in order to slightly improve ease of use. Including, the provision for a centralised node to serve requests to the wallet software. This is a trust model that processes all wallet information, sent and received, through a single point of failure. SPV challenges this convention by providing a high level of security whilst improving the user experience. 
+People need mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets make extreme security sacrifices in order to slightly improve ease of use. One example of a bad security practice is when a wallet has to trust a centralised node. This is a trust model that processes all wallet information, sent and received, through a single point of failure. A wallet using Simplified Payment Verification (SPV) challenges this convention by providing a high level of security whilst improving the user experience. 
 
 ## Fast and Small
 
