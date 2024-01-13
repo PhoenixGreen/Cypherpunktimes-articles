@@ -1,5 +1,3 @@
-@: Github Article review process
-
 # Cypherpunk Times review process
 
 Steps:
