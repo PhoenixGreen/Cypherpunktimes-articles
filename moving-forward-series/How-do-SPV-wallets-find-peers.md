@@ -1,0 +1,3 @@
+## How do SPV wallets find peers?
+
+Article in discussion...
