@@ -5,7 +5,7 @@ Article in discussion...
 
 ## SPV synchronising process
 
-**Neutron synchronising process:**
+**Neutrino synchronising process:**
 1. Headers-first synchronisation (downloads all headers from block 1?)
 2. Compact Filter Headers Download and Verification (downloads all filters from block 1 or other position?)
 3. Compact Filters Download and Verification (what happens here?)
