@@ -2,7 +2,7 @@
 
 Using GitHub for review process demo - https://youtu.be/AdrjFYXWpWw
 
-## Writers getting set up with GitHub:
+## Getting set up with GitHub:
 
 * Create a GitHub account
 * Ask to join “cypherpunktimes-articles” repo
