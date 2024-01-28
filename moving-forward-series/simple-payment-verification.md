@@ -1,8 +1,8 @@
 | Author | phoenixgreen |
 | :---- | :---- |
 | Title | Article Demo |
-| Headline / featured text | … |
-| Cypherpunktimes link | …. |
+| Headline  | featured text |
+| Cypherpunktimes | cypherpunktimes.com/...link |
 
 * Social media content: link …
 
