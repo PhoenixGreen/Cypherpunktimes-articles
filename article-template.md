@@ -1,7 +1,7 @@
 
-| Author | phoenixgreen |
+| Author | Author Name |
 | :---- | :---- |
-| Title | Article Demo |
+| Title | Article Name |
 | Headline  | featured text |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Jan 20?? |
