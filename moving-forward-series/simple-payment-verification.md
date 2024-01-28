@@ -1,10 +1,10 @@
----
-author: phoenixgreen
-Title: Article Demo
-Headline / featured text: ???
-Social media link: ???
-Cypherpunktimes article: link
----
+
+| author | phoenixgreen |
+| Title | Article Demo |
+| Headline / featured text | … |
+| Cypherpunktimes link | …. |
+
+* Social media content: link …
 
 ## Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way.
 
