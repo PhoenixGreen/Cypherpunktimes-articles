@@ -1,9 +1,13 @@
 # Cypherpunk Times review process
 
 Writing an article for cypherpunktimes.com consists of four main stages:
+
 **Stage 1:** Discussion
+
 **Stage 2:** Create article
+
 **Stage 3:** Review
+
 **Stage 4:** Social media
 
 # Getting started with GitHub:
