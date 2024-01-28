@@ -1,5 +1,7 @@
 # Cypherpunk Times review process
 
+Using GitHub for review process demo - https://youtu.be/AdrjFYXWpWw
+
 ## Writers getting set up with GitHub:
 
 * Create a GitHub account
