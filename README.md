@@ -10,7 +10,8 @@ Writing an article for cypherpunktimes.com consists of four main stages:
 
 **Stage 4:** Social media
 
-# Getting started with GitHub:
+
+#  Using GitHub for these stages
 
 Using GitHub for review process demo - https://youtu.be/AdrjFYXWpWw
 
