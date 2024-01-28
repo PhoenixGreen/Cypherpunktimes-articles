@@ -4,7 +4,11 @@
 | Headline  | featured text |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 
-* Social media content: link …
+| Social Media | Link |
+| :---- | :---- |
+| Twitter | link… |
+| Reddit  | link… |
+| Bison Really | News feed title |
 
 ## Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way.
 
