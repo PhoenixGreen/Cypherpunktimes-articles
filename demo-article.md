@@ -4,6 +4,7 @@
 | Title | Article Demo |
 | Headline  | featured text |
 | Cypherpunktimes | cypherpunktimes.com/...link |
+| Publish Date | 28 Jan 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
