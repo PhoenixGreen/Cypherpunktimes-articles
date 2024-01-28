@@ -1,8 +1,14 @@
 # Cypherpunk Times review process
 
-Using GitHub for review process demo - https://youtu.be/AdrjFYXWpWw
+Writing an article for cypherpunktimes.com consists of four main stages:
+**Stage 1:** Discussion
+**Stage 2:** Create article
+**Stage 3:** Review
+**Stage 4:** Social media
 
-## Getting set up with GitHub:
+# Getting started with GitHub:
+
+Using GitHub for review process demo - https://youtu.be/AdrjFYXWpWw
 
 * Create a GitHub account
 * Ask to join “cypherpunktimes-articles” repo
