@@ -1,3 +1,14 @@
+Published links:
+
+- [Cypherpunk Times](https://www.cypherpunktimes.com/can-a-crypto-wallet-be-lightweight-private-and-secure-the-spv-model-leads-the-way/) [2024-01-18]
+  - [ANN tweet](https://x.com/cypherpunktimes/status/1748067349062705158)
+- [YouTube](https://www.youtube.com/watch?v=cBqv0HH2pU4) (full 7 min video)
+  - [ANN tweet](https://x.com/DecredSociety/status/1748083926231290121)
+- [Twitter](https://x.com/decredproject/status/1748450782049894692) (full 7 min video)
+  - [Twitter clip 1](https://x.com/DecredSociety/status/1748094644083118383)
+  - [Twitter clip 2](https://x.com/DecredSociety/status/1748450803184980009)
+
+
 ## Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way.
 
 People need mobile wallets that are fast to set up, easy to use and very secure. All too often, mobile wallets make extreme security sacrifices in order to slightly improve ease of use. One example of a bad security practice is when a wallet has to trust a centralised node. This is a trust model that processes all wallet information, sent and received, through a single point of failure. A wallet using Simplified Payment Verification (SPV) challenges this convention by providing a high level of security whilst improving the user experience. 
