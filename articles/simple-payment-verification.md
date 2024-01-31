@@ -1,5 +1,8 @@
 |   |   |
 |---|---|
+| Title               | What is Simplified Payment Verification (SPV)? |
+| Author              | Phoenix Green |
+| Featured text       | Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way. |
 | CT link             | https://www.cypherpunktimes.com/can-a-crypto-wallet-be-lightweight-private-and-secure-the-spv-model-leads-the-way/ |
 | CT date             | 2024-01-18 |
 | CT tweet            | https://x.com/cypherpunktimes/status/1748067349062705158 |
