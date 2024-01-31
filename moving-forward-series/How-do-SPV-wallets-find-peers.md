@@ -1,3 +1,21 @@
+
+| Author | Phoenix Green |
+| :---- | :---- |
+| Title | How do SPV wallets find peers |
+| Headline  | Decred’s SPV has the full support of the network, is extremely fast, reliable, secure, private and lightweight. When you have this level of integration, the possibilities are limitless. |
+| Cypherpunktimes | https://www.cypherpunktimes.com/how-do-spv-wallets-find-peers/ |
+| Publish Date | 31 Jan 2024 |
+
+| Social Media | Link |
+| :---- | :---- |
+| Youtube | https://youtu.be/4XrPALy9NpY |
+| Podcast | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/How-do-SPV-wallets-find-peers-e2f6091/a-aatlslt |
+| Twitter Post | https://x.com/cypherpunktimes/status/1752644510327140522 |
+| Twitter Full Video | link… |
+| Twitter Clip 1 | https://x.com/DecredSociety/status/1752660030610960585?s=20 |
+| Reddit  | https://www.reddit.com/r/decred/comments/1afmtse/how_do_spv_wallets_find_peers/ |
+| Bison Relay | Title: How do SPV wallets find peers? |
+
 # How do SPV wallets find peers
 
 If you’ve ever used a multi-chain SPV (Simplified Payment Verification) wallet like DCRDEX, a few questions might pop to mind when comparing Decred against Bitcoin, Bitcoin Cash and Litecoin. Firstly, how does Decred’s SPV mode synchronise, so quickly when compared to the others? And secondly, why does Decred seem to have more available nodes to synchronise to? 
