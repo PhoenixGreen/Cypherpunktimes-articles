@@ -1,12 +1,13 @@
-Published links:
-
-- [Cypherpunk Times](https://www.cypherpunktimes.com/can-a-crypto-wallet-be-lightweight-private-and-secure-the-spv-model-leads-the-way/) [2024-01-18]
-  - [ANN tweet](https://x.com/cypherpunktimes/status/1748067349062705158)
-- [YouTube](https://www.youtube.com/watch?v=cBqv0HH2pU4) (full 7 min video)
-  - [ANN tweet](https://x.com/DecredSociety/status/1748083926231290121)
-- [Twitter](https://x.com/decredproject/status/1748450782049894692) (full 7 min video)
-  - [Twitter clip 1](https://x.com/DecredSociety/status/1748094644083118383)
-  - [Twitter clip 2](https://x.com/DecredSociety/status/1748450803184980009)
+|   |   |
+|---|---|
+| CT link             | https://www.cypherpunktimes.com/can-a-crypto-wallet-be-lightweight-private-and-secure-the-spv-model-leads-the-way/ |
+| CT date             | 2024-01-18 |
+| CT tweet            | https://x.com/cypherpunktimes/status/1748067349062705158 |
+| YouTube link        | https://www.youtube.com/watch?v=cBqv0HH2pU4 |
+| YouTube tweet       | https://x.com/DecredSociety/status/1748083926231290121 |
+| Twitter full video  | https://x.com/decredproject/status/1748450782049894692 |
+| Twitter clip 1      | https://x.com/DecredSociety/status/1748094644083118383 |
+| Twitter clip 2      | https://x.com/DecredSociety/status/1748450803184980009 |
 
 
 ## Can a Crypto Wallet be Lightweight, Private, AND Secure? The SPV Model Leads the Way.
