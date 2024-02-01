@@ -6,14 +6,23 @@
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Jan 20?? |
 
-| Social Media | Link |
+| Initial Social Media | Link |
 | :---- | :---- |
 | Twitter | post link… |
-| Twitter | thread link… |
-| Twitter | poll link… |
 | Reddit  | link… |
 | Bison Relay | News feed title |
-| Other platforms | Instagram and TikTok |
+| Comments and engagement | which posts... |
+
+| Advanced Social Media | Link |
+| :---- | :---- |
+| Shorts | Youtube, Instagram, TikTok |
+| Twitter | follow up post link… |
+| Twitter | thread link… |
+| Twitter | poll link… |
+| coinmarketcap | link… |
+| forums and other platforms | link… |
+
+
 
 Thesis statement - What the article is about, and what is it aiming to prove
 
