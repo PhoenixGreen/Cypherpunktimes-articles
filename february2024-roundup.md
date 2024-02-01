@@ -16,7 +16,7 @@
 
 Thesis statement - A monthly roundup of what is happening in the Crypto space with a Cypherpunk theme
 
-Pre-discussion, research and questions
+Community News Piece
 
 
 # Cypherpunk Times Monthly Roundup(February 2024 Edition)
