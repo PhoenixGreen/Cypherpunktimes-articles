@@ -1,6 +1,6 @@
 | Author | TallAmericano |
 | :---- | :---- |
-| Title | The Face of Tomorrow: Exploring the Upsides and Downsides of Facial Recognition Technology (FRT) (2/2) |
+| Title | The Face of Tomorrow Part Two |
 | Headline  | FRT where innovation meets controversy. Are you concerned about privacy? |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Feb 2024 |
@@ -14,7 +14,7 @@
 | Bison Relay | News feed title |
 | Other platforms | Instagram and TikTok |
 
-Thesis statement - Addressing laws around FRT, Case studies and advancements in FRT technology. Concluding in what the technology may mean for privacy and what we can expect in the future
+Thesis statement - FRT laws focus on giving power to enforcement at the expense of personal freedoms and privacies. Is this the technology that facilitates an Orwellian future or is this the innovation that propels humanity to greater heights?
 
 Pre-discussion, research and questions
 
