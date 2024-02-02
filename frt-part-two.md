@@ -39,6 +39,9 @@ Instances of successful implementation underscore the technology's potential ben
 
 Controversial use cases have generated considerable public concern and debate. One notable controversy revolves around the deployment of FRT in public surveillance systems, where individuals may be identified without their explicit consent. The potential for abuse and privacy infringements has led to pushback from civil liberties advocates and concerned citizens. Additionally, instances of implementation by law enforcement agencies have sparked debates over the balance between public safety and individual rights. The public's reactions to these controversial use cases vary, with growing calls for increased regulation and transparency in deployment. 
 
+Where is facial recognition used?
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/where-facial-recognition-used
+
 Future Trends and Developments
 Advancements have been notable in recent years, driven by rapid progress in machine learning and computer vision. These developments have significantly enhanced the accuracy and efficiency of systems. Improved algorithms and neural network architectures, particularly convolutional neural networks, have contributed to better face detection, analysis, and recognition. Moreover, advancements in hardware, such as high-resolution cameras and specialized processing units, have bolstered the capabilities. These technological strides are expanding the range of applications and use cases for FRT, from security and law enforcement to commercial and personal applications.
 
