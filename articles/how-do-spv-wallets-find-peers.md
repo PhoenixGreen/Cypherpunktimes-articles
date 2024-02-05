@@ -1,20 +1,16 @@
-
-| Author | Phoenix Green |
-| :---- | :---- |
-| Title | How do SPV wallets find peers |
-| Headline  | Decred’s SPV has the full support of the network, is extremely fast, reliable, secure, private and lightweight. When you have this level of integration, the possibilities are limitless. |
-| Cypherpunktimes | https://www.cypherpunktimes.com/how-do-spv-wallets-find-peers/ |
-| Publish Date | 31 Jan 2024 |
-
-| Social Media | Link |
-| :---- | :---- |
-| Youtube | https://youtu.be/4XrPALy9NpY |
-| Podcast | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/How-do-SPV-wallets-find-peers-e2f6091/a-aatlslt |
-| Twitter Post | https://x.com/cypherpunktimes/status/1752644510327140522 |
-| Twitter Full Video | link… |
-| Twitter Clip 1 | https://x.com/DecredSociety/status/1752660030610960585?s=20 |
-| Reddit  | https://www.reddit.com/r/decred/comments/1afmtse/how_do_spv_wallets_find_peers/ |
-| Bison Relay | Title: How do SPV wallets find peers? |
+|   |   |
+|---|---|
+| Title               | How do SPV wallets find peers |
+| Author              | Phoenix Green |
+| Featured text       | Decred’s SPV has the full support of the network, is extremely fast, reliable, secure, private and lightweight. When you have this level of integration, the possibilities are limitless. |
+| CT link             | https://www.cypherpunktimes.com/how-do-spv-wallets-find-peers/ |
+| CT date             | 2024-01-31 |
+| CT tweet            | https://x.com/cypherpunktimes/status/1752644510327140522 |
+| YouTube link        | https://youtu.be/4XrPALy9NpY |
+| Podcast             | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/How-do-SPV-wallets-find-peers-e2f6091/a-aatlslt |
+| Twitter clip 1      | https://x.com/DecredSociety/status/1752660030610960585 |
+| Reddit              | https://www.reddit.com/r/decred/comments/1afmtse/how_do_spv_wallets_find_peers/ |
+| Bison Relay title   | How do SPV wallets find peers? |
 
 # How do SPV wallets find peers
 
