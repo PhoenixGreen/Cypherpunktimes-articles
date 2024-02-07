@@ -28,7 +28,27 @@ In this article, we look into crucial aspects of FRT, focusing on the legal fram
 ## Legal Framework and Regulations:
 Legal frameworks and regulations are playing a key role in the evolution of this technology, encompassing existing laws and emerging regulations. Each carrying significant implications including addressing concerns related to privacy, security, and ethical considerations. The web of rules guiding the deployment of FRT seeks to strike a balance between innovation and safeguarding individual rights.
 
-The current legal environment is undergoing constant evolution as authorities grapple with the challenges and opportunities presented. Various jurisdictions have introduced laws and regulations that aim to define the permissible uses, addressing concerns related to privacy, security, and potential misuse. Examining the existing state of laws provides insights into the diverse approaches governments take to manage the deployment of this technology.
+As authorities grapple with the challenges and opportunities this technology presents. Various jurisdictions have introduced laws and regulations that aim to define the permissible uses, addressing concerns related to privacy, security, and potential misuse. Examining the existing laws provides insights into the diverse approaches governments have taken to manage the deployment of this technology. For instance the following states have taken the below approach:
+
+ - United States:
+
+The United States has seen a growing push for regulations at both federal and state levels. Some states, like California, have enacted laws addressing the use of facial recognition technology in law enforcement. Additionally, there have been discussions at the federal level to establish comprehensive guidelines.
+
+- European Union:
+
+The EU, known for its robust data protection regulations, has been actively working on guidelines for the ethical use of facial recognition. The General Data Protection Regulation (GDPR) lays down principles for the lawful processing of biometric data, including facial recognition, with an emphasis on obtaining explicit consent.
+
+- China:
+
+China has been at the forefront of facial recognition technology development and the government has started implementing regulations. For instance, in 2019, the city of Beijing introduced rules to protect citizens' rights, requiring explicit consent for certain uses of facial recognition.
+
+- Canada:
+
+Privacy commissioners in different provinces have been active in studying the impact of this technology on privacy rights. The focus has been on ensuring that individuals are informed and have control over the collection of their biometric data.
+
+- Australia:
+
+Privacy and data protection authorities are working towards creating a framework that balances the benefits of the technology with the protection of citizens' privacy rights.
 
 Governments and regulatory bodies are increasingly recognizing the need to establish clear guidelines to ensure responsible and fair deployment. These regulations are designed to strike a balance between leveraging the benefits and safeguarding individual rights. The impact of these emerging regulations extends beyond legal compliance, influencing the development, implementation, and public perception. Understanding these emerging regulations provides valuable insights into FRT governance.
 
