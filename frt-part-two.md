@@ -1,6 +1,6 @@
 | Author | TallAmericano |
 | :---- | :---- |
-| Title | The Face of Tomorrow Part Two |
+| Title | The Face of Tomorrow |
 | Headline  | FRT where innovation meets controversy. Are you concerned about privacy? |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Feb 2024 |
@@ -19,13 +19,14 @@ Thesis statement - FRT laws focus on giving power to enforcement at the expense 
 Pre-discussion, research and questions
 
 
-# The Face of Tomorrow Part Two
+# The Face of Tomorrow
 
-## Introduction:
-Welcome to the second instalment of our exploration into Facial Recognition Technology. In this article, we look into crucial aspects of FRT, focusing on the legal frameworks and regulations governing its use. We'll unravel the current state of laws, examine emerging regulations and their implications. Moving beyond the legal landscape, we'll explore real-world case studies, shedding light on both successful implementations and controversial use cases that have sparked public reactions. Looking toward the future, we'll discuss the latest advancements in FRT technology, potential applications, and innovative developments. Addressing ethical concerns remains a central theme, emphasizing the need to balance the benefits and risks inherent in the future. Smile as we journey through the legal, practical, and ethical dimensions that define this innovative technology.
+Welcome to the second instalment of our exploration into Facial Recognition Technology. If you missed article one please CLICK HERE.
+
+In this article, we look into crucial aspects of FRT, focusing on the legal frameworks and regulations governing its use. 
 
 ## Legal Framework and Regulations:
-The legal framework and regulations play a key role in the technology. This encompasses the existing state of laws and the emergence of new regulations, each carrying significant implications. These regulations aim to define the boundaries of implementation, addressing concerns related to privacy, security, and ethical considerations. It is best to understand the web of rules guiding the deployment of FRT, understanding how legal frameworks seek to strike a balance between innovation and safeguarding individual rights.
+Legal frameworks and regulations are playing a key role in the evolution of this technology, encompassing existing laws and emerging regulations. Each carrying significant implications including addressing concerns related to privacy, security, and ethical considerations. The web of rules guiding the deployment of FRT seeks to strike a balance between innovation and safeguarding individual rights.
 
 The current legal environment is undergoing constant evolution as authorities grapple with the challenges and opportunities presented. Various jurisdictions have introduced laws and regulations that aim to define the permissible uses, addressing concerns related to privacy, security, and potential misuse. Examining the existing state of laws provides insights into the diverse approaches governments take to manage the deployment of this technology.
 
