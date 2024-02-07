@@ -1,7 +1,7 @@
 | Author | TallAmericano |
 | :---- | :---- |
-| Title | Crypto First War |
-| Headline  | Crypto First War examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies. |
+| Title | Decoding the Dramatic Saga of the First Cyber War |
+| Headline  | Examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies. |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Feb 2024 |
 
@@ -14,17 +14,16 @@
 | Bison Relay | News feed title |
 | Other platforms | Instagram and TikTok |
 
-Thesis statement - The importance of securing digital communications became increasingly apparent as computers became more popular. This article looks at the first crypto war, examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies.
+Thesis statement - This article looks at the first crypto war, examining the historical context and the lasting impact on global encryption policies.
 
 Pre-discussion, research and questions
 
 
 # Crypto First War
 
-## Introduction:
+## Introduction to the first crypto war in the 90s:
 
 - Brief explanation of cryptography and its relevance.
-- Introduction to the first crypto war in the 90s.
 - Importance of encryption.
 - Historical Context.
 
@@ -56,6 +55,4 @@ Pre-discussion, research and questions
 - Connection to modern issues such as encryption backdoors and privacy concerns.
 
 ## Conclusion
-- Recap key points.
-- Emphasis on the enduring significance of the first crypto war.
 - Final thoughts on the ongoing importance of encryption.
