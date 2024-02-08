@@ -17,8 +17,6 @@
 Thesis statement - Will Bitcoin Succumb to Corporate Hegemony, or Will Decentralization Prevail?
 
 Pre-discussion, research and questions
-
----
 Title: Could big corporations control Bitcoin?
 
 Outline
@@ -51,5 +49,6 @@ Moving Forward:
 -Exploring decentralized alternatives: Supporting projects aligned with the original ethos of Bitcoin.
 -A call to action: Advocating for a truly decentralized financial future through informed decision-making and active participation.
 
+---
 
 My article text goes here …
