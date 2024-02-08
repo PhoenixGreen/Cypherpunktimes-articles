@@ -1,0 +1,55 @@
+|   |   |
+|---|---|
+| Title               | Could big corporations control Bitcoin? |
+| Author              | João Paulo Sant'Anna |
+| Featured text       | FIXME |
+| CT link             | FIXME |
+| CT date             | YYYY-MM-DD FIXME |
+| CT tweet            | FIXME |
+| YouTube link        | FIXME |
+| YouTube tweet       | FIXME |
+| Twitter full video  | FIXME |
+| Twitter clip 1      | FIXME |
+| Twitter clip 2      | FIXME |
+
+↑ Add more table rows for more social media links. See [this completed article](articles/simple-payment-verification.md) for a real example.
+
+Thesis statement - Will Bitcoin Succumb to Corporate Hegemony, or Will Decentralization Prevail?
+
+Pre-discussion, research and questions
+Title: Could big corporations control Bitcoin?
+
+Outline
+
+Introduction:
+
+-Setting the stage: The aftermath of the 2008 financial crisis and the birth of Bitcoin.
+-Bitcoin's founding principles: Decentralization, transparency, and security.
+
+The Rise of institutional interest
+
+-Early skepticism: Wall Street's initial dismissal of Bitcoin as a viable asset.
+-A shift in perspective: The gradual acceptance of Bitcoin by traditional financial institutions.
+-The turning point: The approval of Bitcoin ETFs and the entry of corporations like BlackRock and Fidelity into the market.
+
+Centralization Underway?
+
+-The impact of institutional investment: The accumulation of Bitcoin by major corporations.
+-Concerns about centralization: The consequences of institutional involvement for Bitcoin's decentralized ethos
+-The role of Bitcoin ETFs: How they differ from owning Bitcoin directly and their implications for decentralization.
+
+The Mining Issue:
+
+-The consolidation of mining power: The dominance of a few mining pools in the Bitcoin network.
+-Risks of centralization: Market manipulation, security vulnerabilities, and the threat of a 51% attack.
+-The importance of decentralization: Ensuring the resilience and integrity of the Bitcoin network.
+
+Moving Forward:
+
+-The need for vigilance: Remaining alert to centralization trends within the Bitcoin ecosystem.
+-Exploring decentralized alternatives: Supporting projects aligned with the original ethos of Bitcoin.
+-A call to action: Advocating for a truly decentralized financial future through informed decision-making and active participation.
+
+---
+
+My article text goes here …
