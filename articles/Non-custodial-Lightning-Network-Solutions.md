@@ -1,7 +1,7 @@
 | Author | Phoenix Green |
 | :---- | :---- |
 | Title | Non-custodial Lightning Network Solutions (Better Title needed) |
-| Headline  | featured text |
+| Headline  | Why is Decred’s client-side SPV the perfect home for the Lightning Network |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Jan 20?? |
 
