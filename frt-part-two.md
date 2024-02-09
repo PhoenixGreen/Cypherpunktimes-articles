@@ -50,9 +50,7 @@ Privacy commissioners in different provinces have been active in studying the im
 
 Privacy and data protection authorities are working towards creating a framework that balances the benefits of the technology with the protection of citizens' privacy rights.
 
-Governments and regulatory bodies are increasingly recognizing the need to establish clear guidelines to ensure responsible and fair deployment. These regulations are designed to strike a balance between leveraging the benefits and safeguarding individual rights. The impact of these emerging regulations extends beyond legal compliance, influencing the development, implementation, and public perception. Understanding these emerging regulations provides valuable insights into FRT governance.
-
-Recent developments in Ireland:
+- Ireland:
 
 Recently you may have seen riots in Dublin, Ireland. This was caused by deep anger amongst local people with regard to immigration and housing. There were school children stabbed by an immigrant. It later came out that the man in question had lived in the state for over 15 years and had never worked. This sparked a massive riot fueled by anger from what locals see as a failure in policies by the government. The government was already drafting a bill to limit 'hate speech' but now after the riots they see an opportunity to implement FRT technology to deter recent events from happening again. This seems like an attack on freedom of speech and freedoms in general. Elon Musk was also very vocal in opposing it.
 
