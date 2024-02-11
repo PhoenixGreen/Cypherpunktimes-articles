@@ -62,7 +62,7 @@ Bitcoin's enigmatic creator, known only by the pseudonym Satoshi Nakamoto, intro
 
 Originally conceived as a decentralized and peer-to-peer currency, Bitcoin faced scrutiny over time. Concerns were raised about the potential centralization of mining activities and the growing influence of large corporations in the space. The approval of a Bitcoin exchange-traded fund (ETF) by the Securities and Exchange Commission (SEC) further intensified these concerns. As Bitcoin gained immense popularity, corporations like BlackRock and Fidelity, unable to thwart its rise, began to embrace and even seek to regulate it, prompting a shift in their approach from resistance to active engagement.
 
-The question that remains is: how is gonna be the future of Bitcoin now that the traditional financial system is embracing it? Will it keep its innovative approach, or will it undergo drastic changes influenced by institutional involvement and mainstream adoption?
+The question that remains is: what does the future of Bitcoin look like now that the traditional financial system is embracing it? Will it keep its innovative approach, or will it undergo drastic changes influenced by institutional involvement and mainstream adoption?
 
 The Rising Tide of Institutional Interest
 
@@ -70,7 +70,7 @@ In 2014, amidst New York regulators' exploration of strategies to regulate Bitco
 
 During the World Economic Forum in Davos, Switzerland, that same year, Jamie Dimon, CEO of JPMorgan Chase, the US largest bank, labeled Bitcoin as a "terrible" store of value, asserting its association with illicit activities. Simultaneously, at a meeting addressing violations of Iran sanctions, H. Rodgin Cohen, a leading legal figure in the finance industry, cautioned state regulators that the federal government held significant apprehensions about Bitcoin and its utilization. 
 
-However, despite initial skepticism and criticism from prominent figures in the financial industry, the tide began to turn. Over the subsequent years, some of the same institutions that had once disparaged Bitcoin underwent a notable shift in perspective. It's obvious that they didn't want the rise of Bitcoin and cryptocurrencies, but they couldn't afford to lose more profits. The numbers of Bitcoin and other crypto went to the moon despite the attempts to stop them by traditional finance corporations.
+However, despite initial skepticism and criticism from prominent figures in the financial industry, the tide began to turn. Over the subsequent years, some of the same institutions that had once disparaged Bitcoin underwent a notable shift in perspective. It's obvious that they didn't want the rise of Bitcoin and cryptocurrencies, but they couldn't afford to lose more profits. Despite the efforts of traditional financial institutions to suppress cryptocurrency, Bitcoin and other major digital currencies experienced a surge of prosperity.
 
 A new phase of institutional interest began this year when the Bitcoin ETF was approved. Bitcoin exchange-traded Funds (ETFs) are investment funds available for public trading, offering investors the opportunity to access bitcoin (BTC) exposure without direct ownership of the cryptocurrency. In contrast to cryptocurrencies traded on dedicated crypto exchanges, these ETFs are listed and traded on traditional securities exchanges like the New York Stock Exchange and Nasdaq.
 
@@ -80,7 +80,7 @@ With the approval of the Bitcoin ETF, major financial institutions like BlackRoc
 
 It's crucial to remind ETF investors that owning a Bitcoin ETF is fundamentally different from owning Bitcoin itself. When purchasing a Bitcoin ETF, investors do not possess the cryptographic keys associated with the cryptocurrency. Instead, these keys are held by financial institutions. Consequently, ETF investors cannot transact with Bitcoin in the manner it was intended, which includes privacy and independence from third-party intermediaries.
 
-This movement of big firms buying Bitcoin will probably continue in the next months. BlackRock and Fidelity, two of the world's largest asset managers, now collectively hold 0.5% of Bitcoin's total supply, less than three weeks after launching their Bitcoin spot ETFs.
+Investment firms are expected to persist in purchasing Bitcoin for the foreseeable future, thereby augmenting their overall holdings. BlackRock and Fidelity, two of the world's largest asset managers, now collectively hold 0.5% of Bitcoin's total supply, less than three weeks after launching their Bitcoin spot ETFs.
 
 BlackRock possesses 52,000 Bitcoins valued at $2.2 billion, establishing them as one of the largest Bitcoin holders globally.
 (https://www.dlnews.com/articles/markets/blackrock-and-fidelity-attract-billions-worth-of-bitcoin/)
@@ -115,4 +115,4 @@ Moving Forward
 
 In conclusion, as Bitcoin continues to gain traction within traditional financial institutions and undergoes shifts towards institutional involvement, concerns about centralization loom large. The increasing accumulation of Bitcoin by major corporations like BlackRock and Fidelity, coupled with the concentration of mining power within a few select pools, challenges the decentralized ethos upon which Bitcoin was founded.
 
-For advocates of decentralization and members of the cypherpunk movement, it's imperative to remain vigilant about these centralization trends within the Bitcoin ecosystem. While Bitcoin remains the dominant cryptocurrency in the market, it's essential to acknowledge that alternatives exist. Exploring and supporting decentralized alternatives becomes increasingly important. By remaining informed and proactive, decentralization proponents can actively contribute to a more resilient and truly decentralized financial future.
+For advocates of decentralization and members of the cypherpunk movement, it's imperative to remain vigilant about these centralization trends within the Bitcoin ecosystem. While Bitcoin remains the dominant cryptocurrency in the market, it's essential to acknowledge that alternatives exist.Alternatives that are building and improving decentralised components. Alternatives that are increase resilience and preserve the fundamental freedoms of peer to peer, privacy, governance and security.
