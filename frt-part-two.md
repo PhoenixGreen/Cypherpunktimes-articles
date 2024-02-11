@@ -7,7 +7,7 @@
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | post link… |
+| Twitter | https://x.com/giftopherc/status/1756588953371656583 |
 | Twitter | thread link… |
 | Twitter | poll link… |
 | Reddit  | link… |
