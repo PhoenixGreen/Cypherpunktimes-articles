@@ -2,8 +2,8 @@
 | :---- | :---- |
 | Title | The Face of Tomorrow |
 | Headline  | FRT where innovation meets controversy. Are you concerned about privacy? |
-| Cypherpunktimes | cypherpunktimes.com/...link |
-| Publish Date | 00 Feb 2024 |
+| Cypherpunktimes | https://www.cypherpunktimes.com/facial-recognition-technology-frt-pros-and-cons-2-2/ |
+| Publish Date | 10 Feb 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
