@@ -9,7 +9,7 @@
 | :---- | :---- |
 | Twitter | https://x.com/giftopherc/status/1756588953371656583 |
 | Twitter | thread link… |
-| Twitter | poll link… |
+| Twitter | https://x.com/giftopherc/status/1756668154808357349?s=46&t=LWetTjFRiZBE1bqQpQxd-g |
 | Reddit  | link… |
 | Bison Relay | News feed title |
 | Other platforms | Instagram and TikTok |
