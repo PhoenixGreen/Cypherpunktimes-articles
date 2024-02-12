@@ -1,6 +1,6 @@
 |   |   |
 |---|---|
-| Title               | Could big corporations control Bitcoin? |
+| Title               | Corporate Giants and Bitcoin: Threats to Decentralization |
 | Author              | João Paulo Sant'Anna |
 | Featured text       | FIXME |
 | CT link             | FIXME |
@@ -107,7 +107,7 @@ Binance Pool (10.06%)
 
 Decentralization in Proof-of-work systems like Bitcoin is crucial for both financial stability and technical security. A more evenly distributed Bitcoin ownership helps mitigate the risk of market price manipulation.
  
-When a smaller number of entities hold a significant portion of the supply or trading volume, there's a higher likelihood of manipulation. Additionally, a decentralized distribution lessens the impact of potential sell-offs by single entities, as evidenced by recent events involving F2Pool, currently the third-largest mining pool.
+When a smaller number of entities hold a significant portion of the supply or trading volume, there's a higher likelihood of manipulation. Additionally, a decentralized distribution lessens the impact of potential sell-offs by single entities, as evidenced by recent events involving F2Pool (https://www.coindesk.com/tech/2023/11/22/bitcoins-anti-censorship-ethos-surfaces-after-mining-pool-f2pool-acknowledges-filter/#:~:text=F2Pool%2C%20the%20third%2Dbiggest%20Bitcoin,subject%20to%20U.S.%20government%20sanctions), currently the third-largest mining pool.
 
 Furthermore, a decentralized network enhances security by making it more difficult for malicious actors to control the consensus mechanism. This mitigates the risk of a 51% attack, where an entity could potentially double spend coins, akin to using counterfeit US dollars.
 
@@ -115,4 +115,4 @@ Moving Forward
 
 In conclusion, as Bitcoin continues to gain traction within traditional financial institutions and undergoes shifts towards institutional involvement, concerns about centralization loom large. The increasing accumulation of Bitcoin by major corporations like BlackRock and Fidelity, coupled with the concentration of mining power within a few select pools, challenges the decentralized ethos upon which Bitcoin was founded.
 
-For advocates of decentralization and members of the cypherpunk movement, it's imperative to remain vigilant about these centralization trends within the Bitcoin ecosystem. While Bitcoin remains the dominant cryptocurrency in the market, it's essential to acknowledge that alternatives exist.Alternatives that are building and improving decentralised components. Alternatives that are increase resilience and preserve the fundamental freedoms of peer to peer, privacy, governance and security.
+For advocates of decentralization and members of the cypherpunk movement, it's imperative to remain vigilant about these centralization trends within the Bitcoin ecosystem. While Bitcoin remains the dominant cryptocurrency in the market, it's essential to acknowledge that alternatives exist. Alternatives that increase resilience and preserve the fundamental freedoms of peer to peer, privacy, governance and security.
