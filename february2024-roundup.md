@@ -62,6 +62,11 @@ Interesting Stories from the month:
 
 February 1st to February 7th:
 
+- BTC performance is behaving like that of the past 2 cycles, as the current halving cycle is ending with the fourth halving anticipated to happen in mid to late April 2024
+- Coinbase holds nearly 40% of BTC liquidity in the US, followed by Kraken (33%) and Bitstamp (9%)
+- South Korea to enforce tougher crypto law with potential life sentence
+- Thailand waives value-added tax on crypto gains: report
+
 https://x.com/cypherpunktimes/status/1756787940699623759?s=20
 
 February 8th to February 15th:
