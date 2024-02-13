@@ -1,6 +1,6 @@
 | Author | TallAmericano |
 | :---- | :---- |
-| Title | Decoding the Dramatic Saga of the First Cyber War |
+| Title | Decoding the Drama of the First Cyber War |
 | Headline  | Examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies. |
 | Cypherpunktimes | cypherpunktimes.com/...link |
 | Publish Date | 00 Feb 2024 |
@@ -19,7 +19,7 @@ Thesis statement - This article looks at the first crypto war, examining the his
 Pre-discussion, research and questions
 
 
-# Crypto First War
+# Decoding the Drama of the First Cyber War
 
 ## Introduction to the first crypto war in the 90s:
 
