@@ -1,0 +1,1 @@
+Decred defending your privacy
