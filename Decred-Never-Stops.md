@@ -31,8 +31,7 @@ Politeia: Exploring the role of Politeia, Decred's proposal system, in generatin
 
 Continuous Improvement:
 
-Iterative development: Discussing Decred's approach to iterative development and its emphasis on regular software updates and protocol enhancements.
-Talk about Decred github repository.
+Talk about Decred github repository and Decred applications
 
 Marketing and Outreach Efforts:
 
