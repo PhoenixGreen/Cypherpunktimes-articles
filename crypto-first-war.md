@@ -2,12 +2,12 @@
 | :---- | :---- |
 | Title | Decoding the Drama of the First Crypto War |
 | Headline  | Examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies. |
-| Cypherpunktimes | cypherpunktimes.com/...link |
-| Publish Date | 00 Feb 2024 |
+| Cypherpunktimes | https://www.cypherpunktimes.com/decoding-the-drama-of-the-first-crypto-war/  |
+| Publish Date | 15 Feb 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | post link… |
+| Twitter | https://x.com/giftopherc/status/1758084085346406643 |
 | Twitter | thread link… |
 | Twitter | poll link… |
 | Reddit  | link… |
