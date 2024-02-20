@@ -71,6 +71,13 @@ https://x.com/cypherpunktimes/status/1756787940699623759?s=20
 
 February 8th to February 15th:
 
+- Criminal sentencing of Binance founder CZ postponed to late April
+- Peter Thiel’s Founders Fund made $200 million crypto investment before bull run
+- Coinbase reports 4Q earnings, revenue of $954M, beating expectations of $818.9M
+- Celsius distributed $2 billion of crypto to creditors, court document shows
+
+https://x.com/cypherpunktimes/status/1759266051563385118?s=20
+
 February 16th to February 23rd:
 
 February 24th to February 29th:
