@@ -55,11 +55,13 @@ At its core, Decred was envisioned not just as another digital currency, but as 
 
 Decred's journey isn't just about creating a new form of currency; it is about building an ecosystem where innovation thrives. Decred's hybrid model not only ensures security and decentralization but also fosters a culture of continuous development and adaptation. Let's check what makes Decred a unique project!
 
-A Legacy of Innovation
+## A Legacy of Innovation
 
 The innovation lies at the core of the Decred project, driving its pursuit of progress in the blockchain ecosystem. Formed by a team of exceptional developers, where many have worked for big companies and coded for big projects, such as Bitcoin, Decred stands out as a fertile ground for forward-thinking solutions and blockchain applications. Decred's unique hybrid consensus model is central to its ability to stay at the forefront of innovation which enables swift adoption of new technologies and methodologies.
 
 Decred's network operates on a unique hybrid consensus protocol, blending two key approaches: Proof of Work (PoW) and Proof of Stake (PoS). In this setup full nodes meticulously compile transaction lists for future blocks, ensuring adherence to specified requirements such as fees, fund availability, and prevention of double spending. Meanwhile, miners engage in solving cryptographic puzzles, aiming to construct the subsequent block. Upon puzzle solution, miners incorporate as many transactions as feasible from the network's full nodes into the block. This block is then introduced to the Decred blockchain as unmined, pending verification. Up to five randomly selected Proof-of-Stake (POS) tickets then scrutinize the block against consensus rules, and upon successful validation, it is officially added to the blockchain.
+
+Employing a Hybrid Proof-of-Work/Proof-of-Stake (PoW/PoS) consensus mechanism presents numerous advantages over alternative consensus models within the Decred ecosystem. Firstly, it effectively tackles scalability and energy-related issues commonly associated with pure Proof-of-Work systems. Secondly, it mitigates the risk of blockchain attacks by validators possessing significant coin holdings, a concern prevalent in solely Proof-of-Stake networks.
 
 But innovation requires more than just talent and a hybrid consensus; it requires resources and autonomy. That's where Decred's treasury comes into play. Unlike many other projects that rely on external investors, Decred has its own treasury, meticulously tracked and transparently accessible on the blockchain. This fund serves as a pillar of autonomy, ensuring that Decred remains self-sufficient in its pursuit of innovation. 
 
@@ -71,7 +73,7 @@ As an example of a treasury-funded initiative, we have this website: Cypherpunkt
 
 There are many other examples of ongoing development and marketing projects. Those can be viewed on the Decred governance platform ([Politeia link](https://proposals.decred.org/). 
 
-Continuous development
+## Continuous development
 
 Browsing through Decred's GitHub repository, you'll quickly notice the dedication of the community toward driving constant improvements and pushing the boundaries of innovation. It's a rare sight to come across any of the project's applications or software that hasn't seen updates in the past seven days. The development team is on the run, ensuring the codebase remains current, addressing potential errors, and seamlessly integrating new enhancements.
 
@@ -85,7 +87,7 @@ iii) Bison Relay: In a world where online content is often subject to censorship
 
 Decred contributors are committed to cultivating a vibrant ecosystem that not only encourages innovation but also embodies values like transparency, autonomy, and user empowerment. Decred's new paradigm of work integrates individuals with valuable skills and ideas from around the world, ensuring fair compensation for those responsible for enhancing the project and introducing new concepts. Learn how to become a Decred contributor here! (https://docs.decred.org/contributing/overview/)
 
-Outreach efforts
+## Outreach efforts
 
 Just like any other crypto project Decred does not maintain itself just with development, but also with outreach efforts coordinated by its community members. Those efforts have two main goals, which are: i)spreading the Decred word, making the project and its ethos known by the crypto community and investors; and ii)Explaining Decred, keeping the community and interested people informed about the project ethos, latest updates, and researches that are being made. 
 
@@ -95,7 +97,7 @@ The Vanguard team is a community-driven initiative aimed at boosting Decred's pr
 
 You can read more about the Vanguard proposal here ([link to the new Vanguard proposal](https://proposals.decred.org/record/d658f9a)).
 
-Moving Forward
+## Moving Forward
 
 As we navigate through a promising phase in the crypto market, characterized by bullish market sentiment, Decred stands poised at the forefront of this transformative journey. Decred exemplifies the power of collaboration, transparency, and user empowerment in shaping the future of blockchain technology.
 
