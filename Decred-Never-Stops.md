@@ -23,12 +23,11 @@ Introduction:
 
 Setting the stage: Introducing Decred as a project committed to constant improvement and evolution.
 
-A Legacy of innovation:
+## A Legacy of innovation:
 
 The power of community: Exploring Decred's decentralized governance model and the active participation of community members in decision-making processes.
 Collaboration and transparency: How Decred fosters an open and inclusive environment for developers and contributors to collaborate and innovate.
 Politeia: Exploring the role of Politeia, Decred's proposal system, in generating a sustainable work environment by providing a platform for transparent discussion and funding allocation.
-
 Continuous Improvement:
 
 Talk about Decred github repository and Decred applications
@@ -61,7 +60,7 @@ The innovation lies at the core of the Decred project, driving its pursuit of pr
 
 Decred's network operates on a unique hybrid consensus protocol, blending two key approaches: Proof of Work (PoW) and Proof of Stake (PoS). In this setup full nodes meticulously compile transaction lists for future blocks, ensuring adherence to specified requirements such as fees, fund availability, and prevention of double spending. Meanwhile, miners engage in solving cryptographic puzzles, aiming to construct the subsequent block. Upon puzzle solution, miners incorporate as many transactions as feasible from the network's full nodes into the block. This block is then introduced to the Decred blockchain as unmined, pending verification. Up to five randomly selected Proof-of-Stake (POS) tickets then scrutinize the block against consensus rules, and upon successful validation, it is officially added to the blockchain.
 
-Employing a Hybrid Proof-of-Work/Proof-of-Stake (PoW/PoS) consensus mechanism presents numerous advantages over alternative consensus models within the Decred ecosystem. Firstly, it effectively tackles scalability and energy-related issues commonly associated with pure Proof-of-Work systems. Secondly, it mitigates the risk of blockchain attacks by validators possessing significant coin holdings, a concern prevalent in solely Proof-of-Stake networks.
+Employing a Hybrid Proof-of-Work/Proof-of-Stake (PoW/PoS) consensus mechanism presents numerous advantages over alternative consensus models within the Decred ecosystem. Firstly, it effectively tackles energy-related issues commonly associated with pure Proof-of-Work systems. Secondly, it mitigates the risk of blockchain attacks by validators possessing significant coin holdings, a concern prevalent in solely Proof-of-Stake networks.
 
 But innovation requires more than just talent and a hybrid consensus; it requires resources and autonomy. That's where Decred's treasury comes into play. Unlike many other projects that rely on external investors, Decred has its own treasury, meticulously tracked and transparently accessible on the blockchain. This fund serves as a pillar of autonomy, ensuring that Decred remains self-sufficient in its pursuit of innovation. 
 
