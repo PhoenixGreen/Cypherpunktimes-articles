@@ -1,18 +1,23 @@
 | Author | Phoenix Green |
 | :---- | :---- |
-| Title | Non-custodial Lightning Network Solutions (Better Title needed) |
+| Title | Non-custodial Lightning Network Solutions |
 | Headline  | Why is Decred’s client-side SPV the perfect home for the Lightning Network |
-| Cypherpunktimes | cypherpunktimes.com/...link |
-| Publish Date | 00 Jan 20?? |
+| Cypherpunktimes | [cypherpunktimes.com/...link](https://www.cypherpunktimes.com/why-is-decreds-client-side-spv-the-perfect-home-for-the-lightning-network/) |
+| Publish Date | 22 Feb 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | post link… |
-| Twitter | thread link… |
-| Twitter | poll link… |
-| Reddit  | link… |
-| Bison Relay | News feed title |
-| Other platforms | Instagram and TikTok |
+| Twitter | [post link…](https://x.com/cypherpunktimes/status/1760636780934562041) |
+| Youtube| [thread link…](https://youtu.be/zr_PD2HL9iM) |
+| Twitter Full Video | Link |
+| Twitter Clip | Link |
+| Twitter Clip | Link |
+| Twitter Clip | Link |
+| Twitter | [post link…](https://x.com/cypherpunktimes/status/1760636780934562041) |
+| Podcast | [Posted](https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Why-is-Decreds-client-side-SPV-the-perfect-home-for-the-Lightning-Network-e2g4hll) |
+| Reddit  | [link…](https://www.reddit.com/r/decred/comments/1ax51s5/why_is_decreds_clientside_spv_the_perfect_home/) |
+| Bison Relay | Why is Decred’s client-side SPV the perfect home for the Lightning Network? |
+| Matrix Social Media channel | Posted |
 
 Thesis statement 
 
