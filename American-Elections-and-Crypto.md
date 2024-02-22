@@ -58,9 +58,9 @@ The Biden administration was marked by a period of regulatory siege against the 
 In 2023 alone the SEC took 26 enforcement actions targeting the crypto industry. The motives for these many initiatives were: to prevent fraud, reduce market manipulation, and increase control over exchanges. Some giants of the industry were accusing the current administration of starting a war against crypto. CoinDesk Editor-in-Chief Kevin Reynolds stated in an editorial that:
 
 "It Sure Looks Like the U.S. Is Trying to Kill Crypto
-The federal government’s recent actions against crypto are – rightly or wrongly – widely perceived as a coordinated attempt to maim digital assets. This risks sending a vital industry overseas without actually protecting investors"
+The federal government’s recent actions against crypto are – rightly or wrongly – widely perceived as a coordinated attempt to maim digital assets. This risks sending a vital industry overseas without actually protecting investors" (https://www.coindesk.com/consensus-magazine/2023/03/30/coindesk-editorial-it-sure-looks-like-the-us-is-trying-to-kill-crypto/)
 
-Regarding President Biden, there is a notable lack of interest in engaging with this particular segment of voters. Many of his policies have led to alienation among digital asset holders. For instance, last year, President Biden accused "wealthy crypto investors" of exploiting tax loopholes, which he attributed to support from "MAGA Republicans." This rhetoric has further strained the relationship between the administration and the cryptocurrency community.
+Regarding President Biden, there is a notable lack of interest in engaging with this particular segment of voters. Many of his policies have led to alienation among digital asset holders. For instance, last year, President Biden accused "wealthy crypto investors" of exploiting tax loopholes, which he attributed to support from "MAGA Republicans." (https://twitter.com/POTUS/status/1655988502079602690) This rhetoric has further strained the relationship between the administration and the cryptocurrency community.
 
 Could the administration's antagonistic stance towards cryptocurrency return to haunt Biden in November?
 
@@ -72,11 +72,11 @@ Trump is seen as the favorite candidate of American crypto investors, since Repu
 
 Former President Donald Trump isn't particularly supportive of cryptocurrency becoming a primary form of currency in the United States, prioritizing the U.S. dollar above all else. During an interview with Yahoo Finance in 2021, Trump emphasized the need for caution regarding cryptocurrency, expressing concerns about China's efforts to develop a cryptocurrency aimed at dominating global markets.
 
-“I'm a big fan of our currency and I don't want to have other currencies coming out and hurting or demeaning the dollar in any way. If you look at a monetary system based on the dollar, if you start losing credibility, all of a sudden you're going to lose that strong monetary system, we have to be very careful about that.”
+“I'm a big fan of our currency and I don't want to have other currencies coming out and hurting or demeaning the dollar in any way. If you look at a monetary system based on the dollar, if you start losing credibility, all of a sudden you're going to lose that strong monetary system, we have to be very careful about that.” (https://finance.yahoo.com/news/trump-on-crypto-im-a-big-fan-of-the-dollar-warns-about-loss-of-status-in-global-finance-112730063.html#:~:text=%E2%80%9CI'm%20a%20big%20fan,the%20greenback%20is%20a%20fulcrum.)
 
 Trump also criticized Bitcoin during a Fox News interview in the same year. Showing once more a vision of protectionism when regarding the American dollar:
 
-"The currency of this world should be the dollar. And I don't think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high."
+"The currency of this world should be the dollar. And I don't think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high." (https://www.foxbusiness.com/markets/trump-bitcoin-a-scam-us-dollar-should-reign)
 
 The notion that cryptocurrencies should be heavily regulated is not favored by the majority of crypto investors. Given these remarks, it's challenging to predict how Trump would act in relation to crypto. While his involvement in launching digital assets like NFTs and holding crypto may suggest a favorable stance, it's impossible to make a definitive prediction.
 
