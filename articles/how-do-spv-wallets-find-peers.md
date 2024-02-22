@@ -8,7 +8,12 @@
 | CT tweet            | https://x.com/cypherpunktimes/status/1752644510327140522 |
 | YouTube link        | https://youtu.be/4XrPALy9NpY |
 | Podcast             | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/How-do-SPV-wallets-find-peers-e2f6091/a-aatlslt |
+| Twitter full video      | https://x.com/decredproject/status/1755304618211344597 |
 | Twitter clip 1      | https://x.com/DecredSociety/status/1752660030610960585 |
+| Twitter clip 2      | https://x.com/DecredSociety/status/1748450803184980009 |
+| Twitter clip 3      | https://x.com/DecredSociety/status/1748094644083118383 |
+| Twitter clip 4      | https://x.com/DecredSociety/status/1760430616674467967 |
+| Twitter clip 5      | https://x.com/DecredSociety/status/1760430618993652168 |
 | Reddit              | https://www.reddit.com/r/decred/comments/1afmtse/how_do_spv_wallets_find_peers/ |
 | Bison Relay title   | How do SPV wallets find peers? |
 
