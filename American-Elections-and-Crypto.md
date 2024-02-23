@@ -49,44 +49,37 @@ The American elections of 2024 may be the most important event of the year. Not 
 
 It appears that both the Republican and Democratic parties have solidified their contenders. With all indicators pointing towards a bid from the incumbent President Joe Biden representing the Democrats and the likelihood of former President Donald Trump stepping into the ring as the Republican nominee.
 
-The crypto market is expected to go through a great year in 2024. The sentiment is good among investors, and many opportunities could surge. But will the elections influence this scenario? Could crypto benefit from any candidate? And what does this mean for individuals deeply entrenched in the cypherpunk movement? Let's go through these questions!
+Will the elections influence the crypto scene? Could crypto benefit from any candidate? And what does this mean for individuals deeply entrenched in the cypherpunk movement? Let's go through these questions!
 
 ## Biden administration view on crypto
 
-The Biden administration was marked by a period of regulatory siege against the crypto market. These attacks were mainly coordinated by the Securities and Exchange Commission (SEC), which has Gary Gensler as its chairman, and increased after the bankruptcies of FTX, BlockFi, Voyager Digital, and other platforms.
+The Biden administration was marked by a period of regulatory siege against the crypto market. These attacks were mainly coordinated by the Securities and Exchange Commission (SEC), which has Gary Gensler as its chairman, and increased after the bankruptcies of custodial service providers FTX, BlockFi, Voyager Digital, and other platforms.
 
-In 2023 alone the SEC took 26 enforcement actions targeting the crypto industry. The motives for these many initiatives were: to prevent fraud, reduce market manipulation, and increase control over exchanges. Some giants of the industry were accusing the current administration of starting a war against crypto. CoinDesk Editor-in-Chief Kevin Reynolds stated in an editorial that:
+In 2023 alone the SEC took 26 enforcement actions targeting the crypto industry. The motives for these many initiatives were: to prevent fraud, reduce market manipulation, and increase control over exchanges. Those actions were the result of President Biden’s March 9 Executive Order (EO) on Ensuring Responsible Development of Digital Assets.
 
-"It Sure Looks Like the U.S. Is Trying to Kill Crypto
-The federal government’s recent actions against crypto are – rightly or wrongly – widely perceived as a coordinated attempt to maim digital assets. This risks sending a vital industry overseas without actually protecting investors" (https://www.coindesk.com/consensus-magazine/2023/03/30/coindesk-editorial-it-sure-looks-like-the-us-is-trying-to-kill-crypto/)
+The White House released this document on  March 9th, revealing the stance of Biden's administration on crypto. The official White House website (https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) affirms that the document intends to Protect Consumers, Investors, and Businesses. The document also shows the intention to reinforce U.S. financial leadership uphold U.S. values in global digital asset markets, and Explore a U.S. Central Bank Digital Currency (CBDC). This shows a will to keep the digital assets market under the control of the U.S. government, or at least more predictable.
 
-Regarding President Biden, there is a notable lack of interest in engaging with this particular segment of voters. Many of his policies have led to alienation among digital asset holders. For instance, last year, President Biden accused "wealthy crypto investors" of exploiting tax loopholes, which he attributed to support from "MAGA Republicans." (https://twitter.com/POTUS/status/1655988502079602690) This rhetoric has further strained the relationship between the administration and the cryptocurrency community.
+Regarding President Biden, there is a notable lack of interest in engaging with this particular segment of voters. This detachment is evident in the scarcity of interviews or public discussions where Biden directly addresses (positively or negatively) the cryptocurrency market or blockchain technology's implications for the future of finance and governance. 
 
-Could the administration's antagonistic stance towards cryptocurrency return to haunt Biden in November?
+Could President Biden give some signals to attract crypto holders before November?
 
 ## Trump administration on crypto
 
 The last financial disclosure of former President Donald Trump revealed a broad portfolio that includes a wide range of assets, from his primary residence to revenues from resorts and cryptocurrencies that he could theoretically use to fuel his 2024 White House bid. 
 
-Trump is seen as the favorite candidate of American crypto investors, since Republican lawmakers and conservative organizations have crafted regulatory proposals that align with the industry's desires, and GOP members are already suggesting candidates for regulatory positions crucial in shaping policy direction. However, before asserting that he would lead a crypto-friendly government, there are also pertinent questions that need to be addressed. 
+Republican lawmakers and conservative organizations have crafted regulatory proposals that align with the industry's desires, and GOP members are already suggesting candidates for regulatory positions crucial in shaping policy direction. One good example is the Digital Asset Market Structure Proposal (https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408838). Under it, crypto exchanges would gain a path to registering with the U.S. Securities and Exchange Commission (SEC) and would be able to trade digital securities, commodities, and stablecoins all in one place.
+
+However, before asserting that Trump would lead a crypto-friendly government, there are also pertinent questions that need to be addressed. 
 
 Former President Donald Trump isn't particularly supportive of cryptocurrency becoming a primary form of currency in the United States, prioritizing the U.S. dollar above all else. During an interview with Yahoo Finance in 2021, Trump emphasized the need for caution regarding cryptocurrency, expressing concerns about China's efforts to develop a cryptocurrency aimed at dominating global markets.
 
-“I'm a big fan of our currency and I don't want to have other currencies coming out and hurting or demeaning the dollar in any way. If you look at a monetary system based on the dollar, if you start losing credibility, all of a sudden you're going to lose that strong monetary system, we have to be very careful about that.” (https://finance.yahoo.com/news/trump-on-crypto-im-a-big-fan-of-the-dollar-warns-about-loss-of-status-in-global-finance-112730063.html#:~:text=%E2%80%9CI'm%20a%20big%20fan,the%20greenback%20is%20a%20fulcrum.)
+“I'm a big fan of our currency and I don't want to have other currencies coming out and hurting or demeaning the dollar in any way. If you look at a monetary system based on the dollar, if you start losing credibility, all of a sudden you're going to lose that strong monetary system, we have to be very careful about that.”
 
 Trump also criticized Bitcoin during a Fox News interview in the same year. Showing once more a vision of protectionism when regarding the American dollar:
 
-"The currency of this world should be the dollar. And I don't think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high." (https://www.foxbusiness.com/markets/trump-bitcoin-a-scam-us-dollar-should-reign)
+"The currency of this world should be the dollar. And I don't think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high."
 
 The notion that cryptocurrencies should be heavily regulated is not favored by the majority of crypto investors. Given these remarks, it's challenging to predict how Trump would act in relation to crypto. While his involvement in launching digital assets like NFTs and holding crypto may suggest a favorable stance, it's impossible to make a definitive prediction.
-
-## Crypto in the last elections
-
-During the 2016 election, which marked the election of Trump, the cryptocurrency market had yet to reach its peak hype. While the crypto community was sizable, it hadn't attracted as many participants as it would in later years. Personally, I began investing during the significant boom of 2017. Bitcoin experienced notable appreciation during this time. For instance, on October 1st, one BTC was valued at $613, and by the end of November, it had risen to $750—a significant pump, though not comparable to what occurred during the 2020 elections.
-
-In contrast, during the 2020 elections, which saw Biden's election, Bitcoin experienced a remarkable surge. On October 1st, one BTC was priced at $10,500, soaring to nearly $19,000 by the end of November—an appreciation of almost 90%.
-
-These data suggest that while elections don't necessarily destabilize the crypto market, they also don't guarantee a significant pump. The crypto industry has evolved significantly, and market dynamics are influenced by various factors beyond political events.
 
 ## Will anything really change?
 
