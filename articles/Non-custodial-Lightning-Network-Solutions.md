@@ -9,9 +9,9 @@
 | :---- | :---- |
 | Twitter | https://x.com/cypherpunktimes/status/1760636780934562041 |
 | Youtube| https://youtu.be/zr_PD2HL9iM |
-| Twitter Full Video | Link |
+| Twitter Full Video | https://x.com/decredproject/status/1760726712806199413 |
 | Twitter Clip 1 | https://x.com/DecredSociety/status/1760663605517922334 |
-| Twitter Clip | Link |
+| Twitter Clip 2 | https://x.com/DecredSociety/status/1760780003392815272 |
 | Twitter Clip | Link |
 | Twitter | https://x.com/cypherpunktimes/status/1760636780934562041 |
 | Podcast | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Why-is-Decreds-client-side-SPV-the-perfect-home-for-the-Lightning-Network-e2g4hll |
