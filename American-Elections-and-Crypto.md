@@ -69,6 +69,10 @@ The last financial disclosure of former President Donald Trump revealed a broad 
 
 Republican lawmakers and conservative organizations have crafted regulatory proposals that align with the industry's desires, and GOP members are already suggesting candidates for regulatory positions crucial in shaping policy direction. One good example is the Digital Asset Market Structure Proposal (https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408838). Under it, crypto exchanges would gain a path to registering with the U.S. Securities and Exchange Commission (SEC) and would be able to trade digital securities, commodities, and stablecoins all in one place.
 
+This bill was proposed during the regulatory siege employed by the SEC in 2023. It can be seen as a type of reaction to the Biden administration since it wanted to provide a statutory framework for digital assets and provide clarity, fill regulatory gaps, and foster innovation while providing adequate consumer protections. The republican Patrick McHenry, Chairman of the House Financial Services Committee, commented on the bill:
+
+“Our goal is to strike the appropriate balance between consumer protection and encouraging responsible innovation. This is the product of an unprecedented joint effort between the House Financial Services and Agriculture Committees, which gives us a better shot at striking that balance. I encourage stakeholders and market participants to provide constructive feedback to help us improve our legislation.”
+
 However, before asserting that Trump would lead a crypto-friendly government, there are also pertinent questions that need to be addressed. 
 
 Former President Donald Trump isn't particularly supportive of cryptocurrency becoming a primary form of currency in the United States, prioritizing the U.S. dollar above all else. During an interview with Yahoo Finance in 2021, Trump emphasized the need for caution regarding cryptocurrency, expressing concerns about China's efforts to develop a cryptocurrency aimed at dominating global markets.
