@@ -2,12 +2,12 @@
 | :---- | :---- |
 | Title | Decoding the Drama of the Second Crypto War |
 | Headline  | Examining the historical context, the rise of Cypherpunks, legislative battles, and the lasting impact on global encryption policies. |
-| Cypherpunktimes | [cypherpunktimes.com/...link](https://www.cypherpunktimes.com/decoding-the-drama-of-the-second-crypto-war/) |
+| Cypherpunktimes | https://www.cypherpunktimes.com/decoding-the-drama-of-the-second-crypto-war/ |
 | Publish Date | 23 Feb 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | [post link…](https://x.com/GiftopherC/status/1762157145401757980?s=20) |
+| Twitter | https://x.com/GiftopherC/status/1762157145401757980 |
 | Twitter | thread link… |
 | Twitter | poll link… |
 | Reddit  | link… |
