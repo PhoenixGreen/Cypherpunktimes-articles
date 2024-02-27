@@ -1,0 +1,107 @@
+|   |   |
+|---|---|
+| Title               |  Questioning the Future: American Elections and Crypto from a Cypherpunk Perspective |
+| Author              | João Paulo Sant'Anna da Silva |
+| Featured text       | FIXME |
+| CT link             | FIXME |
+| CT date             | YYYY-MM-DD FIXME |
+| CT tweet            | FIXME |
+| YouTube link        | FIXME |
+| YouTube tweet       | FIXME |
+| Twitter full video  | FIXME |
+| Twitter clip 1      | FIXME |
+| Twitter clip 2      | FIXME |
+
+
+Thesis statement - What are the implications of the American election to crypto? will they change something?
+
+Outline: 
+
+Introduction:
+
+Emphasizing the importance of the 2024 American elections and their potential ramifications for the global cryptocurrency landscape.
+
+Elections and Government Intervention:
+
+Questioning government influence: Analyzing the potential impact of the elections on government policies towards cryptocurrency and the cypherpunk ethos.
+Cypherpunk skepticism: Examining the cypherpunk perspective on government intervention in the crypto space and its implications for privacy and decentralization.
+
+Republican vs. Democratic Policies:
+
+Republican stance: Investigating potential Republican policies regarding cryptocurrency 
+Democratic perspective: Evaluating Democratic approaches to cryptocurrency 
+
+Global Implications and Sovereignty:
+
+Global ramifications: Exploring how decisions made in American politics can influence global perceptions of cryptocurrency and government regulation.
+Cypherpunk sovereignty: Discussing the importance of maintaining individual sovereignty and privacy rights in the face of government intervention and global regulatory trends.
+
+Navigating Cypherpunk Uncertainty:
+
+Strategies for cypherpunks: Providing insights and considerations for individuals who align with cypherpunk ideals in navigating the uncertainty of government intervention and regulatory changes.
+Upholding cypherpunk values: Encouraging readers to stay true to cypherpunk principles of privacy, decentralization, and individual sovereignty in their approach to cryptocurrency.
+
+---
+
+# Questioning the Future: American Elections and Crypto from a Cypherpunk Perspective
+
+The American elections of 2024 may be the most important event of the year. Not just to Americans, but to the whole world, since the US. remains the greatest economic and cultural power in our world. Scheduled for November 5, voters will determine both their legislative representatives and the future occupant of the presidency. The outcome of these elections is poised to reverberate across international boundaries, shaping the trajectory of global affairs for years to come.
+
+It appears that both the Republican and Democratic parties have solidified their contenders. With all indicators pointing towards a bid from the incumbent President Joe Biden representing the Democrats and the likelihood of former President Donald Trump stepping into the ring as the Republican nominee.
+
+Will the elections influence the crypto scene? Could crypto benefit from any candidate? And what does this mean for individuals deeply entrenched in the cypherpunk movement? Let's go through these questions!
+
+## Biden administration view on crypto
+
+The Biden administration was marked by a period of regulatory siege against the crypto market. These attacks were mainly coordinated by the Securities and Exchange Commission (SEC), which has Gary Gensler as its chairman, and increased after the bankruptcies of custodial service providers FTX, BlockFi, Voyager Digital, and other platforms.
+
+The stringent measures, while initially perceived as an overreaching clampdown, inadvertently served a purpose by identifying and weeding out bad actors within the space. These entities, often operating with opaque practices and centralization antithetical to the Cypherpunk ethos, contributed to the erosion of trust within the wider ecosystem. The SEC's interventions, therefore, acted as a necessary albeit painful recalibration, ensuring that malicious practices were held accountable.
+
+Importantly, this period of regulatory siege, while casting a pall over the entire crypto sector, had a markedly different impact on projects dedicated to building peer-to-peer, non-custodial products. These initiatives, which truly embody the Cypherpunk vision by fostering decentralization and minimizing reliance on centralized authorities, were largely unaffected on both an organizational and technical level. Their foundational principles of autonomy and user empowerment shielded them from the brunt of regulatory scrutiny, underscoring the resilience of genuinely decentralized models against external pressures.
+
+In 2023 alone the SEC took 26 enforcement actions targeting the crypto industry. The motives for these many initiatives were: to prevent fraud, reduce market manipulation, and increase control over exchanges. Those actions were the result of President Biden’s March 9 Executive Order (EO) on Ensuring Responsible Development of Digital Assets.
+
+The White House released this document on  March 9th, revealing the stance of Biden's administration on crypto. The official White House website (https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/) affirms that the document intends to Protect Consumers, Investors, and Businesses.
+
+"Sec. 2.  Objectives.  The principal policy objectives of the United States with respect to digital assets are as follows:
+(a)  We must protect consumers, investors, and businesses in the United States.  The unique and varied features of digital assets can pose significant financial risks to consumers, investors, and businesses if appropriate protections are not in place.  In the absence of sufficient oversight and standards, firms providing digital asset services may provide inadequate protections for sensitive financial data, custodial and other arrangements relating to customer assets and funds, or disclosures of risks associated with investment.  Cybersecurity and market failures at major digital asset exchanges and trading platforms have resulted in billions of dollars in losses.  The United States should ensure that safeguards are in place and promote the responsible development of digital assets to protect consumers, investors, and businesses; maintain privacy; and shield against arbitrary or unlawful surveillance, which can contribute to human rights abuses."
+
+The document also shows the intention to reinforce U.S. financial leadership uphold U.S. values in global digital asset markets, and Explore a U.S. Central Bank Digital Currency (CBDC). This shows a will to keep the digital assets market under the control of the U.S. government, or at least more predictable.
+
+"(b)  We must protect United States and global financial stability and mitigate systemic risk.  Some digital asset trading platforms and service providers have grown rapidly in size and complexity and may not be subject to or in compliance with appropriate regulations or supervision.  Digital asset issuers, exchanges and trading platforms, and intermediaries whose activities may increase risks to financial stability, should, as appropriate, be subject to and in compliance with regulatory and supervisory standards that govern traditional market infrastructures and financial firms, in line with the general principle of “same business, same risks, same rules.”  The new and unique uses and functions that digital assets can facilitate may create additional economic and financial risks requiring an evolution to a regulatory approach that adequately addresses those risks."
+
+The latest significant move by the Biden administration in relation to the cryptocurrency sector involved the initiation of an emergency investigation into the energy consumption of Bitcoin and other cryptocurrency mining operations (https://www.forbes.com/sites/digital-assets/2024/02/03/bitcoin-vs-the-dollar-biden-administration-suddenly-declares-us-crypto-emergency-after-huge-price-surge/?sh=8033c1678edf). This decision was made public on February 3, following a notable increase in Bitcoin's value. The Energy Information Administration (EIA) has been tasked with the urgent collection of data regarding the power usage of these mining activities. Some cryptocurrency investors and enthusiasts perceive this action as an attempt by the government to exert greater control over Bitcoin and other digital currencies, viewing it as a strategy to safeguard the dominance of the U.S. dollar amidst the rising influence of cryptocurrencies.
+
+Could President Biden give some signals to attract crypto holders before November?
+
+## Trump administration on crypto
+
+The last financial disclosure of former President Donald Trump revealed a broad portfolio that includes a wide range of assets, from his primary residence to revenues from resorts and cryptocurrencies that he could theoretically use to fuel his 2024 White House bid. 
+
+Republican lawmakers and conservative organizations have crafted regulatory proposals that align with the industry's desires, and GOP members are already suggesting candidates for regulatory positions crucial in shaping policy direction. One good example is the Digital Asset Market Structure Proposal (https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408838). Under it, crypto exchanges would gain a path to registering with the U.S. Securities and Exchange Commission (SEC) and would be able to trade digital securities, commodities, and stablecoins all in one place.
+
+This bill was proposed during the regulatory siege employed by the SEC in 2023. It can be seen as a type of reaction to the Biden administration since it wanted to provide a statutory framework for digital assets and provide clarity, fill regulatory gaps, and foster innovation while providing adequate consumer protections. The republican Patrick McHenry, Chairman of the House Financial Services Committee, commented on the bill:
+
+“Our goal is to strike the appropriate balance between consumer protection and encouraging responsible innovation. This is the product of an unprecedented joint effort between the House Financial Services and Agriculture Committees, which gives us a better shot at striking that balance. I encourage stakeholders and market participants to provide constructive feedback to help us improve our legislation.”
+
+However, before asserting that Trump would lead a crypto-friendly government, there are also pertinent questions that need to be addressed. 
+
+Former President Donald Trump isn't particularly supportive of cryptocurrency becoming a primary form of currency in the United States, prioritizing the U.S. dollar above all else. During an interview with Yahoo Finance in 2021, Trump emphasized the need for caution regarding cryptocurrency, expressing concerns about China's efforts to develop a cryptocurrency aimed at dominating global markets.
+
+“I'm a big fan of our currency and I don't want to have other currencies coming out and hurting or demeaning the dollar in any way. If you look at a monetary system based on the dollar, if you start losing credibility, all of a sudden you're going to lose that strong monetary system, we have to be very careful about that.”
+
+Trump also criticized Bitcoin during a Fox News interview in the same year. Showing once more a vision of protectionism when regarding the American dollar:
+
+"The currency of this world should be the dollar. And I don't think we should have all of the Bitcoins of the world out there. I think they should regulate them very, very high."
+
+It's challenging to predict how Trump would act in relation to crypto. While his involvement in launching digital assets like NFTs and holding crypto may suggest a favorable stance, it's impossible to make a definitive prediction.
+
+## Will anything really change?
+
+Both the Biden and Trump administrations, while having divergent views on cryptocurrency, share a common objective: to ensure that traditional financial institutions retain control and influence over the financial landscape, even as digital currencies gain traction. Despite potential differences in regulatory approaches, both administrations are likely to prioritize measures that maintain the supremacy of the American dollar and protect the interests of established financial entities.
+
+Traditional American financial institutions wield significant power and influence within the American and global economy. They are unlikely to cede control to cryptocurrencies without some form of regulation or oversight that aligns with their interests. Both administrations are aware of the potential disruptive impact of cryptocurrencies on traditional financial systems and are thus inclined to implement measures that mitigate this risk. 
+
+Big firms like BlackRock and Fidelity are already gaining some control over  Bitcoin, holding approximately 0,5% of the total supply, but the majority of their investments will always remain in the US. Dollar. In response to the potential tightening of regulations under either administration, cypherpunks may prioritize the development and adoption of privacy-enhancing technologies, decentralized finance (DeFi) platforms, and censorship-resistant communication tools. By focusing on technologies that empower individuals to transact and communicate freely, cypherpunks can continue to advance their vision of a more open and equitable digital future, regardless of the political climate.
+
+Moreover, cypherpunks may engage in advocacy efforts to educate policymakers and the public about the benefits of decentralized systems and the risks of excessive regulation. By participating in grassroots campaigns, lobbying efforts, and community outreach, cypherpunks can work to shape the regulatory environment in a way that fosters innovation and protects individual freedoms.
