@@ -10,14 +10,14 @@
 |---|---|
 | YouTube link        | https://youtu.be/FY2lvgAllnA |
 | Podcast link        | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/The-future-is-micro-transactions---The-Lightning-Network-e2gcv8c/a-ab0tusr |
-| Bison Relay post    | Title |
-| Reddit link         | FIXME |
-| CT tweet            | FIXME |
-| YouTube tweet       | FIXME |
+| Bison Relay post    | Title: The future is micro transactions |
+| Reddit link         | https://www.reddit.com/r/decred/comments/1b29cnf/the_future_is_micro_transactions/ |
+| CT tweet            | https://x.com/cypherpunktimes/status/1762867011657371932 |
+| YouTube tweet       | https://x.com/DecredSociety/status/1762868086200308016 |
 | Twitter full video  | FIXME |
 | Twitter clip 1      | FIXME |
 | Twitter clip 2      | FIXME |
-| Matrix post         | Promote your main tweet in "DCR Social Media" channel |
+| Matrix post         | Promote your main tweet in "DCR Social Media" channel (DONE) |
 
 
 ## Thesis statement
