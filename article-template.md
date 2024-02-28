@@ -19,11 +19,18 @@
 | Twitter clip 2      | FIXME |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
 
-↑ Add more table rows for more social media links. See [this completed article](articles/simple-payment-verification.md) for a real example.
 
-Thesis statement - What the article is about, and what is it aiming to prove
+## Thesis statement
 
-Pre-discussion, research and questions
+What the article is about, and what is it aiming to prove?
+
+
+## Pre-discussion, research and questions
+
+* What questions are you aiming to find the answers to?
+* Show links to research, which statements or quotes are you hoping to use?
+* Who might be a good person to interview for this piece?
+
 
 ---
 --- ARTICLE GOES BELOW THIS POINT ---
