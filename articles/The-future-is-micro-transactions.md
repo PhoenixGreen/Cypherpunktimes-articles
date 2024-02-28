@@ -14,9 +14,9 @@
 | Reddit link         | https://www.reddit.com/r/decred/comments/1b29cnf/the_future_is_micro_transactions/ |
 | CT tweet            | https://x.com/cypherpunktimes/status/1762867011657371932 |
 | YouTube tweet       | https://x.com/DecredSociety/status/1762868086200308016 |
-| Twitter full video  | FIXME |
+| Twitter full video  | https://x.com/decredproject/status/1762949394956009646 |
 | Twitter clip 1      | https://x.com/DecredSociety/status/1762901109616590857 |
-| Twitter clip 2      | FIXME |
+| Twitter clip 2      | https://x.com/DecredSociety/status/1762943828120490140 |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel (DONE) |
 
 
