@@ -49,6 +49,22 @@ What this means for other privacy coins/tokens?
 
 We will have to monitor the market closely and see how this will affect other coins/tokens going forward. It appears regulation is tightening its noose on the cryptocurrency sector.
 
+### XRP Hacked
+
+https://x.com/WatcherGuru/status/1752706743296307287
+
+Ripple has been hacked for $112 million worth of XRP. Crypto investigator ZachXBT reported that the company was hacked for 213 million XRP tokens. Moreover, the stolen funds were then laundered through MEXC, Gate, Binance, Kraken, OKX, HTX, and HitBTC.
+
+Shortly after the hack was reported, Ripple’s XRP token had fallen by more than 5%. The report stated that the mass of funds had been stolen by one wallet, which ZachXBT did release in his original post to X (formerly Twitter). Shortly after, Ripple co-founder Chris Larson confirmed the hack had taken place.
+
+### Solana Outage
+
+The Solana network experienced a significant outage on Feb. 6 at 10:22 am UTC, with block production halted for over five hours before validators restarted the network. 
+
+This is not the first time Solana has gone down. Since January 2022, Solana has seen around half a dozen significant outages and 15 partial or major outage days.
+
+https://x.com/SolanaStatus/status/1754813351945789491?s=20 
+
 ### Bitcoin soars to two-year high:
 
 The world's largest cryptocurrency by market cap is rallying due to big investors' growing appetite. Bitcoin's price rose 10% in two days and was trading at more than $56,000 (€51,606), the highest since November 2021.
@@ -92,3 +108,11 @@ February 16th to February 23rd:
 https://x.com/cypherpunktimes/status/1761862060013478021?s=20
 
 February 24th to February 29th:
+
+- The total stablecoin market value climbed to nearly $140 billion for the first time since late 2022.
+- New Bitcoin ETFs surpass 300,000 BTC holdings in under two months
+- Kraken launches custody service, aims to compete with Coinbase
+- Sam Bankman-Fried asks for 6.5 year prison term after conviction in FTX collapse
+- Nigeria detains Binance executives in cryptocurrency crackdown
+
+https://x.com/cypherpunktimes/status/1762919187763057086?s=20
