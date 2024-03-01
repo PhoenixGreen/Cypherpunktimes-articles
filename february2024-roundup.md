@@ -2,12 +2,12 @@
 | :---- | :---- |
 | Title | Monero Delisted - Monthly News |
 | Headline  | featured text |
-| Cypherpunktimes | cypherpunktimes.com/...link |
+| Cypherpunktimes | https://www.cypherpunktimes.com/monero-delisted-monthly-news/ |
 | Publish Date | 00 Mar 20?? |
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | post link… |
+| Twitter | https://x.com/GiftopherC/status/1763500086162542988?s=20 |
 | Twitter | thread link… |
 | Twitter | poll link… |
 | Reddit  | link… |
