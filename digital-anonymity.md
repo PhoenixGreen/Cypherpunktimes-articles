@@ -23,44 +23,22 @@ Tagline to use : .
 
 # Tools and Strategies for Digital Anonymity
 
+The importance of digital anonymity in a surveilled world.
 
-Introduction:
+* What are the challenges we face?
+* What freedoms are being attacked?
+  
+The role of cryptocurrencies in achieving financial freedoms
 
-The importance of digital anonymity in surveilled world.
+* Why is a decentralised money important?
+* What problems are being solved with decentralised money?
+* Solving the decentralised money problem? e.g. privacy, limited supply, governance ...
 
-Cryptocurrencies and Privacy Coins:
+The role of communication tools in achieving freedoms of speech
 
-Role of cryptocurrencies in achieving financial privacy.
-Explore privacy-focused coins like Decred, Monero.
+* Why is privacy and censorship resistance import in a surveillance world?
+* What solutions are being developed to solve this problem and why? e.g. VPN, social networks ...
 
-Secure Communication Tools:
+Challenges and future developments (conclusion)
 
-Encrypted messaging platforms such as Signal and Telegram.
-Discuss end-to-end encryption in maintaining private conversations.
-
-Anonymous Browsing and VPNs:
-
-Use of Tor for anonymous browsing.
-Discuss VPNs in enhancing online privacy.
-
-Decentralized Social Networks:
-
-Introduction to decentralized and privacy-focused social media platforms.
-Introduction to Bison Relay.
-Explore the potential of bison relay in providing alternatives to mainstream platforms.
-
-The Legal Landscape and Ethical Considerations:
-
-Discuss the legal implications of using privacy tools.
-Explore ethical considerations.
-
-Challenges and Future Developments
-
-Discuss the challenges.
-Highlight emerging technologies and strategies for overcoming these challenges.
-
-Conclusion:
-
-Summarize the key tools and strategies discussed.
-Emphasize the ongoing importance of digital privacy.
 
