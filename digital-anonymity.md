@@ -14,7 +14,7 @@
 | Bison Relay | News feed title |
 | Other platforms | Instagram and TikTok |
 
-Thesis statement - This article looks at Tools and Strategies for Digital Anonymity..
+Thesis statement - The piece aims to look into the world of cypherpunk tools, strategies, and technologies designed to protect individuals digital anonymity in the face of increasing surveillance.
 
 Pre-discussion, research and questions
 
