@@ -124,6 +124,25 @@ Convenience, the double edge sword:
 
 Convenience in technology is a double-edged sword, offering unparalleled ease alongside potential risks. While innovations like biometric authentication, one-click payments, and streamlined user experiences enhance convenience, they also introduce concerns such as data security and privacy. The more seamless and interconnected our digital experiences become, the more we rely on storing personal information online, making individuals vulnerable to cyber threats and data breaches. Striking the right balance between convenience and security is crucial; prioritizing one over the other can lead to significant drawbacks. Therefore, as technology advances to make our lives more convenient, it is essential to implement robust safeguards, educate users on responsible practices, and continuously adapt security measures to mitigate potential risks.
 
+### Talking points from this article
+
+There are many questions that must be asked. A large number downsides and obstacles must be overcome before we reach a destnation where a DID is possible with safety, privacy and security. We aren't quite there yet but hopefully there is a place in the future that we can interact without the data being compromised, can control a lot more privacy than having the privacy on the companies side/servers.
+
+A lot of unanswered questions that can be discussed:
+
+- What data needs to be collected by DID and why?
+- How is this data going to be used and how could systems like this mitigate the risks?
+- Why it's a bad idea to store your internet data with your personal data?
+- Should our personal data and identity be kept off the internet / blockchain entirely and why?
+- What do protocol providers have to gain from building these platforms and collecting your data?
+- What is the potential for backdoor Corp / Gov keys?
+- What is the potential for your data to be harvested or sold on these new systems?
+- What are the alternatives to storing your data?
+- Can a data-less system be created for our internet persona?
+- Why is it a bad idea to store personal data on-chain and what are the long term implementations?
+
+Government-issued documents like passports, driver's licenses, and birth certificates are already widely accessible, raising concerns about the security and privacy of personal data. While addressing these issues at a government level is crucial, the idea of connecting personal data to online activities poses a significant risk to anonymity, privacy, and security. The vision here is to keep these entirely separate – a system where leaking internet data would leave no trace of one's real identity. Embracing cypherpunk principles means scrutinizing any system that seeks personal data, as the link between personal and internet data undermines the very values of anonymity and privacy the cypherpunk movement advocates for.
+
 ### Conclusion:
 
 In summary, decentralized identity aligns with the cypherpunk philosophy by promoting user autonomy, privacy, and security. It envisions a future where individuals have more control over their digital identities. Imagine having a digital identity that's flexible, private, and works seamlessly across various online platforms. It's like having a key that fits perfectly into every digital lock you encounter.
