@@ -34,7 +34,7 @@ Self-Sovereign Identity (SSI) is about giving individuals full control over thei
 Here's a simplified breakdown:
 
 - Ownership: You own it. It's not stored in a central database controlled by someone else. Think of it like having a digital wallet for your personal details.
-- Control: You decide who gets access to what. SSI lets you share only the necessary parts, like proving your age without revealing your exact birthdate.
+- Control: You decide who gets access to what. You share only the necessary parts, like proving your age without revealing your exact birthdate.
 - Privacy: SSI is designed to keep your information private. You're not part of a massive database that could be hacked. Instead, your data is secure, often using advanced technologies like blockchain.
 - No Middlemen: Traditional systems often involve middlemen, like banks verifying your data. SSI cuts out the middle, allowing direct interactions between you and whoever needs to confirm your identity.
 - Flexibility: Your digital identity should work across different platforms. SSI aims to be flexible and usable across various services without needing to create a new identity for each one.
@@ -47,7 +47,7 @@ SSI solutions aim to revolutionize how we manage and control our digital identit
 
 Benefits and drawbacks:
 
-The adoption of these solutions comes with notable benefits and drawbacks. On the positive side, SSI offers enhanced user privacy by allowing individuals to selectively disclose personal information, reducing the risk of unauthorized access and data breaches. However, challenges include potential resistance to change from established systems, the need for widespread adoption for full effectiveness, and the risk of individuals mishandling the responsibility of managing their private keys. Striking a balance between user empowerment and ensuring a smooth transition from traditional systems represents an ongoing challenge in the widespread implementation.
+The adoption of these solutions comes with notable benefits and drawbacks. On the positive side this offers enhanced user privacy by allowing individuals to selectively disclose personal information, reducing the risk of unauthorized access and data breaches. However, challenges include potential resistance to change from established systems, the need for widespread adoption for full effectiveness, and the risk of individuals mishandling the responsibility of managing their private keys. Striking a balance between user empowerment and ensuring a smooth transition from traditional systems represents an ongoing challenge in the widespread implementation.
 
 ### Can blockchain technology be used for digital identities?: 
 
