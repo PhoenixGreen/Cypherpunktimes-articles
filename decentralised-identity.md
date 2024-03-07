@@ -7,8 +7,8 @@
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter |twitter link |
-| Twitter | thread link… |
+| Twitter | https://x.com/GiftopherC/status/1765692801935700015?s=20 |
+| Twitter | https://x.com/GiftopherC/status/1765692801935700015?s=20 |
 | Twitter | poll link… |
 | Reddit  | link… |
 | Bison Relay | News feed title |
