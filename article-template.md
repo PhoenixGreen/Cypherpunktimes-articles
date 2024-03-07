@@ -5,6 +5,7 @@
 | Featured text       | FIXME |
 | CT link             | FIXME |
 | Publish date        | YYYY-MM-DD FIXME |
+| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
 
 | Social Media | Links |
 |---|---|
