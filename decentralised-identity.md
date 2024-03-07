@@ -3,7 +3,7 @@
 | Title | Decentralised Identity and the Potential of Self-Sovereign Identities |
 | Headline  | Looking at Decentralised Identities and how individuals own, control, and share their identity information without the need for a central authority. |
 | Cypherpunktimes | link |
-| Publish Date | xx Mar 2024 |
+| Publish Date | 10 Mar 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
@@ -18,7 +18,7 @@ Thesis statement - This article looks at decentralised identities, examining how
 
 Pre-discussion, research and questions
 
-Tagline to use : Interoperability is the glue that holds together the vision of a decentralized identity.
+Tagline to use : Compatability is the glue that holds together the vision of a decentralized identity.
 
 
 # Decentralised Identity - The Good the Bad and the Ugly
