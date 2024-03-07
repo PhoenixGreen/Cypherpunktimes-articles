@@ -18,10 +18,17 @@ Thesis statement - This article looks at the news in March and interesting topic
 
 Pre-discussion, research and questions
 
-Coinbase outage during BTC ATH (Tuesday 5th March 2024) could be an interesting piece to cover for this month's news. Why does Coinbase seem to struggle when the price is exploding, could there be an underlying liquidity issue?
-
-
 # Coinbase Outage March roundup
+
+Coinbase users worldwide faced another issue with $0 crypto balances as Bitcoin reached over $67,000 for the first time in more than two years. 
+
+This marked the second outage for Coinbase in less than a week, coinciding with Bitcoin hitting a 28-month high on March 4. The crypto fear and greed index indicated strong interest, reaching 82. 
+
+Despite CEO Brian Armstrong stating preparedness for increased traffic after the first outage on February 28, the surge in Bitcoin activity surpassed expectations, causing another interruption. 
+
+Although Coinbase assured users of fund safety and ongoing efforts to restore normal operations, the incident raised concerns about the exchange's readiness for heavy traffic during a bullish market cycle, as users expressed dissatisfaction with the disruption. 
+
+https://x.com/CoinbaseSupport/status/1764722724356661341?s=20 
 
 
 March 1st to March 10th:
