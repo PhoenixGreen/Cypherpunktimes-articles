@@ -88,15 +88,17 @@ Can privacy be achieved?
 
 Selective disclosure mechanisms allow users to share specific attributes without revealing their entire identity, reducing the risk of unnecessary exposure. While DID holds great potential for enhancing privacy, its effective implementation relies on careful design, robust encryption, and user education to prevent potential pitfalls or misuses of this technology.
 
-### Interoperability:
+### Compatibility:
 
-Interoperability in decentralized identity is like making sure different digital systems speak the same language. It's about ensuring that your digital identity can smoothly work across various platforms and services without any hiccups.
+Compatibility in decentralized identity is like making sure different digital systems speak the same language. It's about ensuring that your digital identity can smoothly work across various platforms and services without any hiccups.
 
-Imagine if your ID card only worked with one type of door lock. That would be inconvenient, right? Interoperability solves this issue. It means your decentralized identity can be recognized and used on different apps, websites, or services, just like your ID works wherever you go.
+Imagine if your ID card only worked with one type of door lock. That would be inconvenient, right? Compatibility solves this issue. It means your decentralized identity can be recognized and used on different apps, websites, or services, just like your ID works wherever you go.
 
 Imagine buying things online without constantly entering your details. Using blockchain, your payment details become tamper-resistant and transparent. No single authority holds all your financial info, reducing the risk of a massive data breach. This isn't just about security; it's about convenience. With a decentralized identity, online payments become more streamlined, less prone to fraud, and entirely under your control. 
 
-The key is having common standards and rules that everyone follows. This way, whether you're logging into a social media account, accessing a financial service, or using an online marketplace, your decentralized identity seamlessly fits. It's like having a universal key for your digital interactions, making things more convenient and user-friendly. Interoperability is the glue that holds together the vision of a decentralized identity.
+The key is having common standards and rules that everyone follows. This way, whether you're logging into a social media account, accessing a financial service, or using an online marketplace, your decentralized identity seamlessly fits. It's like having a universal key for your digital interactions, making things more convenient and user-friendly. Compatibility is the glue that holds together the vision of a decentralized identity.
+
+However, if there's a lack of compatibility in decentralized identity, it's akin to digital systems speaking different languages, resulting in a fragmented and inconvenient user experience. In this scenario, your decentralized identity might struggle to smoothly navigate across various platforms and services, creating hiccups and complexities akin to having an ID card that only works with specific door locks.
 
 ### Would security be an issue?
 
