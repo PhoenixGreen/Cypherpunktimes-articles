@@ -61,8 +61,7 @@ Here's how it plays a key role:
 2. Data Integrity: The tamper-resistant nature of blockchain ensures the integrity of your data. Once your information is recorded, it's practically impossible for someone to sneak in and make unauthorized changes without everyone noticing. This helps in maintaining the accuracy and reliability of the information.
 3. Transparency: Blockchain is transparent by design. Every participant in the network has access to the same information. This transparency ensures that there's a shared view of the data, reducing the chances of disputes or discrepancies.
 4. Decentralization: Traditional systems often rely on a central authority to manage data. In blockchain-based decentralized identity, there's no single point of control. Instead, the network is distributed across many computers (nodes), making it more resilient and less susceptible to hacking or unauthorized access.
-5. User Control: Blockchain empowers individuals by giving them control over their private keys. These cryptographic keys allow you to access and manage your identity on the blockchain. As the owner of your keys, you have the ultimate say in who gets to see your data and when.
-6. Enhanced Security: The use of cryptographic techniques in blockchain ensures a high level of security. Information is encrypted, making it difficult for unauthorized parties to gain access.
+5. Enhanced Security: The use of cryptographic techniques in blockchain ensures a high level of security. Information is encrypted, making it difficult for unauthorized parties to gain access.
 
 Blockchain provides a robust and trustworthy foundation for decentralized identity systems, offering security, transparency, and user control.
 
