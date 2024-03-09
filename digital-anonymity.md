@@ -1,7 +1,7 @@
 | Author | TallAmericano |
 | :---- | :---- |
 | Title | Digital Anonymity - Is it Achievable? |
-| Headline  | Looking at the possibility for Digital Anonymity and if its achievable. |
+| Headline  | Looking at the possibility of Digital Anonymity and if it's achievable. |
 | Cypherpunktimes | link |
 | Publish Date | xx Mar 2024 |
 
