@@ -6,7 +6,7 @@ Thesis statement for art collection - What the article is about, and what is it 
 
 # Article Title
 
-## Art Piece 1 + Description
+## Art Piece 1 Breaking the chains: Decred liberates itself from centralization by empowering coin holders to participate in steering the direction of its chain
 
 ## Art Piece 2 + Description
 
