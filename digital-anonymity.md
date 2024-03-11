@@ -157,5 +157,5 @@ Control of your finances is one area that should be paramount. We have seen that
 
 When I look ahead I see great opportunities, user-friendly solutions, educated and informed users, and laws that protect users.
 
-To conclude I believe the path to digital anonymity is achievable. The commitment must come from the users. Maintaining freedom of speech, transacting, and operating online without worry. We can see this will take a collective effort but my hope through this article is to inform users of the possibility of a future where one can operate online without intrusion from governments or corporations. I hope you have enjoyed reading and I welcome any feedback.
+To conclude we must accept that not everyone sees digital anonymity as an issue but with more education and knowledge I believe a happy medium is achievable. The commitment must come from the users. Maintaining freedom of speech, transacting, and operating online without worry. We can see this will take a collective effort but my hope through this article is to inform users of the possibility of a future where one can operate online without intrusion from governments or corporations. I hope you have enjoyed reading and I welcome any feedback.
 
