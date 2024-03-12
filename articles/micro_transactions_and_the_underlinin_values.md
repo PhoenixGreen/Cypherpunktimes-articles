@@ -81,21 +81,15 @@ It turns out that blockchain technology is useful for more than just sending lar
 
 Here is a chart of the basic information regarding popular platforms that are trying to achieve the scaling capacity of thousands of transactions per second. Of which, only two solutions enable you to send micro transactions of the smallest unit at a cost of a single unit or less. As you can see, those are Nano and the Lightning Network.
 
-(tbl)
-
-TABLE GOES HERE , I need to look at formatting
-
 | Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
 |---|---|---|---|---|---|---|
-| Solana | 9 | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-| Blockchain | Decimal | Tr Fee | Tr size | Conf time | TPS | Blockchain size |
-
-(tbl)
+| Solana | 9 | 0.00002000 | 250 Bytes | Instant | 65,000 | Over 1 TB |
+| Polygon | 17 | 0.00200000 | 250 Bytes | 20 mins | 65,000 | Over 1 TB |
+| Decred LN | 8 | 0.00000001 | Near zero Bytes | Instant | 100,000+ | Majority off-chain |
+| Litecoin | 8 | 0.00004400 | 250 Bytes | 2.5mins | 54 | Over 140 GB |
+| Dash Instasend | 8 | 0.00002200 | 225 Bytes | 1–2 secs | 35 | Over 32 GB |
+| Digibyte | 8 | 0.00004000 | 250 Bytes | 15 seconds | 1066 | Over 36 GB |
+| Nano | 30 | 0.00000000 | 250 Bytes | Instant | 1000 | Over 113 GB |
 
 (NOT FOR VIDEO) Statistics side note: These stats have been taken from platform-specific documentation and their representative block explorers during March 2024. Where possible, a low average has been calculated to represent the best efficiency of each platform.
 
