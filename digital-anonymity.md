@@ -2,12 +2,12 @@
 | :---- | :---- |
 | Title | Digital Anonymity - Is it Achievable? |
 | Headline  | Looking at the possibility of Digital Anonymity and if it's achievable. |
-| Cypherpunktimes | link |
-| Publish Date | xx Mar 2024 |
+| Cypherpunktimes | [link](https://www.cypherpunktimes.com/digital-anonymity-is-it-achievable/) |
+| Publish Date | 12 Mar 2024 |
 
 | Social Media | Link |
 | :---- | :---- |
-| Twitter | twitter link |
+| Twitter | [twitter link](https://x.com/GiftopherC/status/1767524305540198452?s=20) |
 | Twitter | thread link… |
 | Twitter | poll link… |
 | Reddit  | link… |
