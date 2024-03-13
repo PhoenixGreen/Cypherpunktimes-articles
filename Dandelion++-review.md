@@ -92,6 +92,8 @@ Dandelion++ introduces these steps to make it harder for actors to trace transac
 
 If we use the metaphor of the secret note-passing game in class we can say that Dandelion++ is like an enhanced version of the game. Instead of passing notes in a straight line, this version uses a complex, constantly changing spiderweb pattern, where each student can secretly pass the note to four others. This makes it tough for anyone trying to catch the note to figure out who started it. Whether you're passing your note or one you received, you sometimes decide randomly to share it with everyone or keep passing it secretly. There's also a rule that if a note isn't shared within a certain time, you'll share it yourself to ensure it doesn't get lost. By complicating the path of the note and changing it every round, Dandelion++ improves privacy, although it introduces new complexities and challenges in keeping the game fair and secure.
 
+The technical information about how Dandelion++ works was taken from the article: Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees. (https://dl.acm.org/doi/pdf/10.1145/3292040.3219620)
+
 Could it work for Decred?
 
 Decred currently uses as its privacy protocol the Stakeshuffle. This tool mixes multiple transactions in a way that hides who sent money to whom, without needing a third party to hold the coins. This process, which involves a method called DiceMix Light for speed, ensures that no one can trace transactions, although the amounts transferred remain public. To keep transactions private, they're grouped in fixed amounts and any leftover change is carefully mixed again to avoid detection. CSPP mixes transactions every 15 minutes to enhance privacy further.
