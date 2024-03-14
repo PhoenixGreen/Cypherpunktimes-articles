@@ -13,3 +13,4 @@ Thesis statement for art collection - What the article is about, and what is it 
 ## Art Piece 3 + Description
 
 ## Art Piece 4 + Description
+
