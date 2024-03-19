@@ -93,6 +93,18 @@ As more coins are staked, the available supply for trading diminishes, potential
 
 ## What happens in markets when these supply events occur:
 
+Below are reactions observed in markets during supply events:
+
+1. Increase in Scarcity: Heightened scarcity can create panic or FOMO among investors, driving up demand and possibly leading to price appreciation.
+
+2. Volatile Price Movements: As we have seen with Decred, and you only need to look at the chart, spikes in price appear quite often. This could happen due to a restriction on supply due to the amount staked or if one of the main exchanges like Binance suddenly run low on DCR in their wallets.
+
+3. Speculation: Investors might monitor supply like any market and see an opportunity to make a profit. They most likely would have algorithmic trading bots constantly looking out for such scenarios.
+
+4. Shifts in Market Sentiment: Investors can get nervous when for example a token might release more tokens to the market. They can also get FOMO and in a scarcity situation look to buy, this was ever apparent in the GameStop craze in 2021.
+
+5. Long-Term Price Trends: Positive supply shock events like the Bitcoin halving have historically been associated with price appreciation over time. Negative supply shock events may lead to prolonged periods of price stagnation or decline if investor confidence is eroded.
+
 ## Investor reactions, Price action, and volatility surrounding supply shock events. The impact on market sentiment, volumes, and long-term price trends.
 
 ## Strategies to deploy during these events:
