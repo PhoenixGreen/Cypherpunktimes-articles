@@ -38,6 +38,9 @@ This article aims to cover the history of supply shocks on cryptocurrency, analy
 
 ## Explanation of supply shock with regard to cryptocurrency
 
+Supply shocks can happen suddenly and are unexpected. It dramatically changes the effects of supply which leads to an unexpected change in the price. These events can be positive or negative which lead to an increase or drop in the supply. For example, the price of a cryptocurrency could shoot up when there is little supply or could shoot down when there is an oversupply, this is all when the demand remains constant.
+
+
 ## Importance of supply dynamics in cryptocurrency markets
 
 ## Overview of how these events can affect cryptocurrency prices
