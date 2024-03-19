@@ -5,7 +5,7 @@
 | Featured text       | Is Decred in a supply shock situation. How can we tell?  |
 | CT link             | FIXME |
 | Publish date        | 2024-03-2x |
-| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
+| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or the article is rejected for publication |
 
 | Social Media | Links |
 |---|---|
@@ -23,7 +23,7 @@
 
 ## Thesis statement
 
-This article aims to cover the history of supply shocks on cryptocurrency, analyzing the circumstances on how they occur and what it means for Decred
+This article aims to cover the history of supply shocks on cryptocurrency, analyzing the circumstances of how they occur and what it means for Decred
 
 
 ## Pre-discussion, research and questions
@@ -56,13 +56,40 @@ Supply dynamics are very important in cryptocurrency markets. It is probably the
 
 ## Overview of how these events can affect cryptocurrency prices
 
+We have already discussed events that can have an effect on cryptocurrency supply like the Bitcoin halving. On the other hand events that increase the supply such as minting of tokens or the unlocking of restricted tokens can dilute the supply. This could have a negative supply shock on the price of the cryptocurrency.
 
 
-## What is Supply Shock?
 ## Definition of supply shock and factors that cause it along with examples from historical occurrences
+
+Supply shock refers to a sudden and significant disruption in the supply of an asset. It can lead to changes in availability and price. When it comes to cryptocurrencies this normally occurs when the supply of coins on the market becomes less and less.
+
+Historical examples include Bitcoin's halving events in 2012, 2016, and 2020. These led to price rallies as the reduction in new supply meant miner's rewards dropped and also investors' demand grew because of scarcity.  
+
+Reference: https://thedefireport.substack.com/p/bitcoin-adoption-cycles 
+
+Ethereum's Ethereum Improvement Proposal (EIP) 1559 introduced in 2021, brought with it a deflationary mechanism by burning some fees, resulting in a supply shock that contributed to the appreciation of Ether's price. 
+
+Reference: https://consensys.io/blog/what-is-eip-1559-how-will-it-change-ethereum 
+
 
 ## Decred and Supply Shock:
 ## Decred fixed supply, move to PoS. History of limited supply with staking and where we are now
+
+Decred supply is fixed at 21 million coins. From the latest figures I have (19/03/2024)
+
+- Total coin supply currently is 15,931,541 DCR
+- Total staked is 9,848,611 DCR
+- Treasury holds 871,692 DCR
+- Estimated lost coins or unmoved from dormant/inactive accounts has been roughly estimated at 1 million. We cannot say for sure though.
+  
+
+This could mean Decred is one of the scarcest cryptocurrencies on the market with maybe 3 million circulating supply.
+
+Decred moved from PoW to mainly PoS because it was becoming apparent that the miners were mining DCR and then appeared to be selling off the coins mined. They did not show an active interest in holding DCR and were most likely just profiting.
+
+Now with mainly PoS stakeholders can stake their coins in the form of a ticket(Ticket cost varies but as of today the price is 234 DCR). Now instead of the miners earning the reward, the stakeholders will earn the reward. The stakeholders will also have active participation in the community and are unlikely to sell their rewards so freely on the open market.
+
+As more coins are staked, the available supply for trading diminishes, potentially leading to increased scarcity and upward price pressure. 
 
 ## What happens in markets when these supply events occur:
 
