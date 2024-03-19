@@ -40,6 +40,14 @@ This article aims to cover the history of supply shocks on cryptocurrency, analy
 
 Supply shocks can happen suddenly and are unexpected. It dramatically changes the effects of supply which leads to an unexpected change in the price. These events can be positive or negative which lead to an increase or drop in the supply. For example, the price of a cryptocurrency could shoot up when there is little supply or could shoot down when there is an oversupply, this is all when the demand remains constant.
 
+Understanding the causes of supply shock is essential for investors as it can have a massive impact on people's investment strategy.
+
+Cryptocurrencies normally have a predetermined supply schedule or a fixed issuance rate encoded into their code. Decred, for example, has a capped supply of 21 million coins, with any new coins mined coming at a gradually decreasing rate over time. This finite supply creates scarcity, making each unit of the cryptocurrency more valuable as demand increases.
+
+Supply shock events occur for many reasons. A common one would be the Bitcoin halving. The halving means the block reward for miners is reduced by half, leading to a sudden reduction in the rate of new coins produced. This supply reduction often results in increased buying pressure and upward price movements.
+
+Regulatory issues can also lead to supply shock events. For example, if mining is banned in a certain country or if assets are frozen on an exchange.
+
 
 ## Importance of supply dynamics in cryptocurrency markets
 
