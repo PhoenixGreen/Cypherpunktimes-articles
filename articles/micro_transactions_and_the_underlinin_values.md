@@ -1,19 +1,17 @@
 | Content | Description |
 |---|---|
-| Title               | Micro transactions and the underlining values |
+| Title               | Blockchain scaling to include micro transactions |
 | Author              | Phoenix Green |
 | Featured text       | Why does it matter if a blockchain can process micro transactions, and will we ever need them? |
-| CT link             | FIXME |
-| Publish date        | YYYY-MM-DD FIXME |
+| CT link             | https://www.cypherpunktimes.com/blockchain-scaling-to-include-micro-transactions/ |
+| Publish date        | Mar 19, 2024 |
 
 | Social Media | Links |
 |---|---|
-| YouTube link        | FIXME |
-| Podcast link        | FIXME |
-| Bison Relay post    | Title |
-| Reddit link         | FIXME |
-| CT tweet            | FIXME |
-| YouTube tweet       | FIXME |
+| YouTube link        | https://youtu.be/Vh5H08l9mcg |
+| Podcast link        | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Blockchain-scaling-to-include-micro-transactions-e2h9hhc |
+| CT tweet            | https://x.com/cypherpunktimes/status/1770100922024157382 |
+| YouTube tweet       | https://x.com/DecredSociety/status/1770105842013974984 |
 | Twitter full video  | FIXME |
 | Twitter clip 1      | FIXME |
 | Twitter clip 2      | FIXME |
