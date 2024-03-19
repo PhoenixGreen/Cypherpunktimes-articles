@@ -15,7 +15,7 @@
 | Twitter full video  | FIXME |
 | Twitter clip 1      | FIXME |
 | Twitter clip 2      | FIXME |
-| Matrix post         | Promote your main tweet in "DCR Social Media" channel |
+| Bison Relay Post    | Title: Blockchain scaling to include micro transactions |
 
 
 ## Thesis statement
