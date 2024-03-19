@@ -51,24 +51,29 @@ Regulatory issues can also lead to supply shock events. For example, if mining i
 
 ## Importance of supply dynamics in cryptocurrency markets
 
+Supply dynamics are very important in cryptocurrency markets. It is probably the number one driver of price movements. Traditional fiat currencies can be printed at the whim of a central bank. There are no supply constraints. More money can be pumped into the system at any time as we have seen only recently during Covid where the US Dollar doubled the supply overnight. This has led to inflation which wreaks havoc on the poorer classes of society.
+
+
 ## Overview of how these events can affect cryptocurrency prices
 
+
+
 ## What is Supply Shock?
-## Definition of supply shock and factors that cause it along with examples from historical occurences
+## Definition of supply shock and factors that cause it along with examples from historical occurrences
 
 ## Decred and Supply Shock:
 ## Decred fixed supply, move to PoS. History of limited supply with staking and where we are now
 
-## What happens in markets with when these supply events occur:
+## What happens in markets when these supply events occur:
 
-## Investor reactions, Price action and volatility surrounding supply shock events. The impact on market sentiment, volumes, and long-term price trends.
+## Investor reactions, Price action, and volatility surrounding supply shock events. The impact on market sentiment, volumes, and long-term price trends.
 
 ## Strategies to deploy during these events:
 
-## Managing risk and noticing long term projections
+## Managing risk and noticing long-term projections
 
 ## Potential future supply shock scenarios:
 
 ## Investors should understand these events and how to notice when they start and how to take advantage.
 
-Opportunity for discussion, questions, idea development, points of views and talking points
+Opportunity for discussion, questions, idea development, points of view and talking points
