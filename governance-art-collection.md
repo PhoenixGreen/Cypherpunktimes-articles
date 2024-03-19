@@ -12,4 +12,4 @@ Thesis statement for art collection - What the article is about, and what is it 
 
 ## Art Piece 3 The Decred governance system utilizes a ticket system, where purchasing a voting ticket with $dcr will timelock that $dcr into the ticket until it is called to vote, typically within 28 days but potentially up to 142 days. timelocking of $dcr incentivizes voters to act in the best interest of the chain and ensures a fair and secure decision-making process, as the value of their locked $dcr depends on it.Furthermore, this system prevents manipulation or vote buying, as the timelock prohibits individuals or groups from rapidly buying and selling large quantities of tickets to sway the outcome of a vote.
 
-## Art Piece 4 + Description
+## Art Piece 4 In Decred the coinholders are the ones that timelock their $dcr empowering them to steer the currency's course beyond VC influence
