@@ -61,6 +61,79 @@ Conclusion: Reimagining Privacy in Social Media
 
 ---
 
-# Article Title
+# Tiktok on the clock: The current satate of social media
 
-My article text goes here …
+TikTok is a global phenomenon, which redefined the social media landscape with its unique video (mostly shorts) content platform. Originating from Beijing, China, under the control of the ByteDance company, TikTok launched in 2018 and quickly captured the screens of millions worldwide, especially the young generation, 45% of its users are 30-29 years old. With its addictive algorithm, TikTok has become a hub for entertainment, and viral trends, overcoming geographical, cultural, and linguistic barriers.
+
+Its significant role in shaping digital culture, influencing consumer behavior, and creating online communities has positioned it as maybe the most influential social media platform nowadays. However, this status has also placed TikTok under intense scrutiny by the American regulatory bodies, leading to recent legislative actions that could redefine its operational freedom in the U.S.
+
+The United States took a significant step towards a potential ban of TikTok when the House of Representatives approved a bill on March 13th. This legislation demands that ByteDance, the Chinese company behind TikTok, must sell its stakes in the app or face expulsion from U.S. app stores. Numerous legislators in the House have expressed concerns that the app might enable the Chinese government to obtain user data and exert influence over Americans.
+
+Is TikTok genuinely a threat to user privacy and data security, or are there underlying motives behind the potential ban? How do TikTok's privacy policies compare against those of American social media companies, and what alternatives exist for users concerned about their privacy? These questions are central to understanding the current landscape of social media and the concerns surrounding data privacy. Let's delve into them to better grasp the dangers of social media in modern digital privacy.
+
+## Why TikTok could be banned?
+
+The act approved by the American Congress begins with the following sentences, that demonstrate its objective: 
+
+"To protect the national security of the United States from the threat posed by foreign adversary controlled applications, such as TikTok and any successor application or service and any other application or service developed or provided by ByteDance Ltd. or an entity under the control of ByteDance Ltd." (https://www.congress.gov/bill/118th-congress/house-bill/7521/text?s=1&r=5&q=%7B%22search%22%3A%22tiktok%22%7D)
+
+Representatives from the Democratic and Republican parties, along with law enforcement and intelligence agencies, have stated worries about the possibility of Chinese officials pressuring ByteDance into leaking data from the 170 million American TikTok users. These concerns arise from Chinese national security legislation that mandates companies to cooperate with intelligence activities, a requirement that ByteDance is expected to comply with.
+
+TikTok has denied those claims suggesting it might serve as an instrument for the Chinese government. The platform asserts it has not, and will not, share U.S. user data with Chinese officials, even if requested. Moreover, the U.S. government has yet to produce evidence confirming that TikTok has ever shared such data with the Chinese authorities.
+
+The bill presents ByteDance with two choices: sell TikTok or face a prohibition on its operations. If ByteDance opts to sell its operation in TikTok to an American company, the app could still function within the U.S., after the President, via an inter-agency review, certifies that TikTok is no longer under the control of a foreign adversary. Additionally, the legislation stipulates that ByteDance must renounce control over TikTok's influential algorithm, known for adjusting content to users' preferences.
+
+## Tiktok privacy issues
+
+People use TikTok for several reasons, which include entertainment, following trends, learning new things, sharing personal experiences, expressing themselves artistically, and marketing or growing their personal or business brand. However, the platform also faces significant criticism for numerous privacy concerns.
+
+TikTok's data collection practices involve collecting sensitive user information, often without explicit consent. This includes personal device details, browsing history, keystroke patterns, wireless connections, geolocation, personally identifiable information (PII), biometric data (such as facial and voice recognition), and the content of messages. You can read the platform's Privacy Policies here! (https://www.tiktok.com/legal/page/row/privacy-policy/en)
+ 
+The app's privacy policy allows for extensive data analysis, raising concerns about user privacy and security, especially given the potential for this data to be accessed by the Chinese government due to legal obligations. Despite assurances that data is stored in the U.S. and Singapore, TikTok's connections to China-based infrastructure suggest that user data could be shared with Chinese authorities. The U.S. lacks stringent federal laws on data privacy, enabling TikTok to collect and utilize personal data with minimal regulation, contrasting with stronger protections in other regions like Europe. This situation has raised significant concern among the U.S. government and cybersecurity experts regarding the implications for privacy and national security.
+
+However, the core of the possible ban in the U.S. extends beyond these concerns, revolving around safeguarding the United States' dominance in global technology. This dynamic unfolds against China's growing tech sector and escalating tensions, which some describe as a new Cold War. Key elements of this rivalry include competition for artificial intelligence (https://www.reuters.com/investigates/special-report/us-china-tech-drones/) superiority and conflicts over microchip manufacturing (https://www.theguardian.com/world/2023/jul/05/chip-wars-how-semiconductors-became-a-flashpoint-in-the-us-china-relationship) and the availability of cloud computing services (https://www.wsj.com/articles/u-s-looks-to-restrict-chinas-access-to-cloud-computing-to-protect-advanced-technology-f771613).
+
+## How U.S. social media treats privacy
+
+After that analysis, TikTok surely looks like a privacy nightmare to those users who are concerned about the security of their personal information and internet behavior. But social media users shouldn't focus their worries only on TikTok, but also on other social media companies. Since the Snowden leaks, we know that the National Security Agency (NSA) has run surveillance programs through “partnerships” with major US tech and internet companies. (https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
+
+Major technology corporations such as Google, X, and Meta are also known for collecting personal information from their users. They say it's necessary to improve user experience on their platforms, but a big part of it is all about selling ads that hit people right where they live. The thing is, when they gather info about our race, ethnicity, who we love, or other personal stuff, it can lead us into some risky situations. Take Meta, for example. They recently had to come to terms with the U.S. Department of Justice (https://www.justice.gov/opa/pr/justice-department-and-meta-platforms-inc-reach-key-agreement-they-implement-groundbreaking) because their algorithms were letting advertisers leave out certain racial groups from seeing important ads about housing, jobs, and banking. And let's not forget the $5 billion fine they got in 2018. The Federal Trade Commission found out they weren’t exactly being careful with user's data (https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook). It all blew up because of shady business with a British company called Cambridge Analytica (https://www.businessinsider.com/data-hacks-breaches-biggest-of-2018-2018-12?op=1#7-cambridge-analytica-87-million-15). Meta's tried to fix some of these issues, but it just goes to show that collecting all this sensitive data can lead to some serious problems.
+
+This revelation highlights that American social media giants, much like the Chinese company ByteDance, pose significant threats to user privacy. Despite originating from different countries, their approach to handling user data reveals bad similarities. Both are involved in controversies regarding the management of personal information and suspicious interactions with governmental bodies. This parallel underscores a global issue within the tech industry, where the boundaries of privacy are continually tested, often at the expense of the individual user.
+
+## There are safe options for social media?
+
+In a Social media-centered world is very difficult for a person to live without them. Wanting to socialize is a natural human condition, but what do we do when we care about our data and privacy?
+
+Thankfully, there are open-source, privacy-focused, and peer-to-peer alternatives. Let's go through some of them and see what issues they address.
+
+## Bison Relay
+
+Bison Relay is the Decred project's new take on social media. It's a new platform that emphasizes free speech, privacy, and decentralization. It operates with an asynchronous client-server protocol that utilizes the Decred Lightning Network for micropayments. Every message sent with Bison Relay is encrypted!
+
+This innovative social media integrates payments, messaging, and data security into a single platform. It's a software that supports functionalities similar to Facebook/Twitter, where users can post content, subscribe to user's posts, and comment. Let's go deeper into some other interesting perks of Bison Relay:
+
+1-Free Speech and Free Association: Users can communicate freely without the fear of censorship or persecution, enjoying the benefits of encrypted messaging and metadata minimization. The platform collects only the minimum of information necessary to operate!
+
+2-Encryption and Privacy: All messages are encrypted by the use of end-to-end encryption. This tool ensures that only the intended recipient can read the content. 
+
+3-Decentralization and Peer-to-Peer Network: Bison Relay does not rely on a centralized server for transmitting messages and handling user accounts. It's fundamentally a peer-to-peer encrypted content relay network. This minimizes the risk of surveillance.
+
+(Video about Bison Relay latest update https://www.youtube.com/watch?v=Wz0Gn7Kdjeo&list=PLaMrpvQ0yJ_zjApTu1dMcLEvCxGMCVU5y&index=13)
+
+In summary, Bison Relay offers the possibility of communicating without fear. It emphasizes user sovereignty, giving an encrypted and privacy-focused platform that integrates with the Decred cryptocurrency.
+
+## Mastodon
+
+Mastodon is a social platform very similar to Twitter, but with a structure that emphasizes privacy, user control, and community governance. Instead of having a single, central server owned by a corporation, Mastodon is composed of several independent servers, each with its own rules, policies, and community focus, this system is called a "federated model".
+
+This structure allows users to join groups that are aligned with their interests, values, and desired privacy levels. It's a customizable experience that enables advanced privacy settings, where you can adjust the level of privacy for each publication made.
+
+(Mastodon explained video https://www.youtube.com/watch?v=IPSbNdBmWKE&t=5s_)
+
+## Moving Forward
+
+As some user become aware of the security and privacy implications of their online presence and data usage, alternatives like Bison Relay and Mastodon offer promising alternatives. Big companies such as ByteDance and Meta have been exposed as real privacy nightmares and a risk for anyone worried about their data. 
+
+The emergence of privacy-focused and user-centered platforms may be a light at the end of the tunnel. There is a lot of work to be done to raise awareness about the online security issues that regular folk go through, but this shift must happen if we want a more decentralized and free future.
+
