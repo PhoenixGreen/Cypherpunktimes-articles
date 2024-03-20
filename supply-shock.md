@@ -97,7 +97,7 @@ Below are reactions observed in markets during supply events:
 
 1. Increase in Scarcity: Heightened scarcity can create panic or FOMO among investors, driving up demand and possibly leading to price appreciation.
 
-2. Volatile Price Movements: As we have seen with Decred, and you only need to look at the chart, spikes in price appear quite often. This could happen due to a restriction on supply due to the amount staked or if one of the main exchanges like Binance suddenly run low on DCR in their wallets.
+2. Volatile Price Movements: As we have seen with Decred, and you only need to look at the chart, spikes in price appear quite often. This could happen due to a restriction on supply due to the amount staked or if one of the main exchanges like Binance suddenly runs low on DCR in their wallets.
 
 3. Speculation: Investors might monitor supply like any market and see an opportunity to make a profit. They most likely would have algorithmic trading bots constantly looking out for such scenarios.
 
@@ -105,14 +105,24 @@ Below are reactions observed in markets during supply events:
 
 5. Long-Term Price Trends: Positive supply shock events like the Bitcoin halving have historically been associated with price appreciation over time. Negative supply shock events may lead to prolonged periods of price stagnation or decline if investor confidence is eroded.
 
-## Investor reactions, Price action, and volatility surrounding supply shock events. The impact on market sentiment, volumes, and long-term price trends.
-
 ## Strategies to deploy during these events:
 
-## Managing risk and noticing long-term projections
+During supply shock events investors may consider deploying different strategies as listed below:
+
+Hodling: I'm sure everyone is familiar with this term now. Holding for the long term might be the layman's term. Hodlers look for price appreciation over the long term, driven by increased scarcity and growing demand.
+
+Dollar-Cost Averaging (DCA): This strategy involves buying regular amounts of cryptocurrency at set intervals, maybe once a month. This limits risk and also means you may get a decent average price over the long term as the asset grows in value.
+
+Staking: Investors who believe in a project or cryptocurrency can avail of staking in some cases. This allows them to earn rewards by staking and assisting the protocol. Over the long run these rewards will compound and if the price appreciates the investors will benefit.
+
+Trading Volatility: Short-term traders can benefit in supply shock scenarios by possibly predicting the event and buying low and selling high. More and more trading bots are being deployed that can run algorithms and see events occurring and benefit from the price movements.
+
+Managing The Risk: As always investors need to manage their risk and never leave themselves in a position for a huge loss. Being sensible and controlling emotions is key.
+
+Identifying Market Trends:  Staying informed and looking out for trends, the latest news, and technical indicators can help investors pounce upon opportunities
+
+By carefully considering all these factors investors can position themselves to capitalize on opportunities.
 
 ## Potential future supply shock scenarios:
 
-## Investors should understand these events and how to notice when they start and how to take advantage.
 
-Opportunity for discussion, questions, idea development, points of view and talking points
