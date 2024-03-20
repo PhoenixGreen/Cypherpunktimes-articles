@@ -5,7 +5,7 @@
 | Featured text       | Is Decred in a supply shock situation. How can we tell?  |
 | CT link             | FIXME |
 | Publish date        | 2024-03-2x |
-| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or the article is rejected for publication |
+| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or the article is rejected for publication  SCORE = 3.87% |
 
 | Social Media | Links |
 |---|---|
@@ -153,6 +153,4 @@ Governance Decisions: Decred and other projects have built-in Governance. For ex
 ## Conclusion:
 
 In conclusion, supply shock events are capable of exerting significant influence on prices, investor sentiment, and market dynamics. Education is key in this area to seize opportunities and notice the projects that put stakeholders first. Factors like protocol upgrades, regulatory changes, technological innovations, or economic events can all affect supply or cause a supply shock.
-
-## Links/References:
 
