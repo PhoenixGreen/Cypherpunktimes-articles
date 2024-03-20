@@ -67,9 +67,15 @@ Historical examples include Bitcoin's halving events in 2012, 2016, and 2020. Th
 
 Reference: https://thedefireport.substack.com/p/bitcoin-adoption-cycles 
 
+***PUT IN A CHART TO BITCOIN HALVING***** Some charts to explore: https://www.tradingview.com/chart/BTCUSD/4ocD1Cgi-Bitcoin-Halving-Cycles-Cycle-Bottom-to-Previous-ATH/ 
+
 Ethereum's Ethereum Improvement Proposal (EIP) 1559 introduced in 2021, brought with it a deflationary mechanism by burning some fees, resulting in a supply shock that contributed to the appreciation of Ether's price. 
 
 Reference: https://consensys.io/blog/what-is-eip-1559-how-will-it-change-ethereum 
+
+https://www.galaxy.com/insights/research/eip-1559-major-ethereum-upgrade/
+
+***PUT IN A CHART TO ETH and highlight around 2021*****
 
 
 ## Decred and Supply Shock:
@@ -81,7 +87,8 @@ Decred supply is fixed at 21 million coins. From the latest figures I have (19/0
 - Total staked is 9,848,611 DCR
 - Treasury holds 871,692 DCR
 - Estimated lost coins or unmoved from dormant/inactive accounts has been roughly estimated at 1 million. We cannot say for sure though.
-  
+
+***PUT IN A CHART TO DECRED*****
 
 This could mean Decred is one of the scarcest cryptocurrencies on the market with maybe 3 million circulating supply.
 
@@ -144,4 +151,8 @@ Shifts in Mining Behavior: As we have seen with Decred as the mining reward was 
 Governance Decisions: Decred and other projects have built-in Governance. For example, a vote on spending from the treasury could have a big impact on Decred if a proposal passes for a large amount of DCR coins to be spent.
 
 ## Conclusion:
+
+In conclusion, supply shock events are capable of exerting significant influence on prices, investor sentiment, and market dynamics. Education is key in this area to seize opportunities and notice the projects that put stakeholders first. Factors like protocol upgrades, regulatory changes, technological innovations, or economic events can all affect supply or cause a supply shock.
+
+## Links/References:
 
