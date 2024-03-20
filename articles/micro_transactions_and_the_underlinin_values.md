@@ -13,7 +13,7 @@
 | CT tweet            | https://x.com/cypherpunktimes/status/1770100922024157382 |
 | YouTube tweet       | https://x.com/DecredSociety/status/1770105842013974984 |
 | Twitter full video  | https://x.com/decredproject/status/1770344738933055946 |
-| Twitter clip 1      | FIXME |
+| Twitter clip 1      | https://x.com/DecredSociety/status/1770366966273826866 |
 | Twitter clip 2      | FIXME |
 | Bison Relay Post    | Title: Blockchain scaling to include micro transactions |
 
