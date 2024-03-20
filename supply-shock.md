@@ -125,4 +125,23 @@ By carefully considering all these factors investors can position themselves to 
 
 ## Potential future supply shock scenarios:
 
+When anticipating potential future supply shock scenarios on could look out for the following:
+
+- Upgrades to Protocols: How will these affect the supply? Is there an opportunity to take advantage?
+
+- Changes in Laws: For example, Binance delisted Monero recently. They announced this information publicly causing a slide in the XMR price. It appears people took an opportunity to buy Monero then because the underlying protocol hadn't changed and fundamentals remained the same.
+
+Technological Innovations: Advances in blockchain technology or the development of new consensus mechanisms could alter the supply dynamics of cryptocurrencies. For example, the introduction of more efficient mining algorithms or the implementation of layer 2 scaling solutions could impact the rate at which new tokens are created.
+
+Halving Events: For cryptocurrencies with fixed issuance schedules like Bitcoin, future halving events could continue to cause supply shock events. As the block reward decreases over time, the rate at which new coins are generated diminishes, potentially leading to increased scarcity and upward price pressure.
+
+Token Burns: Some projects may decide to burn tokens which will reduce the supply. This should make the price appreciate as the tokens are now more scarce.
+
+Economic Events: External economic events, such as hyperinflation or financial crises, could impact the supply dynamics of cryptocurrencies. 
+
+Shifts in Mining Behavior: As we have seen with Decred as the mining reward was reduced, more miners decided to sell their coins. In the long term though when the selling stops then the project should benefit as less selling pressure is exerted.
+
+Governance Decisions: Decred and other projects have built-in Governance. For example, a vote on spending from the treasury could have a big impact on Decred if a proposal passes for a large amount of DCR coins to be spent.
+
+## Conclusion:
 
