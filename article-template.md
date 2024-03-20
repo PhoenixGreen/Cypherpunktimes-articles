@@ -9,17 +9,11 @@
 
 | Social Media | Links |
 |---|---|
-| YouTube link        | FIXME |
-| Podcast link        | FIXME |
 | Bison Relay post    | Title |
 | Reddit link         | FIXME |
-| CT tweet            | FIXME |
-| YouTube tweet       | FIXME |
-| Twitter full video  | FIXME |
-| Twitter clip 1      | FIXME |
-| Twitter clip 2      | FIXME |
+| Tweeter link        | FIXME |
+| TwitterSpace link   | FIXME |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
-
 
 ## Thesis statement
 
