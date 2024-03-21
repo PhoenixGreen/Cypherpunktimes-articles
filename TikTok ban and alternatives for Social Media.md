@@ -77,11 +77,11 @@ The act approved by the American Congress begins with the following sentences, t
 
 "To protect the national security of the United States from the threat posed by foreign adversary controlled applications, such as TikTok and any successor application or service and any other application or service developed or provided by ByteDance Ltd. or an entity under the control of ByteDance Ltd." (https://www.congress.gov/bill/118th-congress/house-bill/7521/text?s=1&r=5&q=%7B%22search%22%3A%22tiktok%22%7D)
 
-Representatives from the Democratic and Republican parties, along with law enforcement and intelligence agencies, have stated worries about the possibility of Chinese officials pressuring ByteDance into leaking data from the 170 million American TikTok users. These concerns arise from Chinese national security legislation that mandates companies to cooperate with intelligence activities, a requirement that ByteDance is expected to comply with.
+Republican and Democratic legislators, alongside intelligence agencies, are worried that ByteDance could be handing U.S. TikTok user's data to the Chinese government. Those worries are not in vain, since the U.S. has 170 million active TikTok users, and China's national security laws mandate companies to assist in national intelligence operations.
 
-TikTok has denied those claims suggesting it might serve as an instrument for the Chinese government. The platform asserts it has not, and will not, share U.S. user data with Chinese officials, even if requested. Moreover, the U.S. government has yet to produce evidence confirming that TikTok has ever shared such data with the Chinese authorities.
+TikTok has denied those claims suggesting it might help the Chinese intelligence operations. ByteDance states it has never shared U.S. user's data with Chinese authorities. Despite the suspicion, the U.S. government still has no proof that TikTok has shared such information with Chinese officials.
 
-The bill presents ByteDance with two choices: sell TikTok or face a prohibition on its operations. If ByteDance opts to sell its operation in TikTok to an American company, the app could still function within the U.S., after the President, via an inter-agency review, certifies that TikTok is no longer under the control of a foreign adversary. Additionally, the legislation stipulates that ByteDance must renounce control over TikTok's influential algorithm, known for adjusting content to users' preferences.
+The act still needs to be approved by the Senate to have real effects, but if it happens ByteDance is left with two options: sell TikTok or face a ban on its operations. If it chooses to sell, the app could still function in the U.S., after the White House certifies that the app is no longer under the control of a foreign adversary. The legislation also stipulates that Byte Dance must give up control over TikTok's algorithm, known for being addictive and engaging.
 
 ## Tiktok privacy issues
 
@@ -105,7 +105,7 @@ This revelation highlights that American social media giants, much like the Chin
 
 In a Social media-centered world is very difficult for a person to live without them. Wanting to socialize is a natural human condition, but what do we do when we care about our data and privacy?
 
-Thankfully, there are open-source, privacy-focused, and peer-to-peer alternatives. Let's go through some of them and see what issues they address.
+This question is complicated, but there is still hope! A variety of open-source, privacy-centric, and peer-to-peer solutions are available. This discussion explores these alternatives and the particular challenges they aim to solve.
 
 ## Bison Relay
 
@@ -135,5 +135,5 @@ This structure allows users to join groups that are aligned with their interests
 
 As some user become aware of the security and privacy implications of their online presence and data usage, alternatives like Bison Relay and Mastodon offer promising alternatives. Big companies such as ByteDance and Meta have been exposed as real privacy nightmares and a risk for anyone worried about their data. 
 
-The emergence of privacy-focused and user-centered platforms may be a light at the end of the tunnel. There is a lot of work to be done to raise awareness about the online security issues that regular folk go through, but this shift must happen if we want a more decentralized and free future.
+The light at the end of the tunnel for social media may be the rise of privacy-focused and user-centered platforms. Regular folk still need more awareness about the dangers of data misusage and personal information leaks. The cypherpunk community must work on that learning process, spreading knowledge about the importance of internet privacy and data security. If the work is done the right way we can head for a more decentralized and free future.
 
