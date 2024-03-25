@@ -3,8 +3,8 @@
 | Title               | Understanding the Impact of Supply Shock on Cryptocurrency |
 | Author              | tallamericano |
 | Featured text       | Is Decred in a supply shock situation. How can we tell?  |
-| CT link             | FIXME |
-| Publish date        | 2024-03-2x |
+| CT link             | https://www.cypherpunktimes.com/understanding-the-impact-of-supply-shock-on-cryptocurrency/ |
+| Publish date        | 2024-03-25 |
 | Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or the article is rejected for publication  SCORE = 3.87% |
 
 | Social Media | Links |
@@ -18,6 +18,7 @@
 | Twitter full video  | FIXME |
 | Twitter clip 1      | FIXME |
 | Twitter clip 2      | FIXME |
+| Twitter link        | https://x.com/GiftopherC/status/1772174604963852343?s=20 |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
 
 
