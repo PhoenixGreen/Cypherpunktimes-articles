@@ -1,8 +1,8 @@
 | Content | This Article will talk about The possible Tiktok ban in the U.S and highlight the problems of privacy and data misuse in the current Social Media ecosystem. The talk will be directed to highlighting alternative to the traditional Social media platforms, specially Bison Relay |
 |---|---|
-| Title               | TikTok on the clock: Th possible ban, privacy concerns, and the Potential of Decentralized Platforms |
+| Title               | TikTok on the clock: The possible ban, privacy concerns, and the Potential of Decentralized Platforms |
 | Author              | João Paulo Sant'Anna da Silva |
-| Featured text       | FIXME |
+| Featured text       | Is TikTok genuinely a threat to user privacy and data security, or are there underlying motives behind the potential ban? How do TikTok's privacy policies compare against those of American social media companies, and what alternatives exist for users concerned about their privacy? |
 | CT link             | FIXME |
 | Publish date        | YYYY-MM-DD FIXME |
 | Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
@@ -63,7 +63,7 @@ Conclusion: Reimagining Privacy in Social Media
 
 # Tiktok on the clock: The current satate of social media
 
-TikTok is a global phenomenon, which redefined the social media landscape with its unique video (mostly shorts) content platform. Originating from Beijing, China, under the control of the ByteDance company, TikTok launched in 2018 and quickly captured the screens of millions worldwide, especially the young generation, 45% of its users are 30-29 years old. With its addictive algorithm, TikTok has become a hub for entertainment, and viral trends, overcoming geographical, cultural, and linguistic barriers.
+TikTok is a global phenomenon, which redefined the social media landscape with its unique video (mostly shorts) content platform. Originating from Beijing, China, under the control of the ByteDance company, TikTok launched in 2018 and quickly captured the screens of millions worldwide, especially the young generation, 45% of its users are 20-29 years old. With its addictive algorithm, TikTok has become a hub for entertainment, and viral trends, overcoming geographical, cultural, and linguistic barriers.
 
 Its significant role in shaping digital culture, influencing consumer behavior, and creating online communities has positioned it as maybe the most influential social media platform nowadays. However, this status has also placed TikTok under intense scrutiny by the American regulatory bodies, leading to recent legislative actions that could redefine its operational freedom in the U.S.
 
