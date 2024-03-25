@@ -63,7 +63,7 @@ Conclusion: Reimagining Privacy in Social Media
 
 # Tiktok on the clock: The current satate of social media
 
-TikTok is a global phenomenon, which redefined the social media landscape with its unique video (mostly shorts) content platform. Originating from Beijing, China, under the control of the ByteDance company, TikTok launched in 2018 and quickly captured the screens of millions worldwide, especially the young generation, 45% of its users are 20-29 years old. With its addictive algorithm, TikTok has become a hub for entertainment, and viral trends, overcoming geographical, cultural, and linguistic barriers.
+TikTok is a global phenomenon, which redefined the social media landscape with its unique video (mostly shorts) content platform. Originating from Beijing, China, under the control of the ByteDance company, TikTok launched in 2018 and quickly captured the screens of millions worldwide, especially the young generation, 47.4% of its users are 10-29 years old. With its addictive algorithm, TikTok has become a hub for entertainment, and viral trends, overcoming geographical, cultural, and linguistic barriers.
 
 Its significant role in shaping digital culture, influencing consumer behavior, and creating online communities has positioned it as maybe the most influential social media platform nowadays. However, this status has also placed TikTok under intense scrutiny by the American regulatory bodies, leading to recent legislative actions that could redefine its operational freedom in the U.S.
 
