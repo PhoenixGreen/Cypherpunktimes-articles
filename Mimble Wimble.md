@@ -38,7 +38,7 @@ This article will talk about the MimbleWimble privacy protocol, going through:
 
 # Mimblewimble, the Enchantment of Anonymity
 
-If you have read the Harry Potter books the name Mimblwimble may be familiar. It's the name of a spell that ties the target's tongue to keep them from spreading secrets or casting other spells. In the real world, this funny word was chosen by an anonymous developer who used the name Tom Elvis Jedusor, to name a privacy protocol. This protocol can be described as a cloak of invisibility for crypto transactions, ensuring that user information remains hidden.
+If you have read the Harry Potter books the name Mimblewimble may be familiar. It's the name of a spell that ties the target's tongue to keep them from spreading secrets or casting other spells. In the real world, this funny word was chosen by an anonymous developer who used the name Tom Elvis Jedusor, to name a privacy protocol. This protocol can be described as a cloak of invisibility for crypto transactions, ensuring that user information remains hidden.
 
 The Mimblewimble protocol offers a new structure for blockchain technology that emphasizes scalability, fungibility, and especially privacy in transactions. Let's investigate this protocol to learn how it functions, and understand its advantages and potential drawbacks. 
 
