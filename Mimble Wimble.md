@@ -2,7 +2,7 @@
 |---|---|
 | Title               | MimbleWimble Explained: How It Works and Why It Matters |
 | Author              | João Paulo Sant'Anna |
-| Featured text       | FIXME |
+| Featured text       | Mimblewimble was designed as a cryptocurrency protocol that focuses on enabling a compact and efficiently verifiable transaction history, using minimal computing resources. It also prioritizes user privacy through confidential transactions |
 | CT link             | FIXME |
 | Publish date        | YYYY-MM-DD FIXME |
 | Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
