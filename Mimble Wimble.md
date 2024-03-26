@@ -90,11 +90,11 @@ CoinJoin: This technique complicates the task of tracking transaction paths. By 
 
 ## Could it work for Decred?
 
-Decred utilizes Stakeshuffle as its privacy protocol. It is responsible for mixing multiple transactions, and hiding who sent coins to whom, without the need for third parties. If you want to learn more about Stakeshuffle click here (https://docs.decred.org/privacy/cspp/overview/?ref=cypherpunktimes.com)!
+Decred utilizes Stakeshuffle as its privacy protocol. It is responsible for mixing multiple transactions, and hiding who sent coins to whom, without the need for third parties. If you want to learn more about Stakeshuffle click here (https://docs.decred.org/privacy/cspp/overview/)!
 
 To understand more if Mimblewimble could be a good addition to the Decred blockchain I went through its implementation on Litecoin. Also highlighted some of its advantages and disadvantages.
 
-Mimbleimble was implemented on Litecoin by the use of a feature called Extension Blocks. The implementation launched in May 2022, and made it possible for Litecoin holders to use the new privacy features by moving their Litecoin into these Extension Blocks. These blocks are responsible for hiding the transaction information.
+Mimblewimble was implemented on Litecoin by the use of a feature called Extension Blocks. The implementation launched in May 2022, and made it possible for Litecoin holders to use the new privacy features by moving their Litecoin into these Extension Blocks. These blocks are responsible for hiding the transaction information.
 
 To engage with this privacy feature, users perform a "pegging-in" transaction to move their Litecoin into an Extension Block, using a specific MimbleWimble Extension Block (MWEB) address. These transactions are facilitated by a special transaction known as the HogEx (Hogwarts Express), which processes both the pegging-in of funds to the Extension Block and the pegging-out back to the main, transparent blockchain. The HogEx also manages the Extension Block balance, adjusting it for incoming and outgoing transactions.
 
