@@ -82,6 +82,22 @@ Transaction Legitimacy: It verifies that transactions are valid without the need
 
 Enhanced Efficiency:  The protocol achieves greater efficiency and scalability by generating smaller blocks of data. This approach prevents the blockchain from becoming excessively large and difficult to manage over time, a challenge often faced by networks like Bitcoin.
 
+The process in which the past blocks are reduced is called pruning. Imagine the transaction history as a forest where each transaction is a tree. As time goes by, some trees get old and die, pruning is like trimming these unnecessary trees (transaction ledger) so the forest doesn't get unmanageable.  Pruning also removes unnecessary remains from the Merkle Mountain Range (MMR),  which is a complex way of organizing and verifying the history of transactions. By doing so, the ledger remains small, making it easier and faster to work with.
+
+The development team from the Grin cryptocurrency (GRIN), which implemented Mimblewimble, demonstrated the efficiency of the pruning process. Before pruning, if you have 10 million transactions, the ledger would be around 130GB, broken down as follows:
+
+128GB of transaction data (the details of transactions).
+1GB of transaction-proof data (information proving transactions are valid).
+250MB for block headers (summary information at the beginning of each group of transactions, or block).
+
+After pruning, the ledger shrinks dramatically to about 1.8GB, distributed as:
+
+1GB for transaction-proof data.
+520MB for UTXO size (the unspent transaction outputs, or the "currency" that's available for new transactions).
+250MB for block headers.
+
+As we can see the transaction ledger went under a drastic size reduction. This process ensures that the system is efficient and scalable.
+
 Beyond ECC, MimbleWimble protocol integrates technology used by cryptographic protocols, such as:
 
 Dandelion: This protocol obscures the identities of the sender and receiver, adding another layer of privacy.
@@ -96,11 +112,17 @@ To understand more if Mimblewimble could be a good addition to the Decred blockc
 
 Mimblewimble was implemented on Litecoin by the use of a feature called Extension Blocks. The implementation launched in May 2022, and made it possible for Litecoin holders to use the new privacy features by moving their Litecoin into these Extension Blocks. These blocks are responsible for hiding the transaction information.
 
+Extension Blocks are responsible for enabling the new privacy protocol in a blockchain network without changing the consensus of the network. It operates as a sidechain layer, running alongside the main chain. Extension  Blocks work as a soft fork, there is no need for an upgrade in the older software, but non-upgraded nodes will not be able to validate any transactions within Extension Blocks.
+
+## Peggingn-in Transactions
+
 To engage with this privacy feature, users perform a "pegging-in" transaction to move their Litecoin into an Extension Block, using a specific MimbleWimble Extension Block (MWEB) address. These transactions are facilitated by a special transaction known as the HogEx (Hogwarts Express), which processes both the pegging-in of funds to the Extension Block and the pegging-out back to the main, transparent blockchain. The HogEx also manages the Extension Block balance, adjusting it for incoming and outgoing transactions.
 
 While the majority of Litecoin transactions continue to operate on the transparent main blockchain, the introduction of MimbleWimble via Extension Blocks provides a significant step forward in offering privacy options to users.
 
-Implementing MimbleWimble on the Decred blockchain is theoretically possible. Decred governance model and adaptability could facilitate the consideration and potential implementation of MimbleWimble if there was enough community support.
+Implementing MimbleWimble on the Decred blockchain is theoretically possible. Decred governance model and adaptability could facilitate the consideration and potential implementation of MimbleWimble if there was enough community support. But we also need to ask if a MimbleWimble implementation would be necessary.
+
+Decred already has a great tool for keeping transactions scalable, private, low-cost, cheap, and near-instant, it's the Decred Lightning Network (LN). LN is a layer 2 protocol that runs on top of the base layer, a technological solution designed to solve transaction problems by introducing off-chain transactions.
 
 The technical integration of MimbleWimble would require a lot of development effort and a thorough review process to ensure that it aligns with Decred’s security, privacy, and scalability goals. One of the main considerations would be how to integrate MimbleWimble's privacy features with Decred's existing features, such as its governance system, and the Stakeshuffle protocol.
 
@@ -112,7 +134,7 @@ Quantum Computer Risk: MimbleWimble relies on digital signatures to work. This m
 
 ## Moving Forward
 
-Is always interesting to learn about privacy protocols, especially one that is much commented like Mimblewimble. Do you think it could be a good addition to the Decred blockchain? Let your voice be heard in the comment section below!
+It's always interesting to learn about privacy protocols, especially one that is much commented like Mimblewimble. Do you think it could be a good addition to the Decred blockchain? Let your voice be heard in the comment section below!
 
 Sources:
 
