@@ -65,7 +65,8 @@ Even though the amount is secret, everyone can still ensure the transaction is f
 
 Transactions in MimbleWimble can be combined in a way that makes it hard for outsiders to figure out who sent money to whom. This is similar to mixing several messages so that no one can tell which message came from which sender. This mixing helps make transactions even more private.
 
-However, MimbleWimble can't do some of the tricks that other protocols can, like creating special conditions for transactions or swapping currencies directly without a middleman. But it has a cool trick: as transactions are combined and old, unnecessary data is removed, stopping the history of transactions from growing too big. This keeps things running smoothly without needing a super-powerful computer.
+However, MimbleWimble can't do some of the tricks that other protocols can, like creating special conditions for transactions or swapping currencies directly without a middleman. But it has a cool trick: as transactions get combined the older unnecessary data is removed, 
+stopping the history of transactions from growing too big. This keeps things running smoothly without needing a super-powerful computer.
 
 (Animated video explaining Mimblewimble)
 https://www.youtube.com/watch?v=aIh0XjhNgBc
@@ -82,7 +83,7 @@ Transaction Legitimacy: It verifies that transactions are valid without the need
 
 Enhanced Efficiency:  The protocol achieves greater efficiency and scalability by generating smaller blocks of data. This approach prevents the blockchain from becoming excessively large and difficult to manage over time, a challenge often faced by networks like Bitcoin.
 
-The process in which the past blocks are reduced is called pruning. Imagine the transaction history as a forest where each transaction is a tree. As time goes by, some trees get old and die, pruning is like trimming these unnecessary trees (transaction ledger) so the forest doesn't get unmanageable.  Pruning also removes unnecessary remains from the Merkle Mountain Range (MMR),  which is a complex way of organizing and verifying the history of transactions. By doing so, the ledger remains small, making it easier and faster to work with.
+The process in which the past blocks are reduced is called pruning. Imagine the transaction history as a forest where each transaction is a tree. As time goes by, some trees get old and die, pruning is like trimming these unnecessary trees (transaction ledger) so the forest doesn't get unmanageable. Pruning also removes unnecessary remains from the Merkle Mountain Range (MMR), which is a complex way of organizing and verifying the history of transactions. By doing so, the ledger remains small, making it easier and faster to work with.
 
 The development team from the Grin cryptocurrency (GRIN), which implemented Mimblewimble, demonstrated the efficiency of the pruning process. Before pruning, if you have 10 million transactions, the ledger would be around 130GB, broken down as follows:
 
@@ -114,7 +115,7 @@ Mimblewimble was implemented on Litecoin by the use of a feature called Extensio
 
 Extension Blocks are responsible for enabling the new privacy protocol in a blockchain network without changing the consensus of the network. It operates as a sidechain layer, running alongside the main chain. Extension  Blocks work as a soft fork, there is no need for an upgrade in the older software, but non-upgraded nodes will not be able to validate any transactions within Extension Blocks.
 
-## Peggingn-in Transactions
+## Pegging-in Transactions
 
 To engage with this privacy feature, users perform a "pegging-in" transaction to move their Litecoin into an Extension Block, using a specific MimbleWimble Extension Block (MWEB) address. These transactions are facilitated by a special transaction known as the HogEx (Hogwarts Express), which processes both the pegging-in of funds to the Extension Block and the pegging-out back to the main, transparent blockchain. The HogEx also manages the Extension Block balance, adjusting it for incoming and outgoing transactions.
 
