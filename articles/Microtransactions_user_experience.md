@@ -3,16 +3,21 @@
 | Title               | Microtransactions and the user experience |
 | Author              | Phoenix Green |
 | Featured text       | If you envision a world where blockchain technology is used by everyone, it’s not hard to see that microtransactions Will play a big part in this development. |
-| CT link             | FIXME |
-| Publish date        | YYYY-MM-DD FIXME |
+| CT link             | https://www.cypherpunktimes.com/microtransactions-and-the-user-experience/ |
+| Publish date        | Mar 29, 2024 |
 | Ai checks (https://www.zerogpt.com) | 1.5% zerogpt score |
 
 | Social Media | Links |
 |---|---|
-| Bison Relay post    | Title |
-| Reddit link         | FIXME |
-| Tweeter link        | FIXME |
-| TwitterSpace link   | FIXME |
+| Youtube link        | https://youtu.be/P-t0WeD60Og |
+| Podcast link        | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Microtransactions-and-the-user-experience-e2hnje4/a-ab490pd |
+| Twitter Video Link  | https://x.com/decredproject/status/1773712965553795550 |
+| Twitter Clip 1 Link | FIXME |
+| Twitter Clip 2 Link | FIXME |
+| Bison Relay post    | Microtransactions and the user experience |
+| Reddit link         | https://www.reddit.com/r/decred/comments/1bqpvao/microtransactions_and_the_user_experience/ |
+| CT Tweeter link     | https://x.com/cypherpunktimes/status/1773703035681919246 |
+| YT Twitter link     | https://x.com/DecredSociety/status/1773705684447527269 |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
 
 ## Thesis statement
