@@ -58,7 +58,7 @@ Possible reasons and theories are explored on the Monero Reddit community:
 
 https://www.reddit.com/r/Monero/comments/1bd34yu/theories_and_discussions_about_the_ongoing_attack/
 
-Another theory is that of the Monero Black Marble Flood
+Another theory is that of the Monero Black Marble Flood:
 
 There is a thread on twitter explaining in detail what was suspected - https://x.com/schmidt1024/status/1773642051503923355
 
