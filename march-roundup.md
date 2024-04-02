@@ -1,6 +1,6 @@
 | Author | TallAmericano |
 | :---- | :---- |
-| Title | Coinbase Outage | Monero Attack - March roundup |
+| Title | Coinbase Outage | Monero Attack | SBF Jailed - March roundup |
 | Headline  | Looking at the news in March. |
 | Cypherpunktimes | link |
 | Publish Date | 03 Apr 2024 |
@@ -18,7 +18,7 @@ Thesis statement - This article looks at the news in March and interesting topic
 
 Pre-discussion, research and questions
 
-# Coinbase Outage | Monero Attack March roundup
+# Coinbase Outage | Monero Attack | SBF Jailed - March roundup
 
 ## Coinbase Outage
 
@@ -58,7 +58,19 @@ Possible reasons and theories are explored on the Monero Reddit community:
 
 https://www.reddit.com/r/Monero/comments/1bd34yu/theories_and_discussions_about_the_ongoing_attack/
 
+Another theory is that of the Monero Black Marble Flood
 
+There is a thread on twitter explaining in detail what was suspected - https://x.com/schmidt1024/status/1773642051503923355
+
+## SBF Jailed
+
+Sam Bankman-Fried sentenced to 25 years in prison over FTX fraud.
+
+Most people are aware and have been following this story. The judge decided however in the end that SBF was a calculating math genius who sought power and influence while knowingly committing wrongdoing. With a series of bad decisions there was never any remorse shown and a 25 year sentence was handed down. 
+
+A great article by The Guardian goes in to the details behind the case:
+
+https://www.theguardian.com/business/2024/mar/28/sam-bankman-fried-sentenced-prison-ftx-fraud 
 
 ## March roundup
 
@@ -97,7 +109,12 @@ March 19th to March 26th:
 
 March 27th to March 31st:
 
-- 
+- Binance's successor in Russia, CommEx, halting deposits and undergoing phased closure
+- London Stock Exchange decided to launch market in crypto ETNs on 28 May 2024
+- Bitcoin volatile price activity has been more concentrated during U.S. opening hours
+- HSBC launches retail tokenized gold products in Hong Kong
+- Memecoin 'finfluencers' are falling under the UK's Financial Conduct Authority's regulatory spotlight
+- SBF SENTENCED TO 25 YEARS IN PRISON
 
-Twitter link..
+https://x.com/cypherpunktimes/status/1774749440110157836?s=20
 
