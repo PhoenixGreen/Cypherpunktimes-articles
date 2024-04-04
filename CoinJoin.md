@@ -15,7 +15,7 @@
 | TwitterSpace link   | FIXME |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
 
-## Thesis statement
+## Thesis statement: How does CoinJoin enhance user privacy in Bitcoin transactions, and what are its limitations?
 
 This article will talk about the Coinjoin privacy protocol, going through:
 
