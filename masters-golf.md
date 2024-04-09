@@ -74,6 +74,8 @@ There are many more exciting opportunities going forward.
 
 ## Utilising blockchain technology:
 
+There appears to be an area now to be exploited. The current handicap system which has only been rehauled recently still allows for manipulation. There needs to be more transparency when it comes to the World Handicap System(WHS). Envisaging a new system where results are kept on a decentralized ledger. Scores can be compared against thousands of players across the world based on age and ability. Handicaps could then be more accurate. Also, add in the factor of allowing AI to decide the appropriate handicaps for players. Currently players can still play casual golf and not submit scores. The tracking of this should be done and scores should be submitted no matter how good or bad they are. There will always be bandits and cheats in any sport but a much fairer system should also reward the players who play by the rules and submit their scores. Golf was always built on good sportsmanship. Lets keep it that way.
+
 ## Advantages and Disadvantages of embracing new technology:
 
 ## Future Implications and Opportunities:
