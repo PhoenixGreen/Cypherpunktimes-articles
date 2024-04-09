@@ -74,9 +74,22 @@ There are many more exciting opportunities going forward.
 
 ## Utilising blockchain technology:
 
-There appears to be an area now to be exploited. The current handicap system which has only been rehauled recently still allows for manipulation. There needs to be more transparency when it comes to the World Handicap System(WHS). Envisaging a new system where results are kept on a decentralized ledger. Scores can be compared against thousands of players across the world based on age and ability. Handicaps could then be more accurate. Also, add in the factor of allowing AI to decide the appropriate handicaps for players. Currently players can still play casual golf and not submit scores. The tracking of this should be done and scores should be submitted no matter how good or bad they are. There will always be bandits and cheats in any sport but a much fairer system should also reward the players who play by the rules and submit their scores. Golf was always built on good sportsmanship. Lets keep it that way.
+There appears to be an area now to be exploited. The current handicap system which has only been rehauled recently still allows for manipulation. There needs to be more transparency when it comes to the World Handicap System(WHS). Envisaging a new system where results are kept on a decentralized ledger. Scores can be compared against thousands of players across the world based on age and ability. Handicaps could then be more accurate. Also, add in the factor of allowing AI to decide the appropriate handicaps for players. Currently, players can still play casual golf and not submit scores. The tracking of this should be done and scores should be submitted no matter how good or bad they are. There will always be bandits and cheats in any sport but a much fairer system should also reward the players who play by the rules and submit their scores. Golf was always built on good sportsmanship. Let's keep it that way.
+
+There could be a new system where micropayments or tokens are applied to a player's account when they submit their scores. These could then be used to pay for items in the pro shop or bar. 
 
 ## Advantages and Disadvantages of embracing new technology:
+
+Golf has always been associated with older white male gentlemen. This appears to have changed in the last 10 years. There are more women playing golf today than ever before. More young people are taking up the sport as they can now easily access a driving range or simulator near them. The latest Netflix series called 'Full Swing' has also had a huge impact on attracting more players to the sport.
+
+Full Swing on Netflix:
+https://www.netflix.com/ie/title/81483353 
+
+Embracing the new technology will allow for a more open and transparent system. New players will be encouraged to play their best for every hole to ensure they have the correct handicap applied. Up until now, there hasn't been much data analysis on golf. Players could play six months of the year and not submit any scores and all of a sudden they enter the main cup tournament of their local golf club and win. 
+
+The disadvantages are that some players may not like the new system and would just want to play casually. Now they would be encouraged to submit scores and embrace the new technology. This would be more of a challenge for the older players who are set in their ways.
+
+Also envisaging that golfers should have a license with their handicap and have to go for an annual test of the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
 
 ## Future Implications and Opportunities:
 
