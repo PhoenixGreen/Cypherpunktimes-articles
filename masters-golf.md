@@ -1,10 +1,10 @@
 | Content | Description |
 |---|---|
-| Title               | FIXME |
-| Author              | FIXME |
-| Featured text       | FIXME |
+| Title               | Swinging into the Future - Golf and Blockchain Technology |
+| Author              | TallAmericano |
+| Featured text       | Is it possible for Golf to be revolutionized by blockchain technology |
 | CT link             | FIXME |
-| Publish date        | YYYY-MM-DD FIXME |
+| Publish date        | 2024-04-21 |
 
 | Social Media | Links |
 |---|---|
@@ -22,21 +22,28 @@
 
 ## Thesis statement
 
-What the article is about, and what is it aiming to prove?
+This article explores the potential integration of blockchain technology into the Golf's handicap system 
 
 
 ## Pre-discussion, research and questions
 
 * What questions are you aiming to find the answers to?
+  Could the game of golf benefit from blockchain technologies
 * Show links to research, which statements or quotes are you hoping to use?
+  
 * Who might be a good person to interview for this piece?
 
 
----
---- ARTICLE GOES BELOW THIS POINT ---
-
----
 
 # Article Title
 
-My article text goes here …
+## About Golf Handicaps:
+
+## Blockchain technology(Decentralization, transparency, and immutability):
+
+## Updating Golf Handicaps:
+
+## Advantages and Disadvantages:
+
+## Future Implications and Opportunities:
+
