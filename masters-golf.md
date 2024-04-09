@@ -25,7 +25,7 @@
 This article explores the potential integration of blockchain technology into the Golf world
 
 
-## Pre-discussion, research and questions
+## Pre-discussion, research, and questions
 
 * What questions are you aiming to find the answers to?
   Could the game of golf benefit from blockchain technologies
