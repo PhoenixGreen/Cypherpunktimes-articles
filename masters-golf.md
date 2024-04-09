@@ -22,28 +22,29 @@
 
 ## Thesis statement
 
-This article explores the potential integration of blockchain technology into the Golf's handicap system 
+This article explores the potential integration of blockchain technology into the Golf world
 
 
 ## Pre-discussion, research and questions
 
 * What questions are you aiming to find the answers to?
   Could the game of golf benefit from blockchain technologies
+  
 * Show links to research, which statements or quotes are you hoping to use?
   
 * Who might be a good person to interview for this piece?
 
 
 
-# Article Title
+# Swinging into the Future - Golf and Blockchain Technology
 
-## About Golf Handicaps:
+## About Golf and the current system:
 
 ## Blockchain technology(Decentralization, transparency, and immutability):
 
-## Updating Golf Handicaps:
+## Utilising blockchain technology:
 
-## Advantages and Disadvantages:
+## Advantages and Disadvantages of embracing new technology:
 
 ## Future Implications and Opportunities:
 
