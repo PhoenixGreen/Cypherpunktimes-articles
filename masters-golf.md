@@ -50,7 +50,7 @@ As part of the game up to now, players have been immersed in a world of joining 
 
 In a year there are 4 majors where the professional golfers fight it out to join the majors winners list. The 4 majors are The Masters, The PGA Championship, The Open Championship, and the U.S. Open. This weekend sees the first major of the year at The Masters.
 
-Billions are spent each year on the latest clubs, balls, bags, and trolleys. The prize money associated with the major golf tournaments is huge. This is a big barrier to entry for most players looking to enter the game. However, this has started to change in recent years with the advent of Golf Simulators.
+Billions are spent each year on the latest golf equipment. The prize money associated with the major golf tournaments is huge. This is a big barrier to entry for most players looking to enter the game. However, this has started to change in recent years with the advent of Golf Simulators.
 
 Golf Simulators are run by two main companies Trackman and Top Tracer. The simulator allows you to play golf indoors against a screen projector. Not only does it have real courses, but it also has advanced technology for shot analysis. This is a game changer as it now allows people the knowledge of what they are doing wrong and the statistics that they should be obtaining to translate to becoming a better golfer.
 
