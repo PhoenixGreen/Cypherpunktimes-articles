@@ -89,7 +89,7 @@ Embracing the new technology will allow for a more open and transparent system. 
 
 The disadvantages are that some players may not like the new system and would just want to play casually. Now they would be encouraged to submit scores and embrace the new technology. This would be more of a challenge for the older players who are set in their ways.
 
-Also envisaging that golfers should have a license with their handicaps and have to go for an annual test of the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
+Also envisaging that golfers should have a license with their handicaps and have to go for an annual test on the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
 
 ## Future Implications and Opportunities:
 
