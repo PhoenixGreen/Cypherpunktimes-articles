@@ -89,7 +89,17 @@ Embracing the new technology will allow for a more open and transparent system. 
 
 The disadvantages are that some players may not like the new system and would just want to play casually. Now they would be encouraged to submit scores and embrace the new technology. This would be more of a challenge for the older players who are set in their ways.
 
-Also envisaging that golfers should have a license with their handicap and have to go for an annual test of the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
+Also envisaging that golfers should have a license with their handicaps and have to go for an annual test of the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
 
 ## Future Implications and Opportunities:
+
+There is a lot of promise for golf and embracing new technology.
+
+It could result in increased engagement from fans. Fans could decide on tournament locations using a tokenized voting system. They could choose for example the Ryder Cup team players or the pairings for matchplay tournaments. They could have input on golf course designs.
+
+Ownership of Golf memorabilia could also be tokenized to allow for less fakes and frauds. Fans could also possibly take a share in a golf course through tokenization.
+
+Currently, there are two main VR games: Golf+ and Golf5VR. When the technology reaches the stage where it can be integrated with Trackman and Top Tracer this will make a huge move into the idea of decentralised tournaments. Virtual Reality golf could overtake real golf as more and more pressure comes from the need for land and the weather implications caused by climate change.
+
+The PGA hasn't caught up to the ever-changing world of technology. LIV Golf has caught them napping and swooped in to steal some of the main players and put their stamp on the future of golf. The governance system of the PGA has failed. This is why decentralization and good governance are important. Decred, a cryptocurrency powered by the stakeholders and with good governance is a shining example. The PGA will eventually collapse and maybe we will see the tokenisation of Golf as a whole and the token holders will vote and have their say on how tournaments are run and how prizes are allocated. This will not only make the sport even better, but it also gives the fans a say in every aspect.
 
