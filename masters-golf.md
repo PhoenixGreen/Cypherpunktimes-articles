@@ -96,6 +96,20 @@ The disadvantages are that some players may not like the new system and would ju
 
 Also envisaging that golfers should have a license with their handicaps and have to go for an annual test on the simulator to test their abilities and adjust their handicaps accordingly. This should be mandatory like an eye test to see how good you currently are and if things have deteriorated or got better. 
 
+A few questions that we may need to answer:
+
+Who does this new technology benefit? Who is aiming to profit?
+
+- I believe as a whole the game will benefit from newer technologies. Players will have transparency on scoring and handicaps. Governance, where players and fans from around the world can decide on tournament locations and player matchups, is also a benefit to everyone.
+
+Does this new technology remove the middleman or just replace them?
+
+- A new governance model would remove a great deal of middlemen. The direction of the sport should be voted on by the players, fans, and in the event of tokenization also the stakeholders. The voting could be weighted. Only recently Jay Monahan(Commissioner of the PGA TOUR) was quoted as saying “Our business thrives when together we're all laser-focused on delivering for our fans. If we fail on that front, we fail on every front,” Monahan said. “They're tired of hearing about conflict, money and who is getting what. They want to watch the world's best golfers compete in tournaments with history, meaning, and legacies on the line at venues they recognize and love.” Does he really know and listen to what the fans want? This is the issue with centralized governance.
+
+Is this new technology an improvement for the user or does it just digitise an already perfect system?
+
+- The current system is anything but perfect but with VR technology getting better every year soon as a fan you might be able to walk the course as a professional and see the shots from their angle. Digitizing or tokenizing different aspects of the game could present a new level of interest. For example, the caddies could be mic'd up and wearing VR technology. This could be streamed to millions of devices around the world allowing fans to see every aspect of the players game.
+
 ## Future Implications and Opportunities:
 
 There is a lot of promise for golf and embracing new technology.
@@ -105,6 +119,10 @@ It could result in increased engagement from fans. Fans could decide on tourname
 Ownership of Golf memorabilia could also be tokenized to allow for less fakes and frauds. Fans could also possibly take a share in a golf course through tokenization.
 
 Currently, there are two main VR games: Golf+ and Golf5VR. When the technology reaches the stage where it can be integrated with Trackman and Top Tracer this will make a huge move into the idea of decentralised tournaments. Virtual Reality golf could overtake real golf as more and more pressure comes from the need for land and the weather implications caused by climate change.
+
+https://www.golfplusvr.com/
+
+https://golf5eclub.com/ 
 
 The PGA doesn't appear to have caught up to the ever-changing world of technology. LIV Golf has caught them napping and swooped in to steal some of the main players and put their stamp on the future of golf. The governance system of the PGA is in jeopardy. This is why decentralization and good governance are important. Decred, a cryptocurrency powered by the stakeholders and with good governance is a shining example. The PGA may eventually lose its grip on the game and maybe we will see the tokenisation of Golf as a whole and the token holders will vote and have their say on how tournaments are run and how prizes are allocated. This will not only make the sport even better, but it also gives the fans a say in every aspect.
 
