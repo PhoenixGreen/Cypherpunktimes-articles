@@ -28,7 +28,12 @@ Golf has been slow to move to the latest technologies. The PGA appears to have l
 ## Pre-discussion, research, and questions
 
 * What questions are you aiming to find the answers to?
-  Could the game of golf benefit from blockchain technologies
+  
+  - Could the game of golf benefit from blockchain technologies?
+  - Is the PGA losing its grip on the game?
+  - Is the governance model of The PGA helpful to the game?
+  - Could the handicap system be improved?
+  - Will indoor golf and newer technologies improve the game?
   
 * Show links to research, which statements or quotes are you hoping to use?
   
