@@ -22,7 +22,7 @@
 
 ## Thesis statement
 
-This article explores the potential integration of blockchain technology into the Golf world
+Golf has been slow to move to the latest technologies. The PGA appears to have lost its grip recently when LIV golf appeared on the scene. Should the PGA be embracing new technologies, should the governance model change? This article hopes to explore the current golf system and how the advent of newer technologies could push the game to become better run with handicaps, stats and tournament organisation.
 
 
 ## Pre-discussion, research, and questions
