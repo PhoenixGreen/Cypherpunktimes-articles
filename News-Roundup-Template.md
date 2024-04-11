@@ -23,4 +23,32 @@
 
 # Article Title
 
-News text goes here …
+Featured news piece one …
+
+Featured news piece two …
+
+Featured news piece three …
+
+## Week 1:
+
+Bullet points ...
+
+link..
+
+## Week 2:
+
+Bullet points ...
+
+link..
+
+## Week 3:
+
+Bullet points ...
+
+link..
+
+## Week 4:
+
+Bullet points ...
+
+link..
