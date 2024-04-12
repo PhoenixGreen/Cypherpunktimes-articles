@@ -95,7 +95,7 @@ Non-Uniform adoption: The privacy and efficiency of CoinJoin also depend on how 
 
 ## CoinJoin Wallets
 
-CoinJoin is a Bitcoin-only protocol. The way the use of it differs depends on the wallet/mixer that you are using. Some of the most known privacy-focused Bitcoin wallets are Wasabi, Samourai, and Joinmarket. Let's go through some details concerning anonymity sets and fees for each one of them:
+CoinJoin is a Bitcoin-only protocol. The way the use of it differs depends on the wallet/mixer that you are using. Some of the most known privacy-focused Bitcoin wallets are Wasabi, Samourai. Let's go through some details concerning anonymity sets and fees for each of them:
 
 WabiSabi Wallet
 
