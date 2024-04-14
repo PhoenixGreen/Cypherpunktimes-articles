@@ -54,8 +54,6 @@ Noticing the privacy limitations of Bitcoin, cryptographer Gregory Maxwell devel
 
 In common sense, Bitcoin is frequently seen as a tool for keeping financial matters private, but it is not as private as it seems. Each Bitcoin transaction is linked to a unique address that masks identities on the surface, but various techniques can unhide the individual behind the transaction. This can happen through methods like watching where payments come from and go to, checking IP addresses, and other online detective work. Once someone figures out your Bitcoin address belongs to you, getting your privacy back can be tough and sometimes expensive.
 
-In comparison, regular banks keep your financial activities more private, at least for extern individuals. For example, your spending remains hidden from your family, so they can't see if you are buying things they do not support. Similarly, your employer won't have insight into the charities or causes you choose to support financially.
-
 Even if Bitcoin users try to improve their privacy by changing their addresses more often, any past transactions can still potentially be traced back to them. This means their attempt at being more private has limited effectiveness.
 
 Moreover, if you're careful with your privacy but trade with others who aren't (like using less secure methods), you can still end up losing privacy, affecting everyone involved. This lack of privacy can also lead to bigger problems for Bitcoin as a whole. If people can track which Bitcoins are "good" or "bad," it might lead to some Bitcoins being accepted and others not, which goes against the idea of Bitcoin where every unit is supposed to be equal. Sending and receiving Bitcoins leaves a fingerprint, and those traces are publicly registered in Bitcoin's blockchain. Anyone you send Bitcoin can look up your transactions and balance information.
@@ -63,9 +61,13 @@ Moreover, if you're careful with your privacy but trade with others who aren't (
 ## How CoinJoin works
 
 CoinJoin aims primarily at improving the privacy and anonymity of Bitcoin transactions. Its concept is relatively straightforward: it combines multiple payments from several users into a single transaction, making it difficult to determine who paid whom. Here’s a look at how it operates:
+
 Combining Transactions: CoinJoin combines several transactions into one, mixing the BTC being transacted. For example, if John wants to send 1 BTC, George wants to send 2 BTC, and Paul wants to send 3 BTC, a CoinJoin transaction would combine these into a single transaction. Bitcoins are mixed, and the transaction outputs distribute the mixed bitcoins to their right recipients.
+
 Decentralization and Trust: What sets CoinJoin apart is its decentralized nature. Unlike traditional financial transactions that require a central authority or intermediary (like a bank), CoinJoin transactions are directly between users. 
+
 Enhancing Privacy: By combining multiple payments, CoinJoin hides the trail of transactions. This process protects transaction histories from being easily accessible and linked to individual identities.
+
 Participation and Execution: Users willing to create a CoinJoin transaction usually use a wallet or service that supports this feature. These services gather and match users who wish to mix their transactions. Once matched, the users agree on the transaction details and sign their part of the transaction, and the service combines these signatures to broadcast the complete, mixed transaction to the Bitcoin network.
 
 Imagine a marketplace where everyone's shopping is out in the open. John starts the day with a heavy digital wallet containing 0.8 Bitcoin (BTC). He pays Paul for some goods, and just like getting a change back from a cashier, John gets 0.3 BTC back.
@@ -95,11 +97,11 @@ Non-Uniform adoption: The privacy and efficiency of CoinJoin also depend on how 
 
 ## CoinJoin Wallets
 
-CoinJoin is a Bitcoin-only protocol. The way the use of it differs depends on the wallet/mixer that you are using. Some of the most known privacy-focused Bitcoin wallets are Wasabi, Samourai. Let's go through some details concerning anonymity sets and fees for each of them:
+CoinJoin is the most used coin mixer for Bitcoin transactions. Usage differs depends on the wallet/mixer that you are using. Some of the most known privacy-focused Bitcoin wallets are Wasabi, Samourai. Let's go through some details concerning anonymity sets and fees for each of them:
 
 WabiSabi Wallet
 
-The WabiSabi Wallet charges a coordinator fee of 0.3% for CoinJoin transactions of more than 0.01 BTC. The coordinator fee is charged to cover the service costs of coordinating the mix. For amounts of 0.01 BTC or below, no coordinator fee is charged.
+The WabiSabi Wallet charges a coordinator fee of 0.3% for CoinJoin transactions of more than 0.01 BTC. The coordinator fee is charged to cover the service costs of coordinating the mix, there are also the mining fees, which are part of every transaction on the bitcoin network. For amounts of 0.01 BTC or below, no coordinator fee is charged.
 
 An anonymity set is basically the pool of users participating in a specific transaction. The size of an ideal anonymity set in a WabiSabi can vary from 50 to 100 participants in a CoinJoin round. This means your transaction would be mixed with those 49 to 99 other users.
 
@@ -121,6 +123,10 @@ Tumber.io fees start at 0.4% and vary according to the amount mixed.
 As we said before, CoinJoin is a tool exclusive to Bitcoin. Other coin mixers have been developed by other projects, like the Stake Shuffle protocol from Decred.
 
 StakeShuffle is a privacy protocol available at Decred Wallet Decrediton. It is a non-custodial process used to obfuscate ownership of DCR coins. If you use StakeShuffle your outputs are going to turn fully anonymized, and peers of the server won't be able to link outputs and inputs. This technology is based on a paper called " “P2P Mixing and Unlinkable Bitcoin Transactions” by Ruffing, Moreno-Sanchez, and Kate. This system uses a more efficient version known as DiceMix Light, making the process quicker. Although it successfully hides who is sending money to whom, the amounts being sent are still visible to everyone. For added privacy, each mixing transaction uses the same amount of money, known as a fixed denomination.
+
+Stakeshuffle is a significant advancement over the original CoinJoin protocol, with unique features for the Decred ecosystem. For example, it integrates with the ticket pool to create a large anonymity set, involving around 41,000 participants at any time, encompassing over 60% of the total coin supply.
+
+Most of Decred's mixing activities are processed off-chain, preventing excessive blockchain bloat. Decred developers are also working towards integrating the mixing service directly into dcrd,  a full node implementation of Decred written in Go (golang), positioning it as a fundamental component of running a full node in the Decred network.
 
 ## Moving Forward
 
