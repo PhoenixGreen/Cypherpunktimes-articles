@@ -23,19 +23,6 @@ What the article is about, and what is it aiming to prove?
 
 
 ## Pre-discussion, research and questions
-
-* What questions are you aiming to find the answers to?
-* Show links to research, which statements or quotes are you hoping to use?
-* Who might be a good person to interview for this piece?
-
-
----
---- ARTICLE GOES BELOW THIS POINT ---
-
----
-
-# Article Title
-
 Title: Decred's Philosophical Roots: Exploring Ideals Shared with Historic Thinkers
 
 Introduction:
@@ -65,3 +52,12 @@ Conclusion:
 
 Recap the key insights gleaned from exploring Decred's philosophical roots and their alignment with the ideas of Nietzsche, Pythagoras, and Montesquieu.
 Emphasize the significance of understanding Decred's philosophical underpinnings in appreciating its innovative approach to blockchain technology and its broader implications for financial autonomy and decentralized governance.
+
+
+---
+--- ARTICLE GOES BELOW THIS POINT ---
+
+---
+
+# Article Title
+
