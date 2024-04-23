@@ -2,21 +2,21 @@
 |---|---|
 | Title               | Non-Custodial Lightning Network |
 | Author              | Phoenix Green |
-| Featured text       | FIXME |
-| CT link             | FIXME |
-| Publish date        | YYYY-MM-DD FIXME |
-| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
+| Featured text       | Is Decred's Lightning Network non-custodial? Addressing the misconceptions and misinformation surrounding the non-custodial nature of the Lightning Network. |
+| CT link             | https://www.cypherpunktimes.com/is-decreds-lightning-network-non-custodial/ |
+| Publish date        | Apr 23, 2024 |
+| Ai checks (https://www.zerogpt.com) | Score = 0% |
 
 | Social Media | Links |
 |---|---|
-| YouTube link        | FIXME |
-| Podcast link        | FIXME |
+| YouTube link        | https://youtu.be/48muAQplR_4 |
+| Podcast link        | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Is-Decreds-Lightning-Network-non-custodial-e2ip4rd |
 | Reddit Link         | FIXME |
 | Bison Relay Post    | TITLE |
 | Twitter full video  | FIXME |
 
-| CT tweet            | FIXME |
-| YouTube tweet       | FIXME |
+| CT tweet            | https://x.com/cypherpunktimes/status/1782811798145519947 |
+| YouTube tweet       | https://x.com/DecredSociety/status/1782810828254666973 |
 | Twitter clip 1      | FIXME |
 | Twitter clip 2      | FIXME |
 
