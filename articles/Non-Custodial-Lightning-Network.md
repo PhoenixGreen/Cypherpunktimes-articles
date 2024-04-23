@@ -11,9 +11,9 @@
 |---|---|
 | YouTube link        | https://youtu.be/48muAQplR_4 |
 | Podcast link        | https://podcasters.spotify.com/pod/show/cypherpunktimes/episodes/Is-Decreds-Lightning-Network-non-custodial-e2ip4rd |
-| Reddit Link         | FIXME |
-| Bison Relay Post    | TITLE |
-| Twitter full video  | FIXME |
+| Reddit Link         | https://www.reddit.com/r/decred/comments/1cbe7zn/is_decreds_lightning_network_noncustodial |
+| Bison Relay Post    | Is Decred's Lightning Network non-custodial |
+| Twitter full video  | https://x.com/decredproject/status/1782855308273987801 |
 
 | CT tweet            | https://x.com/cypherpunktimes/status/1782811798145519947 |
 | YouTube tweet       | https://x.com/DecredSociety/status/1782810828254666973 |
