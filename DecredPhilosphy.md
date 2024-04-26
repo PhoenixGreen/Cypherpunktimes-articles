@@ -100,10 +100,9 @@ Decred seeks to break away from the traditional financial system, proposing a mo
 
 Empowering the Individual
 
- Decred gives its users the sovereignty to keep their money, trade it, and inspect how the whole project functions. The project provides tools like DCRDEX, which allows for peer-to-peer transactions without the need for a central authority. The sense of autonomy created by the Decred environment mirrors the Nietzschean philosophy, where the individual desires are at the center of the narrative.
+Decred gives its users the sovereignty to keep their money, trade it, and inspect how the whole project functions. The project provides tools like DCRDEX, which allows for peer-to-peer transactions without the need for a central authority. The sense of autonomy created by the Decred environment mirrors the Nietzschean philosophy, where the individual desires are at the center of the narrative.
 
-The concept of "Übermensch" or Superman, formulated by Nietzsche symbolizes an individual who creates his values and does not fall for common sense. Decred is a hub for professionals who mirror this concept.
-Contributors of the Decred project come from across the globe, united by a common respect for sovereignty and self-custody. They are pioneers in a new work paradigm that places high value on labor, personal freedom, and privacy.
+The concept of "Übermensch" or Superman, formulated by Nietzsche symbolizes an individual who creates his values and does not fall for common sense. Decred is a hub for professionals who mirror this concept. Contributors of the Decred project come from across the globe, united by a common respect for sovereignty and self-custody. They are pioneers in a new work paradigm that places high value on labor, personal freedom, and privacy.
 
 "At bottom, every man knows well enough that he is a unique being, only once on this earth; and by no extraordinary chance will such a marvelously picturesque piece of diversity in unity as he is, ever be put together a second time." - Quote from Nietzche's book "Untimely Meditations"
 
