@@ -29,15 +29,15 @@ Some background on what Bitcoin Halving is for those unfamiliar. This is an even
 
 With the latest halving transaction fees have skyrocketed meaning it could cost 150$ a transaction. Typically the biggest gains and price appreciation for Bitcoin occur post halving. A news story below confirms this and has the previous gains listed and the predicted gain this year.
 
-It follows a surge in Bitcoin's price to an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering. On Thursday the 25th of April the world's biggest cryptocurrency was trading at $63,800.
+Bitcoin's price hit an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering from a bad period in 2022. On Thursday the 25th of April Bitcoin was trading at $63,800.
 
 https://www.investopedia.com/bitcoin-halving-4843769
 
 ## Samourai Wallet
 
-For those of you unfamiliar with Samourai wallet here is a brief introduction:
+For those of you unfamiliar with the Samourai wallet here is a brief introduction:
 
-The Samourai wallet is a mobile software wallet for Bitcoin that has a strong focus and emphasis on user privacy as well as security. It is a wallet which is fundamentally inline with the principles in which Bitcoin was founded, being decentralization, financial privacy, transparency, security, and fungibility. 
+The Samourai wallet is a wallet for Bitcoin that has a strong focus on user privacy as well as security. It is a wallet that attempts to follow the core principles of Bitcoin. Transactions should be decentralized, anonymous, and private.
 
 On April 24, the cryptocurrency market experienced a brief tumble following the news of the arrest of Samourai Wallet Bitcoin founders by the United States Department of Justice (DOJ).
 
