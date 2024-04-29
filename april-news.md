@@ -25,6 +25,14 @@
 
 ## Bitcoin halving
 
+Some background on what the Bitcoin Halving is for those unfamiliar. This is an event where the reward for mining Bitcoin is cut in half. On average this occurs every four years.
+
+With the latest halving transaction fees have sky rocketed meaning it could cost 150$ a transaction. Typically the biggest gains and price appreciation for Bitcoin occur post halving. A news story below confirms this and has the previous gains listed and the predicted gain this year.
+
+It follows a surge in bitcoin's price to an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering. On Thursday the 25th of April the world's biggest cryptocurrency was trading at $63,800.
+
+https://www.investopedia.com/bitcoin-halving-4843769
+
 ## Samourai Wallet
 
 
