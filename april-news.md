@@ -25,15 +25,36 @@
 
 ## Bitcoin halving
 
-Some background on what the Bitcoin Halving is for those unfamiliar. This is an event where the reward for mining Bitcoin is cut in half. On average this occurs every four years.
+Some background on what Bitcoin Halving is for those unfamiliar. This is an event where the reward for mining Bitcoin is cut in half. On average this occurs every four years.
 
-With the latest halving transaction fees have sky rocketed meaning it could cost 150$ a transaction. Typically the biggest gains and price appreciation for Bitcoin occur post halving. A news story below confirms this and has the previous gains listed and the predicted gain this year.
+With the latest halving transaction fees have skyrocketed meaning it could cost 150$ a transaction. Typically the biggest gains and price appreciation for Bitcoin occur post halving. A news story below confirms this and has the previous gains listed and the predicted gain this year.
 
-It follows a surge in bitcoin's price to an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering. On Thursday the 25th of April the world's biggest cryptocurrency was trading at $63,800.
+It follows a surge in Bitcoin's price to an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering. On Thursday the 25th of April the world's biggest cryptocurrency was trading at $63,800.
 
 https://www.investopedia.com/bitcoin-halving-4843769
 
 ## Samourai Wallet
+
+For those of you unfamiliar with Samourai wallet here is a brief introduction:
+
+The Samourai wallet is a mobile software wallet for Bitcoin that has a strong focus and emphasis on user privacy as well as security. It is a wallet which is fundamentally inline with the principles in which Bitcoin was founded, being decentralization, financial privacy, transparency, security, and fungibility. 
+
+On April 24, the cryptocurrency market experienced a brief tumble following the news of the arrest of Samourai Wallet Bitcoin founders by the United States Department of Justice (DOJ).
+
+Keonne Rodriguez and William Lonergan Hill Are Charged with Operating Samourai Wallet, an Unlicensed Money Transmitting Business That Executed Over $2 Billion in Unlawful Transactions and Laundered Over $100 Million in Criminal Proceeds
+
+The crypto community has criticized the recent arrests, fearing it could be another attempt by the U.S. government to crack down on crypto, with some analysts and commentators expressing concerns about the potential impact on Bitcoin and the privacy of transactions.
+
+Relating stories:
+
+Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses
+https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering
+
+Samourai Indictment & FBI Notice Are An Assault On Bitcoin And Privacy
+https://www.forbes.com/sites/digital-assets/2024/04/26/samourai-indictment--fbi-notice-are-an-assault-on-bitcoin-and-privacy/
+
+Wasabi Wallet-Developer Blocks U.S. Citizens and Residents After Samourai Wallet Arrests
+https://www.coindesk.com/policy/2024/04/29/wasabi-wallet-developer-blocks-us-citizens-and-residents-after-samourai-wallet-arrests/
 
 
 ## Week 1:
