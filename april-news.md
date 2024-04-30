@@ -29,9 +29,7 @@ Some background on what Bitcoin Halving is for those unfamiliar. This is an even
 
 With the latest halving transaction fees have skyrocketed meaning it could cost 150$ a transaction. Typically the biggest gains and price appreciation for Bitcoin occur post halving. A news story below confirms this and has the previous gains listed and the predicted gain this year.
 
-Bitcoin's price hit an all-time high of $73,803.25 in March, having spent much of 2023 slowly recovering from a bad period in 2022. On Thursday the 25th of April Bitcoin was trading at $63,800.
-
-Where do you see the price of Bitcoin this time next year? Be sure to comment below and revisit in a year to see if you were right!
+Where do you expect to see the price of Bitcoin this time next year? Be sure to comment below and revisit in a year to see if you were right!
 
 Relating stories and information:
 
@@ -43,15 +41,13 @@ https://www.independent.co.uk/tech/bitcoin-halving-price-chart-record-crypto-b25
 
 ## Samourai Wallet
 
-For those of you unfamiliar with the Samourai wallet here is a brief introduction:
-
 The Samourai wallet is a wallet for Bitcoin that has a strong focus on user privacy as well as security. It is a wallet that attempts to follow the core principles of Bitcoin. Transactions should be decentralized, anonymous, and private.
 
 On April 24, the cryptocurrency market experienced a brief tumble following the news of the arrest of Samourai Wallet Bitcoin founders by the United States Department of Justice (DOJ).
 
 Keonne Rodriguez and William Lonergan Hill Are Charged with Operating Samourai Wallet, an Unlicensed Money Transmitting Business That Executed Over $2 Billion in Unlawful Transactions and Laundered Over $100 Million in Criminal Proceeds
 
-The crypto community has criticized the recent arrests, fearing it could be another attempt by the U.S. government to crack down on crypto, with some analysts and commentators expressing concerns about the potential impact on Bitcoin and the privacy of transactions.
+Recent arrests have been criticised by people in the crypto space. They fear it could be another attempt by the U.S. government to crack down on crypto and the privacy of transactions.
 
 Call it an assault on privacy or an attack on free speech, but the reality on the ground is that any money that flows into an application designed to mix funds to shield user addresses is being treated as laundered funds, no matter the purpose or destination.
 
