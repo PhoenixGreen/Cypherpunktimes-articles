@@ -21,9 +21,9 @@
 
 ---
 
-# Article Title
+# Bitcoin Halving | Samourai Wallet | April Roundup
 
-## Bitcoin halving
+## Bitcoin Halving
 
 Some background on what Bitcoin Halving is for those unfamiliar. This is an event where the reward for mining Bitcoin is cut in half. On average this occurs every four years.
 
@@ -45,7 +45,7 @@ The Samourai wallet is a wallet for Bitcoin that has a strong focus on user priv
 
 On April 24, the cryptocurrency market experienced a brief tumble following the news of the arrest of Samourai Wallet Bitcoin founders by the United States Department of Justice (DOJ).
 
-Keonne Rodriguez and William Lonergan Hill Are Charged with Operating Samourai Wallet, an Unlicensed Money Transmitting Business That Executed Over $2 Billion in Unlawful Transactions and Laundered Over $100 Million in Criminal Proceeds
+Keonne Rodriguez and William Lonergan Hill are Charged with Operating the Samourai Wallet. The unlicensed money-transmitting business executed Over $2 Billion in unlawful Transactions and laundered over $100 million.
 
 Recent arrests have been criticised by people in the crypto space. They fear it could be another attempt by the U.S. government to crack down on crypto and the privacy of transactions.
 
@@ -55,7 +55,7 @@ What do you think about this situation? Has Bitcoin become part of the financial
 
 Relating stories:
 
-Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses
+DOJ Announcement:
 https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering
 
 Samourai Indictment & FBI Notice Are An Assault On Bitcoin And Privacy
