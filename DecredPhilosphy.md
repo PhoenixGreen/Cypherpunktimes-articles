@@ -11,9 +11,9 @@
 |---|---|
 | Bison Relay post    | Title |
 | Reddit link         | FIXME |
-| Tweeter link        | FIXME |
+| Tweeter link        | https://twitter.com/Joao096/status/1785029329472327766 |
 | TwitterSpace link   | FIXME |
-| Matrix post         | Promote your main tweet in "DCR Social Media" channel |
+| Matrix post         | https://matrix.to/#/!ggjLwhBHTjsMROezFf%3Adecred.org/%24q8a2EWluta1HaC_ZjZVSDApT0AsUkxP0DARjTyPblQ8 |
 
 ## Thesis statement
 
