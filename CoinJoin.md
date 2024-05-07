@@ -11,8 +11,8 @@
 |---|---|
 | Bison Relay post    | Title |
 | Reddit link         | FIXME |
-| Tweeter link        | FIXME |
-| TwitterSpace link   | FIXME |
+| Tweeter link        | https://x.com/Joao096/status/1787915714956755325 |
+| TwitterSpace link   | https://x.com/GiftopherC/status/1783844047221928063 |
 | Matrix post         | Promote your main tweet in "DCR Social Media" channel |
 
 ## Thesis statement: How does CoinJoin enhance user privacy in Bitcoin transactions, and what are its limitations?
