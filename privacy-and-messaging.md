@@ -69,9 +69,9 @@ Telegram: Telegram's approach to encryption has evolved over the years, initiall
 
 If your choice of encrypted messaging app is between Signal, Telegram, Facebook Messenger, WeChat, and WhatsApp, do not waste your time with anything but Signal. If we are talking purely about privacy and if privacy's what you're after, nothing beats Signal from the current popular messaging apps.
 
-You may recall Elon Musk tweeting in support of Signal and telling people to ditch WhatsApp. Jack Dorsey also retweeted Musk's tweet at the time. It was arounf then the number of new users flocking to Signal and Telegram surged by tens of millions. 
+You may recall Elon Musk tweeting in support of Signal and telling people to ditch WhatsApp. Jack Dorsey also retweeted Musk's tweet at the time. It was around then the number of new users flocking to Signal and Telegram surged by tens of millions. 
 
-This little debacle reignited security and privacy scrutiny over messaging apps. Among the top players currently dominating download numbers, there are some commonalities. All are mobile apps available in the Google Play store and App Store that support cross-platform messaging, have group chat features, offer multifactor authentication and can be used to share files and multimedia. They all also provide encryption for texting, voice and video calls.
+This little debacle reignited security and privacy scrutiny over messaging apps. Among the top players currently dominating download numbers, there are some commonalities. All are mobile apps available in the Google Play store and App Store that support cross-platform messaging, have group chat features, offer multifactor authentication, and can be used to share files and multimedia. They all also provide encryption for texting, voice, and video calls.
 
 ## Privacy Policies and Data Collection:
 
