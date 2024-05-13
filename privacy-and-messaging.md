@@ -46,20 +46,20 @@ Someone from Bison Relay
 
 # Secure Chat Showdown
 
-We live in a world where communication is paramount. At the same time, concerns over privacy and security are at an all-time high. With a large number of popular messaging apps striving for our attention it's important to understand the advantages and disadvantages of these platforms.
+In today's society communication plays a key role while issues surrounding privacy and security have become increasingly prominent. With well-known messaging applications vying for our focus, it is crucial to weigh the pros and cons of these platforms.
 
-In this article, we will discuss a number of popular messaging apps like Facebook Messenger, WhatsApp, Signal, WeChat, and Telegram. We will also take a look at Bison Relay developed by the Decred project as a new exciting newcomer to the space.
+This piece will explore messaging apps such, as Facebook Messenger, WhatsApp, Signal, WeChat, and Telegram. Additionally, we will look at Bison Relay created by the Decred project as an exciting newcomer.
 
 ## Encryption Protocols:
 
 Facebook Messenger and WhatsApp: Owned by the same parent company (Meta), both Messenger and WhatsApp use end-to-end encryption (E2EE) by default for text messages, voice calls, and video calls. This is meant to ensure only the sender and receiver can see the messages. Concerns however have been raised over metadata collection and how this plays out in Meta's broader ecosystem.
 
-Signal: Renowned for its unwavering commitment to privacy, Signal is praised for its open-source protocol, robust encryption, and minimal data collection policies. As an independent nonprofit organization, Signal prioritizes user privacy above all else, offering end-to-end encryption for all communications and minimal metadata retention.
+Signal: Signal is well known for its dedication to protecting privacy. It receives praise for using an open-source protocol, robust encryption methods, and limited data collection practices. Signal places a value on safeguarding user privacy by providing end-to-end encryption, for all interactions and only retaining essential metadata.
 
-Bison Relay: Emerging as a newcomer in the messaging space, Bison Relay emphasizes privacy, including decentralized architecture, and with the use of onion routing users can have enhanced anonymity. Bison Relay aims to provide users with a secure and censorship-resistant platform for communication.
+Bison Relay: Emerging as a newcomer in the messaging space, Bison Relay emphasizes privacy, including decentralized architecture, and with the use of Zero-knowledge proof (ZKP) users can have enhanced anonymity. Bison Relay aims to provide users with a secure and censorship-resistant platform for communication.
 
 Direct from BisonRelay.org :
-Bison Relay is a Decred-based communications tool that enables free speech, free association, and can act as a fully independent alternative stack to the web. Bison Relay is an asynchronous client-server protocol that makes heavy use of the Decred Lightning Network, where every message is sent encrypted, metadata-minimized, and paid for via LN micropayment. The Bison Relay server is accountless and every message is handled individually, where it is both paid for prior to being sent and then received. Bison Relay tightly integrates payments, messaging, and social media, and implements a peer-to-peer social media functionality of making posts to subscribers, subscribing to users’ posts, relaying posts, and replying to posts and comments on posts.
+Bison Relay is a Decred-based communications tool that enables free speech, and free association, and can act as a fully independent alternative stack to the web. Bison Relay is an asynchronous client-server protocol that makes heavy use of the Decred Lightning Network, where every message is sent encrypted, metadata-minimized, and paid for via LN micropayment. The Bison Relay server is accountless and every message is handled individually, where it is both paid for prior to being sent and then received. Bison Relay tightly integrates payments, messaging, and social media, and implements a peer-to-peer social media functionality of making posts to subscribers, subscribing to users’ posts, relaying posts, and replying to posts and comments on posts.
 
 WeChat: While immensely popular in China and beyond, WeChat has faced scrutiny over its handling of user data and compliance with Chinese government regulations. Despite offering encryption for messages sent over its platform, WeChat's ties to Chinese authorities raise concerns about data access and surveillance.
 
