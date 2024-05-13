@@ -59,11 +59,11 @@ Signal: Signal is well known for its dedication to protecting privacy. It receiv
 Bison Relay: Emerging as a newcomer in the messaging space, Bison Relay emphasizes privacy, including decentralized architecture, and with the use of Zero-knowledge proof (ZKP) users can have enhanced anonymity. Bison Relay aims to provide users with a secure and censorship-resistant platform for communication.
 
 Direct from BisonRelay.org :
-Bison Relay is a Decred-based communications tool that enables free speech, and free association, and can act as a fully independent alternative stack to the web. Bison Relay is an asynchronous client-server protocol that makes heavy use of the Decred Lightning Network, where every message is sent encrypted, metadata-minimized, and paid for via LN micropayment. The Bison Relay server is accountless and every message is handled individually, where it is both paid for prior to being sent and then received. Bison Relay tightly integrates payments, messaging, and social media, and implements a peer-to-peer social media functionality of making posts to subscribers, subscribing to users’ posts, relaying posts, and replying to posts and comments on posts.
+Bison Relay is a Decred-based communications tool that enables free speech, and free association, and can act as a fully independent alternative stack to the web. Bison Relay is an asynchronous client-server protocol that makes heavy use of the Decred Lightning Network, where every message is sent encrypted, metadata-minimized, and paid for via LN micropayment. The Bison Relay server is accountless and every message is handled individually, where it is both paid for prior to being sent and then received. 
 
-WeChat: While immensely popular in China and beyond, WeChat has faced scrutiny over its handling of user data and compliance with Chinese government regulations. Despite offering encryption for messages sent over its platform, WeChat's ties to Chinese authorities raise concerns about data access and surveillance.
+WeChat: Although widely popular, in China and other regions WeChat has come under scrutiny for how it manages user data and complies with Chinese government regulations. Despite its encryption feature for messages sent through the platform concerns have been raised about WeChat's connections to authorities regarding data access and surveillance.
 
-Telegram: Telegram's approach to encryption has evolved over the years, initially offering a proprietary encryption protocol before adopting the more widely accepted MTProto protocol. While Telegram provides optional end-to-end encryption for "secret chats," its default mode does not offer the same level of security, leading to criticism from privacy advocates.
+Telegram: Telegram has refined its encryption strategy over time initially using an encryption protocol before transitioning to the universally recognized MTProto protocol. While Telegram does offer end-to-end encryption for "chats" some privacy advocates criticize its default security settings for not providing the same level of protection.
 
 ## Which messaging platform is best?
 
@@ -75,27 +75,27 @@ This little debacle reignited security and privacy scrutiny over messaging apps.
 
 ## Privacy Policies and Data Collection:
 
-Facebook Messenger and WhatsApp: Both Messenger and WhatsApp have faced criticism for their data collection practices, including the sharing of user data with Facebook for targeted advertising purposes. While end-to-end encryption protects message contents, metadata such as timestamps, device information, and contact lists may still be collected and utilized for tracking and profiling purposes.
+Facebook Messenger plus WhatsApp: Both Messenger as well as WhatsApp have actually dealt with objections to their information collection methods, consisting of the sharing of customer information with Facebook for targeted marketing objectives. While end-to-end security shields message components, metadata such as timestamps, tool info, as well as call checklists, may still be gathered plus used for monitoring as well as profiling objectives.
 
-Signal: Signal sets itself apart with its minimal data collection policies and transparency. The platform collects only the bare minimum of user data necessary for operation, such as phone numbers for registration, and commits to never monetizing user data or displaying ads.
+Signal: Signal separates itself with its very little information collection plans plus openness. The system accumulates just the minimum of customer information needed for a procedure such as contact number for enrollment as well as devotes to never ever monetizing customer information or showing advertisements.
 
-Bison Relay: As a privacy-focused platform, Bison Relay prioritizes user anonymity and data protection. By leveraging decentralized architecture and encryption, Bison Relay minimizes the collection of identifiable user data, thereby reducing the risk of surveillance and data breaches.
+Bison Relay: As a privacy-focused system, Bison Relay focuses on customer privacy and also information security. By using its decentralized design, Bison Relay reduces the collection of recognizable customer information consequently decreasing the threat of monitoring and also data leakage.
 
-WeChat: WeChat's privacy policies have come under scrutiny for their compliance with Chinese government regulations, which require data localization and cooperation with law enforcement authorities. While WeChat offers encryption for messages in transit, concerns persist regarding data access by government agencies and potential censorship of content.
+WeChat: WeChat's personal privacy plans have come under examination for their conformity with Chinese federal government guidelines. While WeChat uses security for sending messages issues continue to persist pertaining to the information collection and censorship of web content.
 
-Telegram: Telegram's approach to privacy has been met with mixed reviews. While the platform offers optional end-to-end encryption for secret chats, its default mode does not provide the same level of security. Additionally, Telegram's cloud-based messaging service raises concerns about data storage and access.
+Telegram: While the system provides optional end-to-end security for secret talks, its default setting does not supply the very same degree of safety. In addition, Telegram's cloud-based messaging solution increases worries concerning information storage space coupled with accessibility.
 
 ## Additional Security Features:
 
-Facebook Messenger and WhatsApp: In addition to encryption, Messenger and WhatsApp offer features such as two-factor authentication (2FA) and self-destructing messages for enhanced security. However, concerns remain about their integration with Facebook's broader ecosystem and the potential for data sharing across platforms.
+Facebook Messenger plus WhatsApp: Messenger coupled with WhatsApp includes two-factor verification (2FA) and also self-destructing messages for boosted safety and security. Nonetheless, problems stay regarding their assimilation with Facebook's wider community along with the capacity for information sharing throughout systems.
 
-Signal: Signal goes above and beyond in its commitment to security, offering features such as disappearing messages, screen security, and a built-in secure messaging protocol. These features enhance user privacy and protect against unauthorized access to sensitive information.
+Signal: Signal goes well above in its dedication to safety, using functions such as self-deleting messages, coupled with an integrated safe and secure messaging method. These attributes improve individual personal privacy and also safeguard against unapproved accessibility to delicate details.
 
 Bison Relay: Bison Relay privacy is based on a unique combination of a Double Ratchet and post-quantum-secure Public Key Infrastructure. The Double Ratchet creates forward and “reverse” secrecy, meaning a temporary compromise of an endpoint does not compromise all future or all prior message encryption keys. Additionally, the Double Ratchet provides deniable messaging, where either endpoint could have written any message in question. Post-quantum-secure Public Key Infrastructure reinforces the Double Ratchet privacy by protecting it against attacks by quantum computers, and it also makes man-in-the-middle attacks more difficult.
 
-WeChat: While WeChat offers encryption for messages in transit, the platform lacks advanced security features found in other messaging apps. Users are encouraged to exercise caution when communicating sensitive information over the platform, particularly in light of government regulations and potential surveillance.
+WeChat: While WeChat supplies security for messages in transportation, the system does not have innovative safety attributes located in various other messaging applications. Individuals are motivated to exercise care when connecting sensitive info over the system, especially in light of federal government policies as well as possible monitoring.
 
-Telegram: In addition to optional end-to-end encryption for secret chats, Telegram offers features such as self-destructing messages and the ability to password-protect conversations. While these features enhance user privacy, concerns persist about Telegram's cloud-based messaging service and data storage practices.
+Telegram: In enhancement to optional end-to-end security for secret talks, Telegram uses functions such as self-destructing messages plus the capacity to password-protect discussions. While these attributes boost individual personal privacy, issues continue to persist concerning Telegram's cloud-based messaging solution coupled with information storage space techniques.
 
 
 ## Real examples of security breaches or issues that have occurred with these applications
