@@ -65,6 +65,12 @@ WeChat: While immensely popular in China and beyond, WeChat has faced scrutiny o
 
 Telegram: Telegram's approach to encryption has evolved over the years, initially offering a proprietary encryption protocol before adopting the more widely accepted MTProto protocol. While Telegram provides optional end-to-end encryption for "secret chats," its default mode does not offer the same level of security, leading to criticism from privacy advocates.
 
+## Which messaging platform is best?
+
+If your choice of encrypted messaging app is between Signal, Telegram, Facebook Messenger, WeChat, and WhatsApp, do not waste your time with anything but Signal. If we are talking purely about privacy and if privacy's what you're after, nothing beats Signal from the current popular messaging apps.
+
+You may recall Elon Musk tweeting in support of Signal and telling people to ditch WhatsApp. Jack Dorsey also retweeted Musk's tweet at the time. It was arounf then the number of new users flocking to Signal and Telegram surged by tens of millions. 
+
 ## Privacy Policies and Data Collection:
 
 Facebook Messenger and WhatsApp: Both Messenger and WhatsApp have faced criticism for their data collection practices, including the sharing of user data with Facebook for targeted advertising purposes. While end-to-end encryption protects message contents, metadata such as timestamps, device information, and contact lists may still be collected and utilized for tracking and profiling purposes.
@@ -93,6 +99,17 @@ Telegram: In addition to optional end-to-end encryption for secret chats, Telegr
 ## Real examples of security breaches or issues that have occurred with these applications
 
 ## Offer guidance to users on selecting the most secure application based on their individual needs and concerns regarding privacy.
+
+References:
+
+A good comparison website on the privacy of messaging apps:
+https://www.securemessagingapps.com/
+
+Leaks and why certain apps shouldn't be trusted:
+https://www.securemessagingapps.com/ratings/
+
+Comparison of Cross Platform Instant Messaging Clients:
+https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients
 
 Conclusion:
 
