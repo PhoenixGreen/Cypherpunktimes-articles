@@ -71,6 +71,8 @@ If your choice of encrypted messaging app is between Signal, Telegram, Facebook 
 
 You may recall Elon Musk tweeting in support of Signal and telling people to ditch WhatsApp. Jack Dorsey also retweeted Musk's tweet at the time. It was arounf then the number of new users flocking to Signal and Telegram surged by tens of millions. 
 
+This little debacle reignited security and privacy scrutiny over messaging apps. Among the top players currently dominating download numbers, there are some commonalities. All are mobile apps available in the Google Play store and App Store that support cross-platform messaging, have group chat features, offer multifactor authentication and can be used to share files and multimedia. They all also provide encryption for texting, voice and video calls.
+
 ## Privacy Policies and Data Collection:
 
 Facebook Messenger and WhatsApp: Both Messenger and WhatsApp have faced criticism for their data collection practices, including the sharing of user data with Facebook for targeted advertising purposes. While end-to-end encryption protects message contents, metadata such as timestamps, device information, and contact lists may still be collected and utilized for tracking and profiling purposes.
@@ -97,6 +99,10 @@ Telegram: In addition to optional end-to-end encryption for secret chats, Telegr
 
 
 ## Real examples of security breaches or issues that have occurred with these applications
+
+Jeff Bezos' phone was famously hacked in January 2020 through a WhatsApp video message. In December of the same year, Texas' attorney general alleged that Facebook and Google struck a back-room deal to reveal WhatsApp message content. A spyware vendor targeted a WhatsApp vulnerability with its software to hack 1,400 devices, resulting in a lawsuit from Facebook. WhatsApp's unencrypted cloud-based backup feature has long been considered a security risk by privacy experts.  
+
+When WhatsApp says it can't view the content of the encrypted messages you send to another WhatsApp user, what it doesn't say is that there's a list of other data that it collects that could be linked to your identity: Your unique device ID, usage and advertising data, purchase history and financial information, physical location, phone number, your contact information and that of your list of contacts, what products you've interacted with, how often you use the app, and how it performs when you do. The list goes on. This is way more than Signal or Telegram. 
 
 ## Offer guidance to users on selecting the most secure application based on their individual needs and concerns regarding privacy.
 
