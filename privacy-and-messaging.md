@@ -5,7 +5,7 @@
 | Featured text       | A Comparative Analysis of Messaging Apps' Privacy and Encryption Features |
 | CT link             | FIXME |
 | Publish date        | 2024-05-20 ?? |
-| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication |
+| Ai checks (https://www.zerogpt.com) | Score must be lower than 25% or article is rejected for publication  RESULT: 8.38% |
 
 | Social Media | Links |
 |---|---|
