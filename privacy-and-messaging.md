@@ -77,17 +77,17 @@ This little debacle reignited security and privacy scrutiny over messaging apps.
 
 Facebook Messenger plus WhatsApp: Both Messenger as well as WhatsApp have actually dealt with objections to their information collection methods, consisting of the sharing of customer information with Facebook for targeted marketing objectives. While end-to-end security shields message components, metadata such as timestamps, tool info, as well as call checklists, may still be gathered plus used for monitoring as well as profiling objectives.
 
-Signal: Signal separates itself with its very little information collection plans plus openness. The system accumulates just the minimum of customer information needed for a procedure such as contact number for enrollment as well as devotes to never ever monetizing customer information or showing advertisements.
+Signal: Signal separates itself from the competition by collecting very little data plus openness on what data is collected if any. The system accumulates just the minimum of customer information needed for a procedure such as contact number for signing up as well as devotes to never ever monetizing customer information or showing advertisements.
 
 Bison Relay: As a privacy-focused system, Bison Relay focuses on customer privacy and also information security. By using its decentralized design, Bison Relay reduces the collection of recognizable customer information consequently decreasing the threat of monitoring and also data leakage.
 
-WeChat: WeChat's personal privacy plans have come under examination for their conformity with Chinese federal government guidelines. While WeChat uses security for sending messages issues continue to persist pertaining to the information collection and censorship of web content.
+WeChat: WeChat's personal privacy plans have come under examination for their conformity with Chinese federal government guidelines. While WeChat uses security for sending messages issues continue to persist around the information collection and censorship of web content.
 
 Telegram: While the system provides optional end-to-end security for secret talks, its default setting does not supply the very same degree of safety. In addition, Telegram's cloud-based messaging solution increases worries concerning information storage space coupled with accessibility.
 
 ## Additional Security Features:
 
-Facebook Messenger plus WhatsApp: Messenger coupled with WhatsApp includes two-factor verification (2FA) and also self-destructing messages for boosted safety and security. Nonetheless, problems stay regarding their assimilation with Facebook's wider community along with the capacity for information sharing throughout systems.
+Facebook Messenger plus WhatsApp: Messenger coupled with WhatsApp includes two-factor verification (2FA) and also self-destructing messages for boosted safety and security. Nonetheless, problems remain regarding their assimilation with Facebook's wider community along with the capacity for information sharing throughout systems.
 
 Signal: Signal goes well above in its dedication to safety, using functions such as self-deleting messages, coupled with an integrated safe and secure messaging method. These attributes improve individual personal privacy and also safeguard against unapproved accessibility to delicate details.
 
@@ -104,9 +104,17 @@ Jeff Bezos' phone was famously hacked in January 2020 through a WhatsApp video m
 
 When WhatsApp says it can't view the content of the encrypted messages you send to another WhatsApp user, what it doesn't say is that there's a list of other data that it collects that could be linked to your identity: Your unique device ID, usage and advertising data, purchase history and financial information, physical location, phone number, your contact information and that of your list of contacts, what products you've interacted with, how often you use the app, and how it performs when you do. The list goes on. This is way more than Signal or Telegram. 
 
-## Offer guidance to users on selecting the most secure application based on their individual needs and concerns regarding privacy.
+WhatsApp Privacy Leak Possibility: In 2019 Check Point Research (CPR) revealed that the popular messaging app, WhatsApp, could also be tweaked to reveal user data and conversations. :
+https://research.checkpoint.com/2019/breakingapp-whatsapp-crash-data-loss-bug/
 
-References:
+No, your privacy is not safe on messaging apps. Here’s why: 
+https://medium.com/@secretum/no-your-privacy-is-not-safe-on-messaging-apps-heres-why-43b3eb02875
+
+Recently Signal has come under scrutiny 'Elon Musk Fact-Checked On X After Secure Messaging Warning' :
+https://www.forbes.com/sites/zakdoffman/2024/05/08/elon-musk-fact-checked-on-x-after-surprise-messaging-warning/?sh=688389ec6ccd
+
+
+## References:
 
 A good comparison website on the privacy of messaging apps:
 https://www.securemessagingapps.com/
@@ -117,7 +125,14 @@ https://www.securemessagingapps.com/ratings/
 Comparison of Cross Platform Instant Messaging Clients:
 https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients
 
-Conclusion:
+Study Rates Signal Most Secure Messaging App, But Should Users Be Worried?:
+https://techround.co.uk/tech/signal-secure-messaging-app-users-worry/
+
+Line mobile messaging app hit by systems breach, thousands of accounts leaked:
+https://www.techradar.com/pro/security/line-mobile-messaging-app-hit-by-systems-breach-thousands-of-accounts-leaked
+
+
+## Conclusion:
 
 Users seeking to protect their personal information should be aware of how these messaging platforms work and what data is private. Signal and Bison Relay stand out from the crowd when it comes to privacy. Users must remain vigilant and informed about the privacy policies and security features of the messaging apps they choose to use.
 
