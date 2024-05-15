@@ -54,6 +54,8 @@ This piece will explore messaging apps such as Facebook Messenger, WhatsApp, Sig
 
 Facebook Messenger and WhatsApp: Owned by the same parent company (Meta), both Messenger and WhatsApp use end-to-end encryption (E2EE) by default for text messages, voice calls, and video calls. This is meant to ensure only the sender and receiver can see the messages. Concerns however have been raised over metadata collection and how this plays out in Meta's broader ecosystem.
 
+More information on metadata collection can be read here: https://www.wired.com/story/whatsapp-instagram-facebook-data/#:~:text=Data%20WhatsApp%20can%20share%20with,%2Dcalled%20%E2%80%9CFacebook%20companies%E2%80%9D. 
+
 Signal: Signal is well known for its dedication to protecting privacy. It receives praise for using an open-source protocol, robust encryption methods, and limited data collection practices. Signal places a value on safeguarding user privacy by providing end-to-end encryption, for all interactions and only retaining essential metadata.
 
 Bison Relay: Emerging as a newcomer in the messaging space, Bison Relay emphasizes privacy, including decentralized architecture, and with the use of Zero-knowledge proof (ZKP) users can have enhanced anonymity. Bison Relay aims to provide users with a secure and censorship-resistant platform for communication.
@@ -122,7 +124,7 @@ https://www.securemessagingapps.com/
 Leaks and why certain apps shouldn't be trusted:
 https://www.securemessagingapps.com/ratings/
 
-Comparison of Cross Platform Instant Messaging Clients:
+Comparison of Cross-Platform Instant Messaging Clients:
 https://en.wikipedia.org/wiki/Comparison_of_cross-platform_instant_messaging_clients
 
 Study Rates Signal Most Secure Messaging App, But Should Users Be Worried?:
