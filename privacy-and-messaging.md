@@ -48,7 +48,7 @@ Someone from Bison Relay
 
 In today's society communication plays a key role while issues surrounding privacy and security have become increasingly prominent. With well-known messaging applications vying for our focus, it is crucial to weigh the pros and cons of these platforms.
 
-This piece will explore messaging apps such, as Facebook Messenger, WhatsApp, Signal, WeChat, and Telegram. Additionally, we will look at Bison Relay created by the Decred project as an exciting newcomer.
+This piece will explore messaging apps such as, Facebook Messenger, WhatsApp, Signal, WeChat, and Telegram. Additionally, we will look at Bison Relay created by the Decred project as an exciting newcomer.
 
 ## Encryption Protocols:
 
