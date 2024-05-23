@@ -63,20 +63,20 @@ Conclusion:
 
 # The Power of Taproot Assets: A new way of managing Digital Assets
 
-Bitcoin's path as a pioneering crypto has mainly revolved around enabling monetary transactions without a middleman. However, as the industry evolves, new tools appear to extend the utility of Bitcoin. One of those extensions is the introduction of Taproot Assets. Formerly known as Taro, this protocol uses Bitcoin's Taproot technology and works with the Lightning Network to facilitate creating and managing digital assets on the Bitcoin blockchain. This innovation creates utilities for Bitcoin that go beyond monetary transactions, implementing robust security and enhanced privacy features, united with speed, scalability, and Lightning Network low fees.
+Bitcoin's path as a pioneering crypto has mainly revolved around enabling monetary transactions without a middleman. However, as the industry evolves, new tools appear to extend the utility of Bitcoin. One of those extensions is the introduction of Taproot Assets. Formerly known as Taro, this protocol uses Bitcoin's Taproot technology and works with the Lightning Network to facilitate creating and managing digital items on the Bitcoin blockchain. This innovation creates utilities for Bitcoin that go beyond monetary trades, implementing robust security and enhanced privacy features, united with speed, scalability, and Lightning Network low fees.
 
-Taproot Assets enables blockchain support for various digital assets, from alternative currencies and tokens to unique digital collectibles. By utilizing Taproot, these assets benefit from greater transaction efficiency while maintaining high security. In conjunction with the Lightning Network, Taproot assets ensure that transactions are fast and cost-effective, allowing for frequent and small transactions. This article examines the Taproot Assets protocol, its integration with the Lightning Network, the technical mechanisms it uses, and its potential applications in various sectors. Could this protocol also benefit Decred? Let's find out!
+Taproot Assets enables blockchain support for various digital resources, from alternative currencies and tokens to unique digital collectibles. By utilizing Taproot, these assets benefit from greater transfer efficiency while maintaining high security. In conjunction with the Lightning Network, Taproot assets ensure that exchanges are fast and cost-effective, allowing for frequent and small transactions. This article examines the Taproot Assets protocol, its integration with the Lightning Network, the technical mechanisms it uses, and its potential applications in various sectors. Could this protocol also benefit Decred? Let's find out!
 
 ## Understanding Taproot Assets
 
 Taproot Assets lets you build and exchange many different types of digital goods using the Bitcoin network. These could be anything from digital artwork to a virtual trading card to tokens of a company's shares of stock.
 
-Taproot Assets cleverly utilizes Bitcoin's Taproot technology and integrates seamlessly with regular Bitcoin transactions. This makes it difficult for anyone looking at the Bitcoin blockchain to distinguish Taproot Assets transactions from regular transactions.
+Taproot Assets cleverly utilizes Bitcoin's Taproot technology and integrates seamlessly with regular Bitcoin operations. This makes it difficult for anyone looking at the Bitcoin blockchain to distinguish Taproot Assets transactions from regular transactions.
 
 ## Key Features of Taproot Assets Protocol:
-Integration with Bitcoin's Taproot: Taproot Assets utilizes the Taproot script tree to commit to arbitrary non-script data. This integration ensures that transactions involving Taproot Assets remain indistinguishable from regular Bitcoin transactions to observers not directly involved in the asset transactions.
+Integration with Bitcoin's Taproot: Taproot Assets utilizes the Taproot script tree to commit to arbitrary non-script data. This integration ensures that trades involving Taproot Assets remain indistinguishable from regular Bitcoin transactions to observers not directly involved in the asset movements.
 
-Efficient Data Structures: The protocol uses Merkle-Sum Sparse Merkle Trees (MS-SMT) for efficient and secure asset management. This structure supports operations like proving the existence and size of assets and proving non-existence without revealing all data.
+Efficient Data Structures: The protocol uses Merkle-Sum Sparse Merkle Trees (MS-SMT) for efficient and secure resources management. This structure supports operations like proving the existence and size of assets and proving non-existence without revealing all data.
 
 Lower Costs and Faster Transactions: Bitcoin transactions are getting increasingly expensive, especially when the network is busy. But with Taproot Assets, you can use the Lightning Network (LN), which lets you transact quickly and cheaply. Using the Lightning Network is like having an express lane that bypasses the usual traffic, saving you time and money, especially for small or frequent transactions.
 
@@ -84,7 +84,7 @@ Asset and Provenance Verification: Asset transfers and their provenance can be v
 
 Off-chain Scalability: Taproot Assets can be transferred off-chain using Lightning channels, which support both single-hop and multi-hop transfers. This is crucial for scalability, allowing the system to handle a higher volume of transactions without bloating the Bitcoin blockchain.
 
-Support for Various Asset Types: The protocol supports different assets, from divisible standard assets to non-divisible collectibles. Each type of asset can have unique rules and structures for issuance, transfer, and management.
+Support for Various Asset Types: The protocol supports different items, from divisible standard assets to non-divisible collectibles. Each type of asset can have unique rules and structures for issuance, transfer, and management.
 
 Proof of Reserves/Supply: Using the MS-SMT structure, the protocol can efficiently prove the total amount of any asset and ensure that assets don't get inflated beyond their initial issuance parameters.
 
