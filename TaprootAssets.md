@@ -139,9 +139,9 @@ Secondly, Taproot Assets are engaged in a somewhat restrained sphere of smart co
 
 ## Could it work for Decred?
 
-It is improbable that Decred will include Taproot Assets in its blockchain environment and governance model since the latter has a quite different structure and organization. The idea is quite inspiring for further improvements and development of the Decred system. Here's how Decred could draw from Taproot Assets to introduce similar benefits within its ecosystem:
+Regarding the compatibility of Taproot assets with the Lightning Network (LN), and considering Decred's existing infrastructure, it's quite possible that Decred could adapt a version of the Taproot asset protocol to fit within its LN. Here’s an analysis of how Decred could potentially leverage Taproot-like assets:
 
-Diverse Asset Representation: Building on the idea of Taproot Assets, Decred might also create a separate infrastructure for even more various assets, such as tokens and NFTs. This would attract developers and enterprises interested in developing and managing their unique tokens within Decred, enhancing the platform's versatility.
+Enhanced Asset Representation: Building on the idea of Taproot Assets, Decred might also create a separate infrastructure for even more various assets, such as tokens and NFTs. This would attract developers and enterprises interested in developing and managing their unique tokens within Decred, enhancing the platform's versatility.
 
 Exclusive Asset Issuance: Adopting specific lessons from Taproot Assets, Decred can enable the creation of exclusive assets that would be offered through its highly secure and efficient blockchain. This could include specialized tokens such as membership or access tokens that provide unique benefits and exclusivity secured by blockchain technology.
 
